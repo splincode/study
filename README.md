@@ -25,4 +25,7 @@
 - [x] [<b>2025</b>. A1 English Listening Practice - Transportation](https://www.youtube.com/watch?v=Wlehc1l50bk&t=1s&ab_channel=ListeningTime)
 - [ ] [<b>2025</b>. A1 English Listening Practice - Soccer](https://www.youtube.com/watch?v=jbdoyphEcsc&t=116s&ab_channel=ListeningTime)
 - [ ] [A1 English Listening Practice - Jobs](https://www.youtube.com/watch?v=v95eemWZ-4s&ab_channel=ListeningTime)
+- [ ] [A1 English Listening Practice - Homes](https://www.youtube.com/watch?v=ApzkloKc3Lc&ab_channel=ListeningTime)
+- [ ] [A1 English Listening Practice - Exercise](https://www.youtube.com/watch?v=uxbG_tFS0Jw&ab_channel=ListeningTime)
+- [ ] [A1 English Listening Practice - Social Media Apps](https://www.youtube.com/watch?v=Y6CERK3AXCw&ab_channel=ListeningTime)
 
