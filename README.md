@@ -44,6 +44,8 @@
 - [x] [<b>2025</b>. In-laws | Learn English quickly with podcast | Episode 90](https://www.youtube.com/watch?v=nHoNhQ8nxzQ&t=887s&ab_channel=EnglishPodcastZone)
 - [x] [<b>2025</b>. Board Game| Learn English quickly with podcast | Episode 89](https://www.youtube.com/watch?v=gaP9eUTTVGk&ab_channel=EnglishPodcastZone)
 - [x] [<b>2025</b>. Learn English quickly with podcast | English learning Conversation | Episode 79](https://www.youtube.com/watch?v=3oxv01psZWQ&ab_channel=EnglishPodcastZone)
+- [x] [<b>2025</b>. Money | English learning podcast Conversation | Episode 4](https://www.youtube.com/watch?v=4MvJZCPcUy0&ab_channel=EnglishPodcastZone)
+- [x] [<b>2025</b>. Apologizing | English learning podcast Conversation | Episode 3](https://www.youtube.com/watch?v=F6RdsqVlpRo&ab_channel=EnglishPodcastZone) 
 
 <h4>Speak English With Vanessa <a href="https://www.youtube.com/@SpeakEnglishWithVanessa">▶</a></h4>
 
