@@ -70,7 +70,7 @@
 
 - [x] [<b>2025</b>. Ask for travel information and give directions](https://github.com/splincode/study/blob/main/english/traveling-ask.md)
 - [x] [<b>2025</b>. Indefinite pronouns: something, anything, nothing](https://github.com/splincode/study/blob/main/english/Indefinite%20pronouns%3A%20something%2C%20anything%2C%20nothing.md)
-- [ ] [<b>2025</b>. Questions in the past simple](https://github.com/splincode/study/blob/main/english/questions%20in%20the%20past%20simple.md)
+- [x] [<b>2025</b>. Questions in the past simple](https://github.com/splincode/study/blob/main/english/questions%20in%20the%20past%20simple.md)
 
 <h2>🪐 Астрономия</h2>
 
