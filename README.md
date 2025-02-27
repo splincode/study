@@ -66,7 +66,7 @@
 - [x] [<b>2025</b>. Learn English With Podcast Conversation | English Podcast For Beginners | Ep 83](https://www.youtube.com/watch?v=GZycV7BzpN0&t=12s&ab_channel=PodvoiceStudio)
 - [x] [<b>2025</b>. Learning English With Podcast | Podcast For Beginners | Episode 1](https://www.youtube.com/watch?v=bkScKZwWxhk&t=68s&ab_channel=PodvoiceStudio)
 
-<h4>Custom lessons</h4>
+<h4>Static texts lessons</h4>
 
 - [x] [<b>2025</b>. Ask for travel information and give directions](https://github.com/splincode/study/blob/main/english/traveling-ask.md)
 - [x] [<b>2025</b>. Indefinite pronouns: something, anything, nothing](https://github.com/splincode/study/blob/main/english/Indefinite%20pronouns%3A%20something%2C%20anything%2C%20nothing.md)
