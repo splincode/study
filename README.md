@@ -69,6 +69,7 @@
 <h4>Custom lessons</h4>
 
 - [x] [<b>2025</b>. Ask for travel information and give directions](https://github.com/splincode/study/blob/main/english/traveling-ask.md)
+- [x] [<b>2025</b>. Indefinite pronouns: something, anything, nothing](https://github.com/splincode/study/blob/main/english/Indefinite%20pronouns%3A%20something%2C%20anything%2C%20nothing.md)
 
 <h2>🪐 Астрономия</h2>
 
