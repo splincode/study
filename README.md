@@ -2,6 +2,7 @@
 
 <h2>🧑‍💻 Разработка</h2>
 
+- [x] [<b>2025</b>. Don't Use Effects 🚫 and What To Do Instead 🌟 w/ Alex Rickabaugh, Angular Team](https://www.youtube.com/watch?v=aKxcIQMWSNU&t=88s&ab_channel=TechStackNation)
 - [x] [<b>2025</b>. Как не уронить прод? Даниэль Халиулин про стабильный софт, качество и разработку / ЧТУК](https://www.youtube.com/watch?v=P0yrAzqHjIQ&t=24s&ab_channel=MobileDeveloper)
 - [x] [<b>2024</b>. Trunk Based Development как замена Git Flow / Владимир Агеев (Тинькофф)](https://www.youtube.com/watch?v=qpGhQXC7ha0&ab_channel=FrontendChannel), [конспект](https://github.com/splincode/study/tree/main/Trunk%20Based%20Development%20%D0%BA%D0%B0%D0%BA%20%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0%20Git%20Flow%20)
 - [x] [<b>2019</b>. Отрисовать за 16 мс / Глеб Михеев (Beta Digital Production)](https://www.youtube.com/watch?v=HlKijvTa_h0&ab_channel=HighLoadChannel)
@@ -74,6 +75,7 @@
 
 <h2>🪐 Астрономия</h2>
 
+- [x] [<b>2025</b>. ОУМУАМУА - главная тайна Солнечной системы. STARSHIP догонит его? Семихатов, Сурдин, Панов.](https://www.youtube.com/watch?v=4xCp8ceNvkw&ab_channel=%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%D0%9F%D0%BB%D1%8E%D1%81)
 - [x] [<b>2025</b>. «ИНТЕРСТЕЛЛАР»: США НЕ БЫЛИ НА ЛУНЕ? РУССКИЙ СЛЕД. НАУКА НЕ НУЖНА? Семихатов, Сурдин, Карпов.](https://www.youtube.com/watch?v=miheS43AasA&t=7877s&ab_channel=%D0%9D%D0%B0%D1%83%D1%87-%D0%A2%D0%BE%D0%BF)
 - [x] [<b>2025</b>. АСТЕРОИД ЛЕТИТ К ЗЕМЛЕ?](https://www.youtube.com/watch?v=holpCOZwuMQ&ab_channel=%D0%9D%D0%B5%D0%B7%D0%B5%D0%BC%D0%BD%D0%BE%D0%B9%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%B0%D0%A1%D1%83%D1%80%D0%B4%D0%B8%D0%BD%D0%B0)
 - [x] [<b>2025</b>. Сергей Попов. Астрономические открытия - 2024](https://www.youtube.com/watch?v=nma7v1JeX1E&t=427s&ab_channel=%D0%9B%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%B9%D0%96%D0%B8%D0%B2%D0%BE%D0%B9%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)
