@@ -10,6 +10,13 @@
 
 <h2>🇬🇧 Английский язык</h2>
 
+<h4>Englex School</h4>
+
+- [x] [<b>2025</b>. Ask for travel information and give directions](https://github.com/splincode/study/blob/main/english/traveling-ask.md)
+- [x] [<b>2025</b>. Indefinite pronouns: something, anything, nothing](https://github.com/splincode/study/blob/main/english/Indefinite%20pronouns%3A%20something%2C%20anything%2C%20nothing.md)
+- [x] [<b>2025</b>. Questions in the past simple](https://github.com/splincode/study/blob/main/english/questions%20in%20the%20past%20simple.md)
+- [x] [<b>2025</b>. Tourist activities](https://github.com/splincode/study/blob/main/english/tourist-activities.md)
+
 <h4>Listening Channel <a href="https://www.youtube.com/@listeningtimepodcast">▶</a></h4>
 
 - [x] [<b>2025</b>. FREE English Listening Practice Seminar](https://www.youtube.com/watch?v=y1075RPJbow&ab_channel=ListeningTime)
@@ -66,12 +73,6 @@
 
 - [x] [<b>2025</b>. Learn English With Podcast Conversation | English Podcast For Beginners | Ep 83](https://www.youtube.com/watch?v=GZycV7BzpN0&t=12s&ab_channel=PodvoiceStudio)
 - [x] [<b>2025</b>. Learning English With Podcast | Podcast For Beginners | Episode 1](https://www.youtube.com/watch?v=bkScKZwWxhk&t=68s&ab_channel=PodvoiceStudio)
-
-<h4>Static texts lessons</h4>
-
-- [x] [<b>2025</b>. Ask for travel information and give directions](https://github.com/splincode/study/blob/main/english/traveling-ask.md)
-- [x] [<b>2025</b>. Indefinite pronouns: something, anything, nothing](https://github.com/splincode/study/blob/main/english/Indefinite%20pronouns%3A%20something%2C%20anything%2C%20nothing.md)
-- [x] [<b>2025</b>. Questions in the past simple](https://github.com/splincode/study/blob/main/english/questions%20in%20the%20past%20simple.md)
 
 <h2>🪐 Астрономия</h2>
 
