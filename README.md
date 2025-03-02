@@ -84,14 +84,25 @@
 
 <h4>Learn English by Pocket Passport <a href="https://www.youtube.com/@LearnEnglishbyPocketPassport">▶</a></h4>
 
-- [x] [New Year's Traditions in Canada, the USA and Japan | Cultural Awareness | ESL Conversation](https://www.youtube.com/watch?v=zytac4cwnek&ab_channel=LearnEnglishbyPocketPassport)
+- [x] [<b>2024</b>. New Year's Traditions in Canada, the USA and Japan | Cultural Awareness | ESL Conversation](https://www.youtube.com/watch?v=zytac4cwnek&ab_channel=LearnEnglishbyPocketPassport)
 
 <h4>АНГЛИЙСКИЙ ЯЗЫК ПО ПЛЕЙЛИСТАМ <a href="https://www.youtube.com/@englishplaylists">▶</a></h4>
 
 - [x] [<b>2024</b>. ВЫУЧИМ 7000 СЛОВ - СУПЕР ТРЕНИРОВКА. АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ ДЛЯ НАЧИНАЮЩИХ. АНГЛИЙСКИЕ СЛОВА](https://www.youtube.com/watch?v=dbfhsv68poY&t=40760s&ab_channel=%D0%90%D0%9D%D0%93%D0%9B%D0%98%D0%99%D0%A1%D0%9A%D0%98%D0%99%D0%AF%D0%97%D0%AB%D0%9A%D0%9F%D0%9E%D0%9F%D0%9B%D0%95%D0%99%D0%9B%D0%98%D0%A1%D0%A2%D0%90%D0%9C)
+- [x] [<b>2024</b>. Английский язык с нуля за 50 уроков A0. Английский с нуля. Английский для начинающих. Уроки Урок 1](https://www.youtube.com/watch?v=QbSrhuSNOnI&t=752s&ab_channel=%D0%90%D0%9D%D0%93%D0%9B%D0%98%D0%99%D0%A1%D0%9A%D0%98%D0%99%D0%AF%D0%97%D0%AB%D0%9A%D0%9F%D0%9E%D0%9F%D0%9B%D0%95%D0%99%D0%9B%D0%98%D0%A1%D0%A2%D0%90%D0%9C)
+- [x] [<b>2024</b>. Английский язык с нуля за 50 уроков A0 Английский с нуля Английский для начинающих Уроки Урок 2](https://www.youtube.com/watch?v=rKyw3_YTUoM&ab_channel=%D0%90%D0%9D%D0%93%D0%9B%D0%98%D0%99%D0%A1%D0%9A%D0%98%D0%99%D0%AF%D0%97%D0%AB%D0%9A%D0%9F%D0%9E%D0%9F%D0%9B%D0%95%D0%99%D0%9B%D0%98%D0%A1%D0%A2%D0%90%D0%9C)
+- [x] [<b>2024</b>. Английский язык с нуля за 50 уроков A0 Английский с нуля Английский для начинающих Уроки Урок 3](https://www.youtube.com/watch?v=Fl1noHgkuBc&ab_channel=%D0%90%D0%9D%D0%93%D0%9B%D0%98%D0%99%D0%A1%D0%9A%D0%98%D0%99%D0%AF%D0%97%D0%AB%D0%9A%D0%9F%D0%9E%D0%9F%D0%9B%D0%95%D0%99%D0%9B%D0%98%D0%A1%D0%A2%D0%90%D0%9C)
+- [x] [<b>2024</b>. Английский язык с нуля за 50 уроков A0 Английский с нуля Английский для начинающих Уроки Урок 4](https://www.youtube.com/watch?v=2Ut1oSCuGck&ab_channel=%D0%90%D0%9D%D0%93%D0%9B%D0%98%D0%99%D0%A1%D0%9A%D0%98%D0%99%D0%AF%D0%97%D0%AB%D0%9A%D0%9F%D0%9E%D0%9F%D0%9B%D0%95%D0%99%D0%9B%D0%98%D0%A1%D0%A2%D0%90%D0%9C)
+- [x] [<b>2024</b>. Английский язык с нуля за 50 уроков A0 Английский с нуля Английский для начинающих Уроки Урок 5](https://www.youtube.com/watch?v=3o8jahuZ2f0&ab_channel=%D0%90%D0%9D%D0%93%D0%9B%D0%98%D0%99%D0%A1%D0%9A%D0%98%D0%99%D0%AF%D0%97%D0%AB%D0%9A%D0%9F%D0%9E%D0%9F%D0%9B%D0%95%D0%99%D0%9B%D0%98%D0%A1%D0%A2%D0%90%D0%9C)
+- [x] [<b>2024</b>. Английский язык с нуля за 50 уроков A0 Английский с нуля Английский для начинающих Уроки Урок 6](https://www.youtube.com/watch?v=Bhc_X9XGua0&ab_channel=%D0%90%D0%9D%D0%93%D0%9B%D0%98%D0%99%D0%A1%D0%9A%D0%98%D0%99%D0%AF%D0%97%D0%AB%D0%9A%D0%9F%D0%9E%D0%9F%D0%9B%D0%95%D0%99%D0%9B%D0%98%D0%A1%D0%A2%D0%90%D0%9C)
+
+<h4>Yeu Xa <a href="https://www.youtube.com/@easyenglishpodcast">▶</a></h4>
+
+- [x] [<b>2024</b>. Easy English Podcast Talking About Past Simple Tense Of "Tobe" (Episode 2)](https://www.youtube.com/watch?v=GJHQ5EFEkBs&t=541s&ab_channel=EasyEnglishPodcast)
 
 <h2>🪐 Астрономия и естествознание</h2>
 
+- [x] [<b>2025</b>. ТАЙНЫ ОБРАТНОЙ СТОРОНЫ ЛУНЫ. Владимир Сурдин](https://www.youtube.com/watch?v=JD2q3IOrTvY&ab_channel=%D0%9D%D0%B5%D0%B7%D0%B5%D0%BC%D0%BD%D0%BE%D0%B9%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%B0%D0%A1%D1%83%D1%80%D0%B4%D0%B8%D0%BD%D0%B0)
 - [x] [<b>2025</b>. ОУМУАМУА - главная тайна Солнечной системы. STARSHIP догонит его? Семихатов, Сурдин, Панов.](https://www.youtube.com/watch?v=4xCp8ceNvkw&ab_channel=%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%D0%9F%D0%BB%D1%8E%D1%81)
 - [x] [<b>2025</b>. «ИНТЕРСТЕЛЛАР»: США НЕ БЫЛИ НА ЛУНЕ? РУССКИЙ СЛЕД. НАУКА НЕ НУЖНА? Семихатов, Сурдин, Карпов.](https://www.youtube.com/watch?v=miheS43AasA&t=7877s&ab_channel=%D0%9D%D0%B0%D1%83%D1%87-%D0%A2%D0%BE%D0%BF)
 - [x] [<b>2025</b>. АСТЕРОИД ЛЕТИТ К ЗЕМЛЕ?](https://www.youtube.com/watch?v=holpCOZwuMQ&ab_channel=%D0%9D%D0%B5%D0%B7%D0%B5%D0%BC%D0%BD%D0%BE%D0%B9%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%B0%D0%A1%D1%83%D1%80%D0%B4%D0%B8%D0%BD%D0%B0)
@@ -105,10 +116,19 @@
 - [x] [<b>2025</b>. ИИ ПЕРЕВЕДЁТ ИНОПЛАНЕТЯН? / США НЕ ЛЕТЯТ НА ЛУНУ? / СЛЕДЫ ЧЁРНЫХ ДЫР НА ЗЕМЛЕ. Владимир Сурдин](https://www.youtube.com/watch?v=BB2L2qNuHQA&t=1195s&ab_channel=%D0%9D%D0%B5%D0%B7%D0%B5%D0%BC%D0%BD%D0%BE%D0%B9%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%B0%D0%A1%D1%83%D1%80%D0%B4%D0%B8%D0%BD%D0%B0)
 - [x] [<b>2025</b>. СЕРГЕЙ ПОПОВ: НОВАЯ ЭРА АСТРОФИЗИКИ](https://www.youtube.com/watch?v=jHJhwUPAIqk&t=2s&ab_channel=%D0%9E%D0%A1%D0%9D%D0%9E%D0%92%D0%90)
 - [x] [<b>2025</b>. ИНДИЯ: КАСТОВАЯ СИСТЕМА, БОЛЛИВУД, НЕПРИКАСАЕМЫЕ И КОРОВЫ, 500 ЯЗЫКОВ](https://www.youtube.com/watch?v=ZpyV2dKxh_o&t=2s&ab_channel=%D0%9E%D0%A1%D0%9D%D0%9E%D0%92%D0%90)
-- [x] [<b>2025</b>. ТАЙНЫ ОБРАТНОЙ СТОРОНЫ ЛУНЫ. Владимир Сурдин](https://www.youtube.com/watch?v=JD2q3IOrTvY&ab_channel=%D0%9D%D0%B5%D0%B7%D0%B5%D0%BC%D0%BD%D0%BE%D0%B9%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%B0%D0%A1%D1%83%D1%80%D0%B4%D0%B8%D0%BD%D0%B0)
 - [x] [<b>2024</b>. Что такое черная дыра простыми словами? Подробная лекция о природе черных дыр от Сергея Попова](https://www.youtube.com/watch?v=RmHEqCBtUDI&t=6s&ab_channel=%D0%A0%D0%91%D0%9A%D0%A2%D1%80%D0%B5%D0%BD%D0%B4%D1%8B)
-- [x] [Документальный фильм "ВЕКТОР НАУКИ" 1 серия](https://www.youtube.com/watch?v=bCGMORkw1yE&ab_channel=%D0%92%D0%B0%D0%BB%D0%B4%D0%B8%D1%81%D0%9F%D0%B5%D0%BB%D1%8C%D1%88)
-- [x] [Документальный фильм "ВЕКТОР НАУКИ" 2 серия](https://www.youtube.com/watch?v=snYTML74tTI&ab_channel=%D0%92%D0%B0%D0%BB%D0%B4%D0%B8%D1%81%D0%9F%D0%B5%D0%BB%D1%8C%D1%88)
+- [x] [<b>2024</b>. Документальный фильм "ВЕКТОР НАУКИ" 1 серия](https://www.youtube.com/watch?v=bCGMORkw1yE&ab_channel=%D0%92%D0%B0%D0%BB%D0%B4%D0%B8%D1%81%D0%9F%D0%B5%D0%BB%D1%8C%D1%88)
+- [x] [<b>2024</b>. Документальный фильм "ВЕКТОР НАУКИ" 2 серия](https://www.youtube.com/watch?v=snYTML74tTI&ab_channel=%D0%92%D0%B0%D0%BB%D0%B4%D0%B8%D1%81%D0%9F%D0%B5%D0%BB%D1%8C%D1%88)
+- [x] [<b>2024</b>. НАШ ДОМ - СОЛНЕЧНАЯ СИСТЕМА. В ЧЕМ ПОДВОХ?](https://www.youtube.com/watch?v=I5Gh_pciOvo&t=1627s&ab_channel=%D0%9E%D0%A1%D0%9D%D0%9E%D0%92%D0%90)
+- [x] [<b>2024</b>. ПАРАЛЛЕЛЬНЫЕ МИРЫ, ЧЁРНЫЕ ДЫРЫ, НАСТРОЙКА ВСЕЛЕННОЙ. Физика от Побединского, Семихатова и Сурдина](https://www.youtube.com/watch?v=5R499TmPcAA&t=15s&ab_channel=%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%D0%9F%D0%BB%D1%8E%D1%81)
+- [x] [<b>2024</b>. ЧЕРЕЗ ВРЕМЯ И ПРОСТРАНСТВО - НА МАШИНЕ ВРЕМЕНИ. Владимир Сурдин](https://www.youtube.com/watch?v=seX0Hjk0XjQ&ab_channel=%D0%9D%D0%B5%D0%B7%D0%B5%D0%BC%D0%BD%D0%BE%D0%B9%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%B0%D0%A1%D1%83%D1%80%D0%B4%D0%B8%D0%BD%D0%B0)
+- [x] [<b>2024</b>. Как мозг мешает вам учить язык: секреты нейробиологии для изучения языков](https://www.youtube.com/watch?v=nScZloSiX6U&ab_channel=NIHAOSTUDY)
+- [x] [<b>2024</b>. Владимир Сурдин - тайны темной материи!](https://www.youtube.com/watch?v=DIeHtk31CQk&t=4239s&ab_channel=%D0%97%D0%B0%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B0%D0%BC%D0%B8%D0%B2%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9)
+- [x] [<b>2024</b>. НАМ ПИШУТ ИЗ КОСМОСА? / НА МАРСЕ ВЫРАСТУТ ДЕРЕВЬЯ? / КУДА ПРОПАЛА ЗВЕЗДА? Владимир Сурдин](https://www.youtube.com/watch?v=VNGxXlmaw_0&ab_channel=%D0%9D%D0%B5%D0%B7%D0%B5%D0%BC%D0%BD%D0%BE%D0%B9%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%B0%D0%A1%D1%83%D1%80%D0%B4%D0%B8%D0%BD%D0%B0)
+- [x] [<b>2024</b>. Владимир Сурдин - будущее Земли!](https://www.youtube.com/watch?v=7dT0h57hyHc&ab_channel=%D0%97%D0%B0%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B0%D0%BC%D0%B8%D0%B2%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9)
+- [x] [<b>2024</b>. Полетим ли мы к звёздам и чем фантастика может помочь науке? Алексей Пилько и Владимир Сурдин](https://www.youtube.com/watch?v=RpTXHMurI4E&t=33s&ab_channel=%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B913)
+- [x] [<b>2024</b>. ВСЁ, ЧТО МЫ НЕ ЗНАЛИ О СНЕ. Семихатов, Сурдин и Полуэктов.](https://www.youtube.com/watch?v=w-XGG22_WoU&ab_channel=%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%D0%9F%D0%BB%D1%8E%D1%81)
+- [x] [<b>2024</b>. Нейробиолог: Как не отупеть к 50 годам. Связь слабоумия и привычек | Владимир Алипов](https://www.youtube.com/watch?v=TprZ-83fAiE&t=7s&ab_channel=%D0%9F%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D1%8F%D0%93%D0%BE%D0%BB%D1%83%D0%B1%D0%B5%D0%B2%D0%B0)
 
 <h2>🧑‍🔬 Философия и психология</h2>
 
@@ -122,7 +142,17 @@
 - [x] [<b>2025</b>. National Air and Space Museum - Washington DC - What to Expect - My Visit There - Tour Review](https://www.youtube.com/watch?v=M-SHfj3E8YQ&ab_channel=Let%27sGoSeeIt)
 - [x] [<b>2025</b>. Лос-Анджелес – столица грез и бездомных. Дно и роскошь Калифорнии / В США со Стасом Натанзоном](https://www.youtube.com/watch?v=2ImLUnw8ONs&t=53s&ab_channel=%D0%9F%D0%BE%D0%B3%D0%BD%D0%B0%D0%BB%D0%B8%21)
 - [x] [<b>2025</b>. Отпуск в Лос-Анджелесе. Куда сходить и что посмотреть в городе ангелов.](https://www.youtube.com/watch?v=win4saspZmI&ab_channel=TravelossO)
+- [x] [<b>2024</b>. Facts about California](https://www.youtube.com/watch?v=_qMLQcWu_84&t=15s&ab_channel=Westermann)
+- [x] [<b>2024</b>. 15 facts about the USA | Englisch-Video für den Unterricht](https://www.youtube.com/watch?v=kaUajqGp1XE&ab_channel=Westermann)
 
-<h2>История</h2>
+<h2>🏛️ История</h2>
 
 - [x] [<b>2024</b>. АНДРЕЙ ЛАНЬКОВ: ГЛАВНЫЕ СЕКРЕТЫ и ПРАВИЛА ЖИЗНИ В СЕВЕРНОЙ КОРЕЕ](https://www.youtube.com/watch?v=ZOJp0LN_76w&t=2508s&ab_channel=%D0%9E%D0%A1%D0%9D%D0%9E%D0%92%D0%90)
+- [x] [<b>2024</b>. ПОНЯТЬ КИТАЙ: ПОЧЕМУ ТАКОЙ БОЛЬШОЙ, ИЕРОГЛИФЫ и iPhone-КОММУНИЗМ](https://www.youtube.com/watch?v=zWo99EWVb1U&t=8s&ab_channel=%D0%9E%D0%A1%D0%9D%D0%9E%D0%92%D0%90)
+
+<h2>💰 Экономика</h2>
+
+- [x] [<b>2024</b>. Спокойствия при Трампе не будет / Большой прогноз на 2025 по акциям, экономике и валютам](https://www.youtube.com/watch?v=gPN8BxiCNk8&t=24s&ab_channel=%D0%94%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8%D0%BD%D0%B5%D1%81%D0%BF%D1%8F%D1%82)
+- [x] [<b>2024</b>. Тяжелый год? Подводим экономические итоги 2024 года и прогнозируем 2025 год](https://www.youtube.com/watch?v=WNLWcTICzlA&t=483s&ab_channel=%D0%9D%D0%9E.%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0%D0%B8%D0%B7%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8)
+- [x] [<b>2024</b>. Рынок выдохнул: сколько продолжится рост? / Два сценария для экономики России и инвесторов на 2025](https://www.youtube.com/watch?v=uH1wzPAttP8&t=1798s&ab_channel=%D0%94%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8%D0%BD%D0%B5%D1%81%D0%BF%D1%8F%D1%82)
+- [x] [<b>2024</b>. Ставка задушит российский рынок? / Реалии 2025 года: с чем столкнется экономика России и весь мир](https://www.youtube.com/watch?v=OMasiigYZUg&t=4412s&ab_channel=%D0%94%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8%D0%BD%D0%B5%D1%81%D0%BF%D1%8F%D1%82)
