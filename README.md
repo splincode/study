@@ -74,7 +74,23 @@
 - [x] [<b>2025</b>. Learn English With Podcast Conversation | English Podcast For Beginners | Ep 83](https://www.youtube.com/watch?v=GZycV7BzpN0&t=12s&ab_channel=PodvoiceStudio)
 - [x] [<b>2025</b>. Learning English With Podcast | Podcast For Beginners | Episode 1](https://www.youtube.com/watch?v=bkScKZwWxhk&t=68s&ab_channel=PodvoiceStudio)
 
-<h2>🪐 Астрономия</h2>
+<h4>Shaw English Online <a href="https://www.youtube.com/@ShawEnglishOnline">▶</a></h4>
+
+- [x] [<b>2024</b>. English Grammar: a / an + Noun](https://www.youtube.com/watch?v=sX7eLnvedMo&ab_channel=ShawEnglishOnline)
+- [x] [<b>2024</b>. English Grammar Course for Beginners Learn Basic English Grammar with Esther](https://www.youtube.com/watch?v=KTt7gk_EPY0&t=12s&ab_channel=ShawEnglishOnline)
+- [x] [<b>2024</b>. 100 Common English Questions with ESTHER | How to Ask and Answer Questions in English](https://www.youtube.com/watch?v=BjuhgzNEG0Y&t=1s&ab_channel=ShawEnglishOnline)
+- [x] [<b>2024</b>. English Consonants + Vowels](https://www.youtube.com/watch?v=exIcb2_PTVM&ab_channel=ShawEnglishOnline)
+- [x] [<b>2024</b>. Beginner English Introduction](https://www.youtube.com/watch?v=CbPy_CjJR90&ab_channel=ShawEnglishOnline)
+
+<h4>Learn English by Pocket Passport <a href="https://www.youtube.com/@LearnEnglishbyPocketPassport">▶</a></h4>
+
+- [x] [New Year's Traditions in Canada, the USA and Japan | Cultural Awareness | ESL Conversation](https://www.youtube.com/watch?v=zytac4cwnek&ab_channel=LearnEnglishbyPocketPassport)
+
+<h4>АНГЛИЙСКИЙ ЯЗЫК ПО ПЛЕЙЛИСТАМ <a href="https://www.youtube.com/@englishplaylists">▶</a></h4>
+
+- [x] [<b>2024</b>. ВЫУЧИМ 7000 СЛОВ - СУПЕР ТРЕНИРОВКА. АНГЛИЙСКИЙ ЯЗЫК АНГЛИЙСКИЙ ДЛЯ НАЧИНАЮЩИХ. АНГЛИЙСКИЕ СЛОВА](https://www.youtube.com/watch?v=dbfhsv68poY&t=40760s&ab_channel=%D0%90%D0%9D%D0%93%D0%9B%D0%98%D0%99%D0%A1%D0%9A%D0%98%D0%99%D0%AF%D0%97%D0%AB%D0%9A%D0%9F%D0%9E%D0%9F%D0%9B%D0%95%D0%99%D0%9B%D0%98%D0%A1%D0%A2%D0%90%D0%9C)
+
+<h2>🪐 Астрономия и естествознание</h2>
 
 - [x] [<b>2025</b>. ОУМУАМУА - главная тайна Солнечной системы. STARSHIP догонит его? Семихатов, Сурдин, Панов.](https://www.youtube.com/watch?v=4xCp8ceNvkw&ab_channel=%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%D0%9F%D0%BB%D1%8E%D1%81)
 - [x] [<b>2025</b>. «ИНТЕРСТЕЛЛАР»: США НЕ БЫЛИ НА ЛУНЕ? РУССКИЙ СЛЕД. НАУКА НЕ НУЖНА? Семихатов, Сурдин, Карпов.](https://www.youtube.com/watch?v=miheS43AasA&t=7877s&ab_channel=%D0%9D%D0%B0%D1%83%D1%87-%D0%A2%D0%BE%D0%BF)
@@ -89,6 +105,10 @@
 - [x] [<b>2025</b>. ИИ ПЕРЕВЕДЁТ ИНОПЛАНЕТЯН? / США НЕ ЛЕТЯТ НА ЛУНУ? / СЛЕДЫ ЧЁРНЫХ ДЫР НА ЗЕМЛЕ. Владимир Сурдин](https://www.youtube.com/watch?v=BB2L2qNuHQA&t=1195s&ab_channel=%D0%9D%D0%B5%D0%B7%D0%B5%D0%BC%D0%BD%D0%BE%D0%B9%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%B0%D0%A1%D1%83%D1%80%D0%B4%D0%B8%D0%BD%D0%B0)
 - [x] [<b>2025</b>. СЕРГЕЙ ПОПОВ: НОВАЯ ЭРА АСТРОФИЗИКИ](https://www.youtube.com/watch?v=jHJhwUPAIqk&t=2s&ab_channel=%D0%9E%D0%A1%D0%9D%D0%9E%D0%92%D0%90)
 - [x] [<b>2025</b>. ИНДИЯ: КАСТОВАЯ СИСТЕМА, БОЛЛИВУД, НЕПРИКАСАЕМЫЕ И КОРОВЫ, 500 ЯЗЫКОВ](https://www.youtube.com/watch?v=ZpyV2dKxh_o&t=2s&ab_channel=%D0%9E%D0%A1%D0%9D%D0%9E%D0%92%D0%90)
+- [x] [<b>2025</b>. ТАЙНЫ ОБРАТНОЙ СТОРОНЫ ЛУНЫ. Владимир Сурдин](https://www.youtube.com/watch?v=JD2q3IOrTvY&ab_channel=%D0%9D%D0%B5%D0%B7%D0%B5%D0%BC%D0%BD%D0%BE%D0%B9%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%B0%D0%A1%D1%83%D1%80%D0%B4%D0%B8%D0%BD%D0%B0)
+- [x] [<b>2024</b>. Что такое черная дыра простыми словами? Подробная лекция о природе черных дыр от Сергея Попова](https://www.youtube.com/watch?v=RmHEqCBtUDI&t=6s&ab_channel=%D0%A0%D0%91%D0%9A%D0%A2%D1%80%D0%B5%D0%BD%D0%B4%D1%8B)
+- [x] [Документальный фильм "ВЕКТОР НАУКИ" 1 серия](https://www.youtube.com/watch?v=bCGMORkw1yE&ab_channel=%D0%92%D0%B0%D0%BB%D0%B4%D0%B8%D1%81%D0%9F%D0%B5%D0%BB%D1%8C%D1%88)
+- [x] [Документальный фильм "ВЕКТОР НАУКИ" 2 серия](https://www.youtube.com/watch?v=snYTML74tTI&ab_channel=%D0%92%D0%B0%D0%BB%D0%B4%D0%B8%D1%81%D0%9F%D0%B5%D0%BB%D1%8C%D1%88)
 
 <h2>🧑‍🔬 Философия и психология</h2>
 
@@ -102,3 +122,7 @@
 - [x] [<b>2025</b>. National Air and Space Museum - Washington DC - What to Expect - My Visit There - Tour Review](https://www.youtube.com/watch?v=M-SHfj3E8YQ&ab_channel=Let%27sGoSeeIt)
 - [x] [<b>2025</b>. Лос-Анджелес – столица грез и бездомных. Дно и роскошь Калифорнии / В США со Стасом Натанзоном](https://www.youtube.com/watch?v=2ImLUnw8ONs&t=53s&ab_channel=%D0%9F%D0%BE%D0%B3%D0%BD%D0%B0%D0%BB%D0%B8%21)
 - [x] [<b>2025</b>. Отпуск в Лос-Анджелесе. Куда сходить и что посмотреть в городе ангелов.](https://www.youtube.com/watch?v=win4saspZmI&ab_channel=TravelossO)
+
+<h2>История</h2>
+
+- [x] [<b>2024</b>. АНДРЕЙ ЛАНЬКОВ: ГЛАВНЫЕ СЕКРЕТЫ и ПРАВИЛА ЖИЗНИ В СЕВЕРНОЙ КОРЕЕ](https://www.youtube.com/watch?v=ZOJp0LN_76w&t=2508s&ab_channel=%D0%9E%D0%A1%D0%9D%D0%9E%D0%92%D0%90)
