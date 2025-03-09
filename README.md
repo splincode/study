@@ -16,6 +16,7 @@
 - [x] [<b>2025</b>. Indefinite pronouns: something, anything, nothing](https://github.com/splincode/study/blob/main/english/Indefinite%20pronouns%3A%20something%2C%20anything%2C%20nothing.md)
 - [x] [<b>2025</b>. Questions in the past simple](https://github.com/splincode/study/blob/main/english/questions%20in%20the%20past%20simple.md)
 - [x] [<b>2025</b>. Tourist activities](https://github.com/splincode/study/blob/main/english/tourist-activities.md)
+- [x] [<b>2025</b>. Words](https://github.com/splincode/study/blob/main/english/words.md)
 
 <h4>Listening Channel <a href="https://www.youtube.com/@listeningtimepodcast">▶</a></h4>
 
