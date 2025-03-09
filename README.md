@@ -100,8 +100,9 @@
 
 - [x] [<b>2024</b>. Easy English Podcast Talking About Past Simple Tense Of "Tobe" (Episode 2)](https://www.youtube.com/watch?v=GJHQ5EFEkBs&t=541s&ab_channel=EasyEnglishPodcast)
 
-<h2>🪐 Астрономия и естествознание</h2>
+<h2>🪐 Наука (астрономия, физика, естествознание)</h2>
 
+- [x] [<b>2025</b>. Что такое атом?](https://www.youtube.com/watch?v=zHLC4a9mf7w)
 - [x] [<b>2025</b>. Владимир Сурдин: Опять на Луну](https://www.youtube.com/watch?v=xMO6HzRa0Xs)
 - [x] [<b>2025</b>. ТАЙНЫ ОБРАТНОЙ СТОРОНЫ ЛУНЫ. Владимир Сурдин](https://www.youtube.com/watch?v=JD2q3IOrTvY&ab_channel=%D0%9D%D0%B5%D0%B7%D0%B5%D0%BC%D0%BD%D0%BE%D0%B9%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%B0%D0%A1%D1%83%D1%80%D0%B4%D0%B8%D0%BD%D0%B0)
 - [x] [<b>2025</b>. ОУМУАМУА - главная тайна Солнечной системы. STARSHIP догонит его? Семихатов, Сурдин, Панов.](https://www.youtube.com/watch?v=4xCp8ceNvkw&ab_channel=%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%D0%9F%D0%BB%D1%8E%D1%81)
@@ -139,6 +140,7 @@
 
 <h2>🏖️ Путешествия</h2>
 
+- [x] [<b>2025</b>. Впервые в Сеуле! Сравниваю с Японией 🇯🇵 vs 🇰🇷 Культурный шок, кафе, корейская еда](https://www.youtube.com/watch?v=pn8lbS-QFts)
 - [x] [<b>2025</b>. 20 Things to do in Los Angeles](https://www.youtube.com/watch?v=lO1nTh52OCg&ab_channel=CaliforniaThroughMyLens)
 - [x] [<b>2025</b>. National Air and Space Museum - Washington DC - What to Expect - My Visit There - Tour Review](https://www.youtube.com/watch?v=M-SHfj3E8YQ&ab_channel=Let%27sGoSeeIt)
 - [x] [<b>2025</b>. Лос-Анджелес – столица грез и бездомных. Дно и роскошь Калифорнии / В США со Стасом Натанзоном](https://www.youtube.com/watch?v=2ImLUnw8ONs&t=53s&ab_channel=%D0%9F%D0%BE%D0%B3%D0%BD%D0%B0%D0%BB%D0%B8%21)
@@ -148,6 +150,7 @@
 
 <h2>🏛️ История</h2>
 
+- [x] [<b>2025</b>. История Кореи за 10 минут. От Объединения до Разделения](https://www.youtube.com/watch?v=tw7IQEjGct4)
 - [x] [<b>2024</b>. АНДРЕЙ ЛАНЬКОВ: ГЛАВНЫЕ СЕКРЕТЫ и ПРАВИЛА ЖИЗНИ В СЕВЕРНОЙ КОРЕЕ](https://www.youtube.com/watch?v=ZOJp0LN_76w&t=2508s&ab_channel=%D0%9E%D0%A1%D0%9D%D0%9E%D0%92%D0%90)
 - [x] [<b>2024</b>. ПОНЯТЬ КИТАЙ: ПОЧЕМУ ТАКОЙ БОЛЬШОЙ, ИЕРОГЛИФЫ и iPhone-КОММУНИЗМ](https://www.youtube.com/watch?v=zWo99EWVb1U&t=8s&ab_channel=%D0%9E%D0%A1%D0%9D%D0%9E%D0%92%D0%90)
 
