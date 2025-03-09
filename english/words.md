@@ -16,6 +16,22 @@
 - **hurricane** - ураган
 - **lightning** - молния
 - **thunder** - гром
+- **aisle** - ряд, проход
+- **basket** - корзина
+- **butcher's** - мясная лавка
+- **cashier** - кассир
+- **checkout** - касса
+- **change** - сдача
+- **florist's** - цветочный магазин
+- **greengrocer's** - фруктовая и овощная лавка
+- **grocery shop/store** - продуктовый магазин
+- **hardware shop/store** - хозяйственный, строительный магазин
+- **pet shop/store** - зоомагазин
+- **receipt** - чек
+- **scales** - весы
+- **shelf** - полка
+- **stationery shop/store** - канцелярский магазин
+- **trolley** - тележка
 
 ### Adjectives / Прилагательные
 
