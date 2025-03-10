@@ -145,6 +145,8 @@
 <h2>🏖️ Путешествия</h2>
 
 - [x] [<b>2025</b>. Впервые в Сеуле! Сравниваю с Японией 🇯🇵 vs 🇰🇷 Культурный шок, кафе, корейская еда](https://www.youtube.com/watch?v=pn8lbS-QFts)
+- [x] [<b>2025</b>. Китай для новичков: 7 вещей, которые нельзя делать иностранцам](https://www.youtube.com/watch?v=KehJFetyXHs)
+- [x] [<b>2025</b>. ЧТО ПОСМОТРЕТЬ В ЛОС-АНДЖЕЛЕСЕ ЗА НЕСКОЛЬКО ДНЕЙ? | VLOG](https://www.youtube.com/watch?v=E1Wln74j1Eg&t=5s&ab_channel=AnnaSadukova)
 - [x] [<b>2025</b>. 20 Things to do in Los Angeles](https://www.youtube.com/watch?v=lO1nTh52OCg&ab_channel=CaliforniaThroughMyLens)
 - [x] [<b>2025</b>. National Air and Space Museum - Washington DC - What to Expect - My Visit There - Tour Review](https://www.youtube.com/watch?v=M-SHfj3E8YQ&ab_channel=Let%27sGoSeeIt)
 - [x] [<b>2025</b>. Лос-Анджелес – столица грез и бездомных. Дно и роскошь Калифорнии / В США со Стасом Натанзоном](https://www.youtube.com/watch?v=2ImLUnw8ONs&t=53s&ab_channel=%D0%9F%D0%BE%D0%B3%D0%BD%D0%B0%D0%BB%D0%B8%21)
