@@ -32,6 +32,21 @@
 - **shelf** - полка
 - **stationery shop/store** - канцелярский магазин
 - **trolley** - тележка
+- **bartender** - бармен
+- **bathroom/restroom** - туалет, уборная
+- **chef** - шеф, повар
+- **coaster** - подставка под стакан
+- **cutlery** - столовые приборы
+- **dessert** - десерт
+- **fork** - вилка
+- **knife** - нож
+- **main course/entrée** - основное блюдо
+- **napkin** - салфетка
+- **spoon** - ложка
+- **starter/appetizer** - закуска
+- **tableware** - посуда	
+- **waiter** - официант
+- **waitress** - официантка
 
 ### Adjectives / Прилагательные
 
@@ -66,3 +81,6 @@
 - **It’s snowing** - Идет снег
 - **It’s sunny** - Солнечно
 - **It’s windy** - Ветрено
+- **book/reserve a table** - бронировать стол
+- **leave a tip** - оставлять чаевые
+- **split the bill** - делить счет пополам
