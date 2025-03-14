@@ -17,6 +17,7 @@
 - [x] [<b>2025</b>. Questions in the past simple](https://github.com/splincode/study/blob/main/english/questions%20in%20the%20past%20simple.md)
 - [x] [<b>2025</b>. Tourist activities](https://github.com/splincode/study/blob/main/english/tourist-activities.md)
 - [x] [<b>2025</b>. Words](https://github.com/splincode/study/blob/main/english/words.md)
+- [x] [<b>2025</b>. Ordering food](https://github.com/splincode/study/blob/main/english/ordering-food.md)
 
 <h4>Listening Channel <a href="https://www.youtube.com/@listeningtimepodcast">▶</a></h4>
 
