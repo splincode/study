@@ -19,6 +19,10 @@
 - [x] [<b>2025</b>. Ordering food](https://github.com/splincode/study/blob/main/english/ordering-food.md)
 - [x] [<b>2025</b>. Words](https://github.com/splincode/study/blob/main/english/words.md)
 
+<h4>Инглекс <a href="https://www.youtube.com/@EnglexSchool">▶</a></h4>
+
+- [x] [<b>2025</b>. Present Simple & Present Continuous | Грамматика английского | Онлайн-школа «Инглекс»](https://www.youtube.com/watch?v=vqZuyxUqf0M&t=724s&ab_channel=%D0%98%D0%BD%D0%B3%D0%BB%D0%B5%D0%BA%D1%81)
+
 <h4>Listening Channel <a href="https://www.youtube.com/@listeningtimepodcast">▶</a></h4>
 
 - [x] [<b>2025</b>. FREE English Listening Practice Seminar](https://www.youtube.com/watch?v=y1075RPJbow&ab_channel=ListeningTime)
