@@ -18,6 +18,7 @@
 - [x] [<b>2025</b>. Questions in the past simple](https://github.com/splincode/study/blob/main/english/questions%20in%20the%20past%20simple.md)
 - [x] [<b>2025</b>. Tourist activities](https://github.com/splincode/study/blob/main/english/tourist-activities.md)
 - [x] [<b>2025</b>. Ordering food](https://github.com/splincode/study/blob/main/english/ordering-food.md)
+- [x] [<b>2025</b>. Present perfect and past simple](https://github.com/splincode/study/blob/main/english/present%20perfect%20and%20past%20simple.md)
 - [x] [<b>2025</b>. Words](https://github.com/splincode/study/blob/main/english/words.md)
 
 <h4>Инглекс <a href="https://www.youtube.com/@EnglexSchool">▶</a></h4>
