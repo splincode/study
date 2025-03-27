@@ -61,6 +61,8 @@
 - [x] [<b>2025</b>. In-laws | Learn English quickly with podcast | Episode 90](https://www.youtube.com/watch?v=nHoNhQ8nxzQ&t=887s&ab_channel=EnglishPodcastZone)
 - [x] [<b>2025</b>. Board Game| Learn English quickly with podcast | Episode 89](https://www.youtube.com/watch?v=gaP9eUTTVGk&ab_channel=EnglishPodcastZone)
 - [x] [<b>2025</b>. Learn English quickly with podcast | English learning Conversation | Episode 79](https://www.youtube.com/watch?v=3oxv01psZWQ&ab_channel=EnglishPodcastZone)
+- [x] [<b>2025</b>. Learn English quickly with podcast | English learning Conversation | Episode 10](https://www.youtube.com/watch?v=Rlv68sTkl70)
+- [x] [<b>2025</b>. Eating at a restaurant | English learning podcast Conversation | Episode 7](https://www.youtube.com/watch?v=FRBdKfPuBn0)
 - [x] [<b>2025</b>. Money | English learning podcast Conversation | Episode 4](https://www.youtube.com/watch?v=4MvJZCPcUy0&ab_channel=EnglishPodcastZone)
 - [x] [<b>2025</b>. Apologizing | English learning podcast Conversation | Episode 3](https://www.youtube.com/watch?v=F6RdsqVlpRo&ab_channel=EnglishPodcastZone) 
 
@@ -111,6 +113,7 @@
 
 <h2>🪐 Наука (астрономия, физика, естествознание)</h2>
 
+- [x] [<b>2025</b>. ИИ МОЖЕТ ПОЙТИ ПРОТИВ ЛЮДЕЙ? КАК ДУМАЕТ? БОИТСЯ СМЕРТИ? Семихатов, Сурдин, Масюк](https://www.youtube.com/watch?v=O4KE6vyv9JU)
 - [x] [<b>2025</b>. НА МАРСЕ НАШЛИ СЛЕДЫ ЖИЗНИ? / КОМЕТА ИЛИ ПОТЕРЯННЫЙ ЗОНД? / НОВЫЙ ТЕЛЕСКОП SPHEREx. Владимир Сурдин](https://www.youtube.com/watch?v=-Jwy9KrIG-c&ab_channel=%D0%9D%D0%B5%D0%B7%D0%B5%D0%BC%D0%BD%D0%BE%D0%B9%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%B0%D0%A1%D1%83%D1%80%D0%B4%D0%B8%D0%BD%D0%B0)
 - [x] [<b>2025</b>. КАК ЗАЩИЩАЮТ ЗЕМЛЮ ОТ АСТЕРОИДОВ. ЯДЕРНАЯ БОМБА ПРОТИВ АСТЕРОИДА. Владимир Сурдин](https://www.youtube.com/watch?v=-yEFLKEArp4&t=816s)
 - [x] [<b>2025</b>. НОВЫЙ СПОСОБ СВЯЗИ С ИНОПЛАНЕТЯНАМИ / ПЛЯЖИ НА МАРСЕ И ОКЕАН НА СПУТНИКЕ ЮПИТЕРА. Владимир Сурдин](https://www.youtube.com/watch?v=fByEYG9Yj0k)
