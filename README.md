@@ -11,6 +11,7 @@
 
 <h2>🇬🇧 Английский язык</h2>
 
+- [x] [Learn English quickly with podcast | English learning Conversation | Episode 12](https://www.youtube.com/watch?v=2uir5rPGWHc&t=316s)
 - [x] [<b>2025</b>. Ask for travel information and give directions](https://github.com/splincode/study/blob/main/english/traveling-ask.md)
 - [x] [<b>2025</b>. VOCABULARY: conversations](https://github.com/splincode/study/blob/main/english/VOCABULARY-conversations.md)
 - [x] [<b>2025</b>. Indefinite pronouns: something, anything, nothing](https://github.com/splincode/study/blob/main/english/Indefinite%20pronouns%3A%20something%2C%20anything%2C%20nothing.md)
@@ -79,6 +80,7 @@
 
 <h2>🪐 Наука (астрономия, физика, естествознание)</h2>
 
+- [x] [<b>2025</b>. ОТКУДА НА МАРСЕ: РУСАЛКА, КРАБ, ДОМ, АНГАР И ЛЕС? / НАМ ПИШЕТ КИП ТОРН. Владимир Сурдин](https://www.youtube.com/watch?v=QuAT-S2Gd1o)
 - [x] [<b>2025</b>. ИИ МОЖЕТ ПОЙТИ ПРОТИВ ЛЮДЕЙ? КАК ДУМАЕТ? БОИТСЯ СМЕРТИ? Семихатов, Сурдин, Масюк](https://www.youtube.com/watch?v=O4KE6vyv9JU)
 - [x] [<b>2025</b>. КАК ГРАВИТАЦИЯ ОРГАНИЗОВАЛА ВСЕ НА СВЕТЕ / Алексей Семихатов](https://www.youtube.com/watch?v=2X93MRDksVk)
 - [x] [<b>2025</b>. НА МАРСЕ НАШЛИ СЛЕДЫ ЖИЗНИ? / КОМЕТА ИЛИ ПОТЕРЯННЫЙ ЗОНД? / НОВЫЙ ТЕЛЕСКОП SPHEREx. Владимир Сурдин](https://www.youtube.com/watch?v=-Jwy9KrIG-c&ab_channel=%D0%9D%D0%B5%D0%B7%D0%B5%D0%BC%D0%BD%D0%BE%D0%B9%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%B0%D0%A1%D1%83%D1%80%D0%B4%D0%B8%D0%BD%D0%B0)
@@ -130,6 +132,8 @@
 - [x] [<b>2025</b>. Для чего нужно искусство? Татьяна Черниговская](https://www.youtube.com/watch?v=VFPL4oj_E0o&ab_channel=%D0%98%D0%A1%D0%9A%D0%A3%D0%A1%D0%A1%D0%A2%D0%92%D0%9E%D0%96%D0%98%D0%A2%D0%AC)
 - [x] [<b>2025</b>. ИЛОН МАСК / ЭТО ДЕЙСТВИТЕЛЬНО ПОЛЕЗНО...?! ПЛАНЕТА ЛЮДЕЙ Мышление и язык Черниговская Т.](https://www.youtube.com/watch?v=16WuJqN7KqU&t=275s&ab_channel=%D0%9F%D0%A0%D0%9E%D0%A4%D0%95%D0%A1%D0%A1%D0%9E%D0%A0-%D0%94%D0%90)
 - [x] [<b>2025</b>. Мастер Шаолинь Ши Хен И: Как Перестать Слишком Много Думать?](https://www.youtube.com/watch?v=PbLqHcdXWDI)
+- [x] [<b>2025</b>. Татьяна Черниговская: Как Управлять Эмоциями и Своей Жизнью в 2025! ❤️🧠](https://www.youtube.com/watch?v=XmGncoEPXNY&t=2434s)
+- [x] [<b>2025</b>. ЗНАТЬ ЭТИ 3 ВЕЩИ И НЕ БЕСПОКОИТЬСЯ О БУДУЩЕМ ТАТЬЯНА ЧЕРНИГОВСКАЯ](https://www.youtube.com/watch?v=pxiL1TpeLhA&t=1s&ab_channel=%D0%9F%D0%A1%D0%98%D0%A5%D0%9E%D0%9B%D0%9E%D0%93%D0%98%D0%AF%D0%A1%D0%90%D0%9C%D0%9E%D0%A0%D0%90%D0%97%D0%92%D0%98%D0%A2%D0%98%D0%AF)
 
 <h2>🏖️ Путешествия</h2>
 
