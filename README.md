@@ -11,7 +11,8 @@
 
 <h2>🇬🇧 Английский язык</h2>
 
-- [x] [Learn English quickly with podcast | English learning Conversation | Episode 12](https://www.youtube.com/watch?v=2uir5rPGWHc&t=316s)
+- [x] [<b>2025</b>. First conditional](https://github.com/splincode/study/blob/main/english/First%20conditional.md)
+- [x] [<b>2025</b>. Learn English quickly with podcast | English learning Conversation | Episode 12](https://www.youtube.com/watch?v=2uir5rPGWHc&t=316s)
 - [x] [<b>2025</b>. Ask for travel information and give directions](https://github.com/splincode/study/blob/main/english/traveling-ask.md)
 - [x] [<b>2025</b>. VOCABULARY: conversations](https://github.com/splincode/study/blob/main/english/VOCABULARY-conversations.md)
 - [x] [<b>2025</b>. Indefinite pronouns: something, anything, nothing](https://github.com/splincode/study/blob/main/english/Indefinite%20pronouns%3A%20something%2C%20anything%2C%20nothing.md)
