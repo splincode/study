@@ -11,6 +11,8 @@
 
 <h2>🇬🇧 Английский язык</h2>
 
+- [x] [<b>2025</b>. Views #1298 | Intermediate (B1) Chile Travel Tips](https://www.elllo.org/english/1251/1298-Daniel_Hana-ChileTips.htm)
+- [x] [<b>2025</b>. Views #862 | Intermediate (B1) Tokyo vs. New York](https://www.elllo.org/english/0851/T861-Mari-NYTokyo.htm)
 - [x] [<b>2025</b>. Second conditional](https://github.com/splincode/study/blob/main/english/Second%20conditional.md)
 - [x] [<b>2025</b>. Past perfect](https://github.com/splincode/study/blob/main/english/Past%20perfect.md)
 - [x] [<b>2025</b>. Future time clauses](https://github.com/splincode/study/blob/main/english/Future%20time%20clauses.md)
