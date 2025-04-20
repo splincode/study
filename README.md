@@ -11,6 +11,9 @@
 
 <h2>🇬🇧 Английский язык</h2>
 
+- [x] [<b>2025</b>. Teaching for America](https://www.elllo.org/grammar/B1-02-Causative-Verbs-Sarah-Teach-for-US.htm)
+- [x] [<b>2025</b>. Party at the Park](https://www.elllo.org/grammar/B1-14-Subordinating-Conjunctions-Condition-Darcy-Party.htm)
+- [x] [<b>2025</b>. How International are you?](https://www.elllo.org/grammar/B1-07-Present-Perfect-Experiences-Katie-International.htm)
 - [x] [<b>2025</b>. Views #1298 | Intermediate (B1) Chile Travel Tips](https://www.elllo.org/english/1251/1298-Daniel_Hana-ChileTips.htm)
 - [x] [<b>2025</b>. Views #862 | Intermediate (B1) Tokyo vs. New York](https://www.elllo.org/english/0851/T861-Mari-NYTokyo.htm)
 - [x] [<b>2025</b>. Second conditional](https://github.com/splincode/study/blob/main/english/Second%20conditional.md)
