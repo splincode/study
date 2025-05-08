@@ -169,7 +169,6 @@
 
 - [x] [<b>2025</b>. Ланьков о сексуальной жизни в Северной Корее](https://www.youtube.com/watch?v=Y2IkT-1Ss1E&t=30s&ab_channel=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9%D0%9B%D0%B0%D0%BD%D1%8C%D0%BA%D0%BE%D0%B2)
 - [x] [<b>2025</b>. Ланьков о побегах из Северной Кореи](https://www.youtube.com/watch?v=hs-uCxbq71o&t=3641s&ab_channel=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9%D0%9B%D0%B0%D0%BD%D1%8C%D0%BA%D0%BE%D0%B2)
-- [x] [<b>2025</b>. Ланьков о побегах из Северной Кореи](https://www.youtube.com/watch?v=hs-uCxbq71o&t=859s)
 - [x] [<b>2025</b>. Как Восток стал Западом, чтобы стать собой. Александр Баунов и Андрей Ланьков. Бауновкаст](https://www.youtube.com/watch?v=IxHdHpVvde0&t=2129s&ab_channel=Baunov_Tube)
 - [x] [<b>2025</b>. Может ли Россия стать Северной Кореей. Александр Баунов и Андрей Ланьков. Бауновкаст](https://www.youtube.com/watch?v=h8tvj81vAhM&ab_channel=Baunov_Tube)
 - [x] [<b>2025</b>. Ланьков про "корейский сценарий" мирных переговоров и окончания войны](https://www.youtube.com/watch?v=TkoAZnqOWEI&t=2461s)
