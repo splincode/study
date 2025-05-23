@@ -91,7 +91,8 @@
 
 <h2>🪐 Наука (астрономия, физика, естествознание)</h2>
 
-- [x] [Владимир Сурдин: нож из метеорита (Kuji Podcast 164)](https://www.youtube.com/watch?v=N2eHUNl0DmM&ab_channel=kujipodcast)
+- [x] [<b>2025</b>. МЫ УВИДИМ ВЗРЫВ ЗВЕЗДЫ. ОН ОПАСЕН ДЛЯ ЛЮДЕЙ? Владимир Сурдин](https://www.youtube.com/watch?v=G_AIHRVI8cM)
+- [x] [<b>2025</b>. Владимир Сурдин: нож из метеорита (Kuji Podcast 164)](https://www.youtube.com/watch?v=N2eHUNl0DmM&ab_channel=kujipodcast)
 - [x] [<b>2025</b>. "ЗВЕЗДА-УБИЙЦА" ЛЕТИТ К ЗЕМЛЕ. ЭТО ОПАСНО? «КОСМОС-482». Владимир Сурдин](https://www.youtube.com/watch?v=ki0I27zHWTQ&ab_channel=%D0%9D%D0%B5%D0%B7%D0%B5%D0%BC%D0%BD%D0%BE%D0%B9%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%B0%D0%A1%D1%83%D1%80%D0%B4%D0%B8%D0%BD%D0%B0)
 - [x] [<b>2025</b>. ЧТО ЛЮДЯМ ДЕЛАТЬ ДАЛЬШЕ / КАК ПОЯВИЛОСЬ ЧЕЛОВЕЧЕСТВО ЧЕРНИГОВСКАЯ ТАТЬЯНА](https://www.youtube.com/watch?v=mByG80HIIS0)
 - [x] [<b>2025</b>. НА ЭКЗОПЛАНЕТЕ K2-18B НАШЛИ ПРИЗНАКИ ЖИЗНИ. Владимир Сурдин и Дмитрий Вибе](https://www.youtube.com/watch?v=yeLFUvOfUt0)
@@ -155,19 +156,6 @@
 - [x] [<b>2025</b>. Татьяна Черниговская: Как Управлять Эмоциями и Своей Жизнью в 2025! ❤️🧠](https://www.youtube.com/watch?v=XmGncoEPXNY&t=2434s)
 - [x] [<b>2025</b>. ЗНАТЬ ЭТИ 3 ВЕЩИ И НЕ БЕСПОКОИТЬСЯ О БУДУЩЕМ ТАТЬЯНА ЧЕРНИГОВСКАЯ](https://www.youtube.com/watch?v=pxiL1TpeLhA&t=1s&ab_channel=%D0%9F%D0%A1%D0%98%D0%A5%D0%9E%D0%9B%D0%9E%D0%93%D0%98%D0%AF%D0%A1%D0%90%D0%9C%D0%9E%D0%A0%D0%90%D0%97%D0%92%D0%98%D0%A2%D0%98%D0%AF)
 
-<h2>🏖️ Путешествия</h2>
-
-- [x] [<b>2025</b>. Профессор Лоуренс Краусс: Возникновение Вселенной](https://www.youtube.com/watch?v=FVsqF36SyQQ&ab_channel=VertDider)
-- [x] [<b>2025</b>. Впервые в Сеуле! Сравниваю с Японией 🇯🇵 vs 🇰🇷 Культурный шок, кафе, корейская еда](https://www.youtube.com/watch?v=pn8lbS-QFts)
-- [x] [<b>2025</b>. Китай для новичков: 7 вещей, которые нельзя делать иностранцам](https://www.youtube.com/watch?v=KehJFetyXHs)
-- [x] [<b>2025</b>. ЧТО ПОСМОТРЕТЬ В ЛОС-АНДЖЕЛЕСЕ ЗА НЕСКОЛЬКО ДНЕЙ? | VLOG](https://www.youtube.com/watch?v=E1Wln74j1Eg&t=5s&ab_channel=AnnaSadukova)
-- [x] [<b>2025</b>. 20 Things to do in Los Angeles](https://www.youtube.com/watch?v=lO1nTh52OCg&ab_channel=CaliforniaThroughMyLens)
-- [x] [<b>2025</b>. National Air and Space Museum - Washington DC - What to Expect - My Visit There - Tour Review](https://www.youtube.com/watch?v=M-SHfj3E8YQ&ab_channel=Let%27sGoSeeIt)
-- [x] [<b>2025</b>. Лос-Анджелес – столица грез и бездомных. Дно и роскошь Калифорнии / В США со Стасом Натанзоном](https://www.youtube.com/watch?v=2ImLUnw8ONs&t=53s&ab_channel=%D0%9F%D0%BE%D0%B3%D0%BD%D0%B0%D0%BB%D0%B8%21)
-- [x] [<b>2025</b>. Отпуск в Лос-Анджелесе. Куда сходить и что посмотреть в городе ангелов.](https://www.youtube.com/watch?v=win4saspZmI&ab_channel=TravelossO)
-- [x] [<b>2024</b>. Facts about California](https://www.youtube.com/watch?v=_qMLQcWu_84&t=15s&ab_channel=Westermann)
-- [x] [<b>2024</b>. 15 facts about the USA | Englisch-Video für den Unterricht](https://www.youtube.com/watch?v=kaUajqGp1XE&ab_channel=Westermann)
-
 <h2>🏛️ История</h2>
 
 - [x] [<b>2025</b>. Ланьков о сексуальной жизни в Северной Корее](https://www.youtube.com/watch?v=Y2IkT-1Ss1E&t=30s&ab_channel=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9%D0%9B%D0%B0%D0%BD%D1%8C%D0%BA%D0%BE%D0%B2)
@@ -189,3 +177,23 @@
 - [x] [<b>2024</b>. Рынок выдохнул: сколько продолжится рост? / Два сценария для экономики России и инвесторов на 2025](https://www.youtube.com/watch?v=uH1wzPAttP8&t=1798s&ab_channel=%D0%94%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8%D0%BD%D0%B5%D1%81%D0%BF%D1%8F%D1%82)
 - [x] [<b>2024</b>. Отрезвляющий разговор об экономике России. Что случится после перемирия? Наталья Зубаревич](https://www.youtube.com/watch?v=Mo5w8NLY9sI)
 - [x] [<b>2024</b>. Ставка задушит российский рынок? / Реалии 2025 года: с чем столкнется экономика России и весь мир](https://www.youtube.com/watch?v=OMasiigYZUg&t=4412s&ab_channel=%D0%94%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8%D0%BD%D0%B5%D1%81%D0%BF%D1%8F%D1%82)
+
+<h2>🏖️ Путешествия</h2>
+
+- [x] [<b>2025</b>. The ULTIMATE guide to visiting Summit One Vanderbilt | Tips & Tricks](https://www.youtube.com/watch?v=Q8vjhiFW0cE)
+- [x] [<b>2025</b>. STATUE OF LIBERTY TOUR GUIDE shares HOW TO VISIT, TIPS AND TRICKS, FUN FACTS](https://www.youtube.com/watch?v=_29amLE9u6s&t=384s)
+- [x] [<b>2025</b>. ⁴ᴷ Statue Of Liberty Pedestal View Tour 2022 (Full Version)](https://www.youtube.com/watch?v=lMiI10RoI2A&t=1065s)
+- [x] [<b>2025</b>. What's inside the Statue of Liberty?](https://www.youtube.com/watch?v=GkI_2yiIb48&t=126s)
+- [x] [<b>2025</b>. Экскурсия к Статуе Свободы в Нью-Йорке. Как сэкономить и сколько стоит?](https://www.youtube.com/watch?v=bOsY_JToXiE&t=642s)
+- [x] [<b>2025</b>. Everything You Need to Know About the Roosevelt Island Tramway in NYC](https://www.youtube.com/watch?v=A3cJPsmpwik)
+- [x] [<b>2025</b>. Top of the Rock Observation Deck New York City Tour](https://www.youtube.com/watch?v=0sW3QkPJPHI)
+- [x] [<b>2025</b>. Профессор Лоуренс Краусс: Возникновение Вселенной](https://www.youtube.com/watch?v=FVsqF36SyQQ&ab_channel=VertDider)
+- [x] [<b>2025</b>. Впервые в Сеуле! Сравниваю с Японией 🇯🇵 vs 🇰🇷 Культурный шок, кафе, корейская еда](https://www.youtube.com/watch?v=pn8lbS-QFts)
+- [x] [<b>2025</b>. Китай для новичков: 7 вещей, которые нельзя делать иностранцам](https://www.youtube.com/watch?v=KehJFetyXHs)
+- [x] [<b>2025</b>. ЧТО ПОСМОТРЕТЬ В ЛОС-АНДЖЕЛЕСЕ ЗА НЕСКОЛЬКО ДНЕЙ? | VLOG](https://www.youtube.com/watch?v=E1Wln74j1Eg&t=5s&ab_channel=AnnaSadukova)
+- [x] [<b>2025</b>. 20 Things to do in Los Angeles](https://www.youtube.com/watch?v=lO1nTh52OCg&ab_channel=CaliforniaThroughMyLens)
+- [x] [<b>2025</b>. National Air and Space Museum - Washington DC - What to Expect - My Visit There - Tour Review](https://www.youtube.com/watch?v=M-SHfj3E8YQ&ab_channel=Let%27sGoSeeIt)
+- [x] [<b>2025</b>. Лос-Анджелес – столица грез и бездомных. Дно и роскошь Калифорнии / В США со Стасом Натанзоном](https://www.youtube.com/watch?v=2ImLUnw8ONs&t=53s&ab_channel=%D0%9F%D0%BE%D0%B3%D0%BD%D0%B0%D0%BB%D0%B8%21)
+- [x] [<b>2025</b>. Отпуск в Лос-Анджелесе. Куда сходить и что посмотреть в городе ангелов.](https://www.youtube.com/watch?v=win4saspZmI&ab_channel=TravelossO)
+- [x] [<b>2024</b>. Facts about California](https://www.youtube.com/watch?v=_qMLQcWu_84&t=15s&ab_channel=Westermann)
+- [x] [<b>2024</b>. 15 facts about the USA | Englisch-Video für den Unterricht](https://www.youtube.com/watch?v=kaUajqGp1XE&ab_channel=Westermann)
