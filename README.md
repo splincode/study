@@ -180,6 +180,7 @@
 
 <h2>🏖️ Путешествия</h2>
 
+- [x] [<b>2025</b>. Как уничтожили Калифорнию - крах американской мечты](https://www.youtube.com/watch?v=t_1p7k_wQKw&ab_channel=%D0%A1%D1%82%D0%BE%D0%BB%D0%B8%D1%86%D0%B0%D0%9C%D0%B8%D1%80%D0%B0)
 - [x] [<b>2025</b>. What has MIAMI turned into - the most developed city in the USA](https://www.youtube.com/watch?v=T6pf_17lbdc&ab_channel=%D0%A1%D1%82%D0%BE%D0%BB%D0%B8%D1%86%D0%B0%D0%9C%D0%B8%D1%80%D0%B0)
 - [x] [<b>2025</b>. The ULTIMATE guide to visiting Summit One Vanderbilt | Tips & Tricks](https://www.youtube.com/watch?v=Q8vjhiFW0cE)
 - [x] [<b>2025</b>. STATUE OF LIBERTY TOUR GUIDE shares HOW TO VISIT, TIPS AND TRICKS, FUN FACTS](https://www.youtube.com/watch?v=_29amLE9u6s&t=384s)
