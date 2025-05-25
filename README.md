@@ -180,6 +180,8 @@
 
 <h2>🏖️ Путешествия</h2>
 
+- [x] [<b>2025</b>. How To See NYC in 3 Days (Without The Stress!)](https://www.youtube.com/watch?v=TT2R5B9F3EQ&ab_channel=JonBarr)
+- [x] [<b>2025</b>. DUMBO, Brooklyn- 12 BEST Things To Do (NYC Travel Guide) !🗽](https://www.youtube.com/watch?v=OUqyqZg65D4&ab_channel=JonBarr)
 - [x] [<b>2025</b>. Как уничтожили Калифорнию - крах американской мечты](https://www.youtube.com/watch?v=t_1p7k_wQKw&ab_channel=%D0%A1%D1%82%D0%BE%D0%BB%D0%B8%D1%86%D0%B0%D0%9C%D0%B8%D1%80%D0%B0)
 - [x] [<b>2025</b>. What has MIAMI turned into - the most developed city in the USA](https://www.youtube.com/watch?v=T6pf_17lbdc&ab_channel=%D0%A1%D1%82%D0%BE%D0%BB%D0%B8%D1%86%D0%B0%D0%9C%D0%B8%D1%80%D0%B0)
 - [x] [<b>2025</b>. The ULTIMATE guide to visiting Summit One Vanderbilt | Tips & Tricks](https://www.youtube.com/watch?v=Q8vjhiFW0cE)
