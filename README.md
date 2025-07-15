@@ -2,6 +2,7 @@
 
 <h2>🧑‍💻 Разработка</h2>
 
+- [x] [<b>2025</b>. 483. State of HTML и другие, бета TypeScript 5.9, clip-path, AI-трафик, React больше не чемпион](https://www.youtube.com/watch?v=x8SRZaEUG58&ab_channel=%D0%92%D0%B5%D0%B1-%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D1%8B)
 - [x] [<b>2025</b>. 482. Стилизация форм, Vercel, a11y в Европе, эксперименты с заголовками, Wasm в V8, сноски в вебе](https://www.youtube.com/watch?v=Gxljb14HXfU&t=5969s&ab_channel=%D0%92%D0%B5%D0%B1-%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D1%8B)
 - [x] [<b>2025</b>. Don't Use Effects 🚫 and What To Do Instead 🌟 w/ Alex Rickabaugh, Angular Team](https://www.youtube.com/watch?v=aKxcIQMWSNU&t=88s&ab_channel=TechStackNation)
 - [x] [<b>2025</b>. A 10x faster TypeScript](https://www.youtube.com/watch?v=pNlq-EVld70&t=317s)
