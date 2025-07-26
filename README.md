@@ -2,6 +2,7 @@
 
 <h2>🧑‍💻 Разработка</h2>
 
+- [x] [<b>2025</b>. 484. Igalia и Interop, браузеры без WebKit на iOS, DOM-шаблонизация, 10 лет Wasm, плато перформанса](https://www.youtube.com/watch?v=DhIGd-FEyMg&t=5787s&ab_channel=%D0%92%D0%B5%D0%B1-%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D1%8B)
 - [x] [<b>2025</b>. 483. State of HTML и другие, бета TypeScript 5.9, clip-path, AI-трафик, React больше не чемпион](https://www.youtube.com/watch?v=x8SRZaEUG58&ab_channel=%D0%92%D0%B5%D0%B1-%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D1%8B)
 - [x] [<b>2025</b>. 482. Стилизация форм, Vercel, a11y в Европе, эксперименты с заголовками, Wasm в V8, сноски в вебе](https://www.youtube.com/watch?v=Gxljb14HXfU&t=5969s&ab_channel=%D0%92%D0%B5%D0%B1-%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D1%8B)
 - [x] [<b>2025</b>. Don't Use Effects 🚫 and What To Do Instead 🌟 w/ Alex Rickabaugh, Angular Team](https://www.youtube.com/watch?v=aKxcIQMWSNU&t=88s&ab_channel=TechStackNation)
@@ -177,6 +178,7 @@
 
 <h2>🏛️ История</h2>
 
+- [x] [<b>2025</b>. Китай и Тайвань: война с братским народом неизбежна?](https://www.youtube.com/watch?v=TKio_wnqpvY&ab_channel=%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2%D1%82%D0%B0%D0%BA%D0%BE%D0%B9%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2)
 - [x] [<b>2025</b>. Ланьков: армия Северной Кореи в РФ, рабочие мигранты и Вторая корейская война | Не выходя из комнаты](https://www.youtube.com/watch?v=I_q2c9zUKfA&t=2596s&ab_channel=MashRoom)
 - [x] [<b>2025</b>. ЛАНЬКОВ: Как и почему началась война в Корее?](https://www.youtube.com/watch?v=9mod2UF3Yik&ab_channel=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9%D0%9B%D0%B0%D0%BD%D1%8C%D0%BA%D0%BE%D0%B2)
 - [x] [<b>2025</b>. Андрей Ланьков: самые необычные вопросы о Южной Корее](https://www.youtube.com/watch?v=wtphLsC3P1Q&t=1254s&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%90%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2)
