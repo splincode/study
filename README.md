@@ -2,6 +2,7 @@
 
 <h2>🧑‍💻 Разработка</h2>
 
+- [x] [<b>2025</b>. Live coding and Q/A with the Angular Team | August 2025](https://www.youtube.com/watch?v=QAiQ-X5wb7o&t=5555s&ab_channel=Angular)
 - [x] [<b>2025</b>. 484. Igalia и Interop, браузеры без WebKit на iOS, DOM-шаблонизация, 10 лет Wasm, плато перформанса](https://www.youtube.com/watch?v=DhIGd-FEyMg&t=5787s&ab_channel=%D0%92%D0%B5%D0%B1-%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D1%8B)
 - [x] [<b>2025</b>. 483. State of HTML и другие, бета TypeScript 5.9, clip-path, AI-трафик, React больше не чемпион](https://www.youtube.com/watch?v=x8SRZaEUG58&ab_channel=%D0%92%D0%B5%D0%B1-%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D1%8B)
 - [x] [<b>2025</b>. 482. Стилизация форм, Vercel, a11y в Европе, эксперименты с заголовками, Wasm в V8, сноски в вебе](https://www.youtube.com/watch?v=Gxljb14HXfU&t=5969s&ab_channel=%D0%92%D0%B5%D0%B1-%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D1%8B)
@@ -14,6 +15,7 @@
 
 <h2>🇬🇧 Английский язык</h2>
 
+- [x] [<b>2025</b>. Все времена английского за 15 минут | Грамматика английского | Онлайн-школа «Инглекс»](https://www.youtube.com/watch?v=lcA9WnkPZUo&ab_channel=%D0%98%D0%BD%D0%B3%D0%BB%D0%B5%D0%BA%D1%81)
 - [x] [<b>2025</b>. Learn English quickly with podcast | English learning Conversation | Episode 13](https://www.youtube.com/watch?v=ciL5V-d8-5c&ab_channel=EnglishPodcastZone)
 - [x] [<b>2025</b>. test-english.com](https://test-english.com/)
 - [x] [<b>2025</b>. Can, could, Be able to](https://github.com/splincode/study/blob/main/english/can-could-be_able_to.md)
@@ -95,6 +97,7 @@
 
 <h2>🪐 Наука (астрономия, физика, естествознание)</h2>
 
+- [x] [<b>2025</b>. #РАЗБОР угроз из космоса (Владимир Сурдин)](https://www.youtube.com/watch?v=PkK10N2tAas&ab_channel=%23%D0%A0%D0%90%D0%97%D0%91%D0%9E%D0%A0)
 - [x] [<b>2025</b>. Владимир Сурдин - повторить большой взрыв!](https://www.youtube.com/watch?v=PXxRaVFiOEc&t=2093s&ab_channel=%D0%97%D0%B0%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B0%D0%BC%D0%B8%D0%B2%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9)
 - [x] [<b>2025</b>. МЫ НАЙДЁМ ВНЕЗЕМНЫЕ ЦИВИЛИЗАЦИИ. Владимир Сурдин](https://www.youtube.com/watch?v=k2EA0QrtdoQ&t=2513s&ab_channel=%D0%9D%D0%B5%D0%B7%D0%B5%D0%BC%D0%BD%D0%BE%D0%B9%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%B0%D0%A1%D1%83%D1%80%D0%B4%D0%B8%D0%BD%D0%B0)
 - [x] [<b>2025</b>. НАМ УГРОЖАЕТ МЕЖЗВЁЗДНАЯ КОМЕТА? 3I/ATLAS - НОВЫЙ ОУМУАМУА. Владимир Сурдин](https://www.youtube.com/watch?v=i8yCLl5ymLI&t=424s&ab_channel=%D0%9D%D0%B5%D0%B7%D0%B5%D0%BC%D0%BD%D0%BE%D0%B9%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%B0%D0%A1%D1%83%D1%80%D0%B4%D0%B8%D0%BD%D0%B0)
@@ -165,6 +168,7 @@
 
 <h2>🧑‍🔬 Философия и психология</h2>
 
+- [x] [<b>2025</b>. НА МАРС НИКТО НЕ ПОЛЕТИТ / РАСКРЫТ ОБМАН ИНТЕРНЕТА ЧЕРНИГОВСКАЯ ТАТЬЯНА](https://www.youtube.com/watch?v=-CiGfXl_Jr0&ab_channel=%D0%9F%D0%A0%D0%9E%D0%A4%D0%95%D0%A1%D0%A1%D0%9E%D0%A0-%D0%94%D0%90)
 - [x] [<b>2025</b>. Медитация и гигиена мозга. Татьяна Черниговская](https://www.youtube.com/watch?v=QRJsCju6_T8&ab_channel=%D0%98%D0%A1%D0%9A%D0%A3%D0%A1%D0%A1%D0%A2%D0%92%D0%9E%D0%96%D0%98%D0%A2%D0%AC)
 - [x] [<b>2025</b>. НЕРВНЫЕ ОКОНЧАНИЯ / СЛУХ / ВОРОНИЙ УМ И МУЗЫКА ЧЕРНИГОВСКАЯ ТАТЬЯНА](https://www.youtube.com/watch?v=6AOkdLBGO9M&t=3106s&ab_channel=%D0%9F%D0%A0%D0%9E%D0%A4%D0%95%D0%A1%D0%A1%D0%9E%D0%A0-%D0%94%D0%90)
 - [x] [<b>2025</b>. "ЗАВТРА НАСТУПИТ ЧЕРЕЗ НОЧЬ" ЧЕРНИГОВСКАЯ ТАТЬЯНА](https://www.youtube.com/watch?v=fpKG4mECQAY&t=4032s&ab_channel=%D0%9F%D0%A0%D0%9E%D0%A4%D0%95%D0%A1%D0%A1%D0%9E%D0%A0-%D0%94%D0%90)
