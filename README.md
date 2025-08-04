@@ -15,6 +15,7 @@
 
 <h2>🇬🇧 Английский язык</h2>
 
+- [x] [<b>2025</b>. Linking verbs](https://github.com/splincode/study/blob/main/english/Linking%20verbs.md)
 - [x] [<b>2025</b>. Все времена английского за 15 минут | Грамматика английского | Онлайн-школа «Инглекс»](https://www.youtube.com/watch?v=lcA9WnkPZUo&ab_channel=%D0%98%D0%BD%D0%B3%D0%BB%D0%B5%D0%BA%D1%81)
 - [x] [<b>2025</b>. Learn English quickly with podcast | English learning Conversation | Episode 13](https://www.youtube.com/watch?v=ciL5V-d8-5c&ab_channel=EnglishPodcastZone)
 - [x] [<b>2025</b>. test-english.com](https://test-english.com/)
