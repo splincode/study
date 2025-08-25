@@ -183,6 +183,7 @@
 
 <h2>🧑‍🔬 Философия и психология</h2>
 
+- [x] [<b>2025</b>. Tatiana Chernigovskaya: Why do we never find out the truth about reality?](https://www.youtube.com/watch?v=OughzI1lvmA&t=2975s&ab_channel=%D0%90%D0%B9%D1%80%D0%B0%D1%82%D0%A5%D0%B0%D0%B9%D1%80%D1%83%D0%BB%D0%BB%D0%B8%D0%BD)
 - [x] [<b>2025</b>. Эти ЗНАНИЯ Сэкономят Вам Года ЖИЗНИ Татьяна Черниговская](https://www.youtube.com/watch?v=XFr5jk0X084&t=991s&ab_channel=%D0%9F%D0%BB%D1%8E%D1%81%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
 - [x] [<b>2025</b>. НА МАРС НИКТО НЕ ПОЛЕТИТ / РАСКРЫТ ОБМАН ИНТЕРНЕТА ЧЕРНИГОВСКАЯ ТАТЬЯНА](https://www.youtube.com/watch?v=-CiGfXl_Jr0&ab_channel=%D0%9F%D0%A0%D0%9E%D0%A4%D0%95%D0%A1%D0%A1%D0%9E%D0%A0-%D0%94%D0%90)
 - [x] [<b>2025</b>. Медитация и гигиена мозга. Татьяна Черниговская](https://www.youtube.com/watch?v=QRJsCju6_T8&ab_channel=%D0%98%D0%A1%D0%9A%D0%A3%D0%A1%D0%A1%D0%A2%D0%92%D0%9E%D0%96%D0%98%D0%A2%D0%AC)
