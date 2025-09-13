@@ -19,6 +19,7 @@
 
 <h2>🇬🇧 Английский язык</h2>
 
+- [x] [<b>2025</b>. If you know these 10 words your English is EXCELLENT!](https://www.youtube.com/watch?v=vGYGMwc6jlA&t=214s&ab_channel=SpeakEnglishWithVanessa)
 - [x] [<b>2025</b>. Possessive pronouns](https://github.com/splincode/study/blob/main/english/Possessive%20pronouns.md)
 - [x] [<b>2025</b>. Present simple and present continuous](https://github.com/splincode/study/blob/main/english/Present%20simple%20and%20present%20continuous.md)
 - [x] [<b>2025</b>. Linking verbs](https://github.com/splincode/study/blob/main/english/Linking%20verbs.md)
