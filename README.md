@@ -2,6 +2,9 @@
 
 <h2>🧑‍💻 Информатика</h2>
 
+- [x] [<b>2025</b>. Онлайн-студия Hard. big tech night](https://www.youtube.com/watch?v=D_LS9fMIdZU&ab_channel=YandexforDevelopers)
+- [x] [<b>2025</b>. 491. Interop 2026, WebMCP, Rspack 1.5 и Rust кругом, неточные таймеры и 17 лет Chrome](https://www.youtube.com/watch?v=wj_UnLmVZWg&t=82s&ab_channel=%D0%92%D0%B5%D0%B1-%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D1%8B)
+- [x] [<b>2025</b>. Apple Event — September 9](https://www.youtube.com/watch?v=H3KnMyojEQU&t=2102s&ab_channel=Apple)
 - [x] [<b>2025</b>. Чипы Маска, восстание машин и лекарство от рака / вДудь](https://www.youtube.com/watch?v=1SLvIof4-Zw&t=4474s&ab_channel=%D0%B2%D0%94%D1%83%D0%B4%D1%8C)
 - [x] [<b>2025</b>. Live coding and Q/A with the Angular Team | August 2025](https://www.youtube.com/watch?v=QAiQ-X5wb7o&t=5555s&ab_channel=Angular)
 - [x] [<b>2025</b>. 484. Igalia и Interop, браузеры без WebKit на iOS, DOM-шаблонизация, 10 лет Wasm, плато перформанса](https://www.youtube.com/watch?v=DhIGd-FEyMg&t=5787s&ab_channel=%D0%92%D0%B5%D0%B1-%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D1%8B)
@@ -101,6 +104,9 @@
 
 <h2>🪐 Наука (астрономия, физика, естествознание)</h2>
 
+- [x] [<b>2025</b>. Встреча с Хокингом, слепые космонавты на Луне и главные кумиры. Сурдин и Семихатов](https://www.youtube.com/watch?v=0AgZJif3m7E&t=1385s&ab_channel=%D0%9A%D0%BB%D1%83%D0%B1%D0%9F%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B9%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%B0%D0%9A%D0%BE%D0%B6%D1%83%D1%85%D0%BE%D0%B2%D0%B0)
+- [x] [<b>2025</b>. НЕВОЗМОЖНЫЕ ЧУДЕСА КОСМОСА: САМОЕ ТЕМНОЕ ЗАТМЕНИЕ И ЗАГАДОЧНАЯ ЗВЕЗДА](https://www.youtube.com/watch?v=eSRPCBPcAk4&t=280s&ab_channel=%D0%9E%D0%A1%D0%9D%D0%9E%D0%92%D0%90)
+- [x] [<b>2025</b>. Необъяснимое с нами. СОННЫЕ ПАРАЛИЧИ и ВЕЩИЕ СНЫ - врач-сомнолог Михаил Полуэктов](https://www.youtube.com/watch?v=Y8WzNeP1yYk&t=31s&ab_channel=%D0%93%D0%BB%D0%B5%D0%B1%D0%A1%D0%BE%D0%BB%D0%BE%D0%BC%D0%B8%D0%BD)
 - [x] [<b>2025</b>. МАРСИАНСКАЯ ЖИЗНЬ НА ЗЕМЛЕ И ЗЕМНАЯ - НА МАРСЕ / ГДЕ ЛЮДЯМ НА ЛУНЕ СТРОИТЬ БАЗУ? Владимир Сурдин](https://www.youtube.com/watch?v=Mi80qCVoHoM&t=3s&ab_channel=%D0%9D%D0%B5%D0%B7%D0%B5%D0%BC%D0%BD%D0%BE%D0%B9%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%B0%D0%A1%D1%83%D1%80%D0%B4%D0%B8%D0%BD%D0%B0)
 - [x] [<b>2025</b>. РАЗГОВОР О (НЕ)ВКУСНОЙ И (НЕ)ЗДОРОВОЙ ПИЩЕ. Семихатов, Сурдин, Вялов](https://www.youtube.com/watch?v=tpNh2LQhgOU&t=2115s&ab_channel=%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%D0%9F%D0%BB%D1%8E%D1%81)
 - [x] [<b>2025</b>. 55 minutes that will TURN YOUR IDEAS ABOUT REALITY — Alexey Semikhatov](https://www.youtube.com/watch?v=oemNf96Q3Go&ab_channel=%D0%93%D0%BB%D0%B5%D0%B1%D0%A1%D0%BE%D0%BB%D0%BE%D0%BC%D0%B8%D0%BD)
@@ -185,6 +191,7 @@
 
 <h2>🧑‍🔬 Философия и психология</h2>
 
+- [x] [<b>2025</b>. HOW TO GET RID OF BAD THOUGHTS CHERNIGOVSKAYA TATYANA](https://www.youtube.com/watch?v=MZe1FlajPsg&t=16s&ab_channel=%D0%9F%D0%A0%D0%9E%D0%A4%D0%95%D0%A1%D0%A1%D0%9E%D0%A0-%D0%94%D0%90)
 - [x] [<b>2025</b>. Tatiana Chernigovskaya: Why do we never find out the truth about reality?](https://www.youtube.com/watch?v=OughzI1lvmA&t=2975s&ab_channel=%D0%90%D0%B9%D1%80%D0%B0%D1%82%D0%A5%D0%B0%D0%B9%D1%80%D1%83%D0%BB%D0%BB%D0%B8%D0%BD)
 - [x] [<b>2025</b>. Эти ЗНАНИЯ Сэкономят Вам Года ЖИЗНИ Татьяна Черниговская](https://www.youtube.com/watch?v=XFr5jk0X084&t=991s&ab_channel=%D0%9F%D0%BB%D1%8E%D1%81%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
 - [x] [<b>2025</b>. НА МАРС НИКТО НЕ ПОЛЕТИТ / РАСКРЫТ ОБМАН ИНТЕРНЕТА ЧЕРНИГОВСКАЯ ТАТЬЯНА](https://www.youtube.com/watch?v=-CiGfXl_Jr0&ab_channel=%D0%9F%D0%A0%D0%9E%D0%A4%D0%95%D0%A1%D0%A1%D0%9E%D0%A0-%D0%94%D0%90)
@@ -203,6 +210,7 @@
 
 <h2>🏛️ История</h2>
 
+- [x] [<b>2025</b>. ⚡Andrey #LANKOV // RUSSIA-CHINA-DPRK / Global South / SCO](https://www.youtube.com/watch?v=jaoxpNf80mE&ab_channel=%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F%D0%9F%D1%80%D0%B5%D1%81%D1%81%D0%B0)
 - [x] [<b>2025</b>. Китай и Тайвань: война с братским народом неизбежна?](https://www.youtube.com/watch?v=TKio_wnqpvY&ab_channel=%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2%D1%82%D0%B0%D0%BA%D0%BE%D0%B9%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2)
 - [x] [<b>2025</b>. Ланьков: армия Северной Кореи в РФ, рабочие мигранты и Вторая корейская война | Не выходя из комнаты](https://www.youtube.com/watch?v=I_q2c9zUKfA&t=2596s&ab_channel=MashRoom)
 - [x] [<b>2025</b>. ЛАНЬКОВ: Как и почему началась война в Корее?](https://www.youtube.com/watch?v=9mod2UF3Yik&ab_channel=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9%D0%9B%D0%B0%D0%BD%D1%8C%D0%BA%D0%BE%D0%B2)
