@@ -242,6 +242,7 @@
 
 <h2>🏖️ Путешествия</h2>
 
+- [x] [<b>2025</b>. WHY WE WON'T GO BACK TO TOKYO! 10 Reasons to Move](https://www.youtube.com/watch?v=u4O-GSQdcyY&t=361s&ab_channel=ToriChyanChannel)
 - [x] [<b>2025</b>. Why Japanese Women Don't Want to Give Birth. The Real Reason for Japan's Low Birth Rate](https://www.youtube.com/watch?v=AjV1oN5jxQg&ab_channel=ToriChyanChannel)
 - [x] [<b>2025</b>. Нью Йорк - каким вы его никогда не видели - как люди живут в Нью Йорке](https://www.youtube.com/watch?v=VJ6bhMYZcF0&t=3975s&ab_channel=%D0%A1%D1%82%D0%BE%D0%BB%D0%B8%D1%86%D0%B0%D0%9C%D0%B8%D1%80%D0%B0)
 - [x] [<b>2025</b>. How To See NYC in 3 Days (Without The Stress!)](https://www.youtube.com/watch?v=TT2R5B9F3EQ&ab_channel=JonBarr)
