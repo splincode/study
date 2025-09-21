@@ -2,6 +2,7 @@
 
 <h2>🧑‍💻 Информатика</h2>
 
+- [x] [<b>2025</b>. Unboxing the iPhone 17 Pro Max in all colors. It's a total disaster! But which one should you cho...](https://www.youtube.com/watch?v=W4lOwfVw3BY)
 - [x] [<b>2025</b>. Онлайн-студия Hard. big tech night](https://www.youtube.com/watch?v=D_LS9fMIdZU&ab_channel=YandexforDevelopers)
 - [x] [<b>2025</b>. 491. Interop 2026, WebMCP, Rspack 1.5 и Rust кругом, неточные таймеры и 17 лет Chrome](https://www.youtube.com/watch?v=wj_UnLmVZWg&t=82s&ab_channel=%D0%92%D0%B5%D0%B1-%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D1%8B)
 - [x] [<b>2025</b>. Apple Event — September 9](https://www.youtube.com/watch?v=H3KnMyojEQU&t=2102s&ab_channel=Apple)
@@ -106,6 +107,7 @@
 
 <h2>🪐 Наука (астрономия, физика, естествознание)</h2>
 
+- [x] [<b>2025</b>. What happened before the Big Bang? Astrophysicist Astashenok on the mysteries of the Multiverse.](https://www.youtube.com/watch?v=TjVQvhEA_JE)
 - [x] [<b>2025</b>. Встреча с Хокингом, слепые космонавты на Луне и главные кумиры. Сурдин и Семихатов](https://www.youtube.com/watch?v=0AgZJif3m7E&t=1385s&ab_channel=%D0%9A%D0%BB%D1%83%D0%B1%D0%9F%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B9%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%B0%D0%9A%D0%BE%D0%B6%D1%83%D1%85%D0%BE%D0%B2%D0%B0)
 - [x] [<b>2025</b>. НЕВОЗМОЖНЫЕ ЧУДЕСА КОСМОСА: САМОЕ ТЕМНОЕ ЗАТМЕНИЕ И ЗАГАДОЧНАЯ ЗВЕЗДА](https://www.youtube.com/watch?v=eSRPCBPcAk4&t=280s&ab_channel=%D0%9E%D0%A1%D0%9D%D0%9E%D0%92%D0%90)
 - [x] [<b>2025</b>. Необъяснимое с нами. СОННЫЕ ПАРАЛИЧИ и ВЕЩИЕ СНЫ - врач-сомнолог Михаил Полуэктов](https://www.youtube.com/watch?v=Y8WzNeP1yYk&t=31s&ab_channel=%D0%93%D0%BB%D0%B5%D0%B1%D0%A1%D0%BE%D0%BB%D0%BE%D0%BC%D0%B8%D0%BD)
