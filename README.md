@@ -20,6 +20,7 @@
 
 <h2>🇬🇧 Английский язык</h2>
 
+- [x] [<b>2025</b>. Cutting in line | Learn English quickly with podcast | Episode 27](https://www.youtube.com/watch?v=JVeZPLKKNL4)
 - [x] [<b>2025</b>. Call in Sick | Learn English quickly with podcast | Episode 26](https://www.youtube.com/watch?v=E2xupHju5_0)
 - [x] [<b>2025</b>. Reflexive pronouns](https://github.com/splincode/study/blob/main/english/reflexive%20pronouns.md)
 - [x] [<b>2025</b>. If you know these 10 words your English is EXCELLENT!](https://www.youtube.com/watch?v=vGYGMwc6jlA&t=214s&ab_channel=SpeakEnglishWithVanessa)
