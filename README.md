@@ -1,6 +1,6 @@
-<h1>Изученные и просмотренные материалы</h1>
+<h1>Изученные / просмотренные материалы</h1>
 
-<h2>🧑‍💻 Информатика</h2>
+<h2>🧑‍💻 Информатика и технологии</h2>
 
 - [x] [<b>2025</b>. Unboxing the iPhone 17 Pro Max in all colors. It's a total disaster! But which one should you cho...](https://www.youtube.com/watch?v=W4lOwfVw3BY)
 - [x] [<b>2025</b>. Онлайн-студия Hard. big tech night](https://www.youtube.com/watch?v=D_LS9fMIdZU&ab_channel=YandexforDevelopers)
