@@ -20,6 +20,7 @@
 
 <h2>🇬🇧 Английский язык</h2>
 
+- [x] [<b>2025</b>. Call in Sick | Learn English quickly with podcast | Episode 26](https://www.youtube.com/watch?v=E2xupHju5_0)
 - [x] [<b>2025</b>. Reflexive pronouns](https://github.com/splincode/study/blob/main/english/reflexive%20pronouns.md)
 - [x] [<b>2025</b>. If you know these 10 words your English is EXCELLENT!](https://www.youtube.com/watch?v=vGYGMwc6jlA&t=214s&ab_channel=SpeakEnglishWithVanessa)
 - [x] [<b>2025</b>. Possessive pronouns](https://github.com/splincode/study/blob/main/english/Possessive%20pronouns.md)
@@ -214,6 +215,7 @@
 
 <h2>🏛️ История</h2>
 
+- [x] [<b>2025</b>. Ланьков разбирает своё интервью Дудю в 2025](https://www.youtube.com/watch?v=4briPBo26Fk)
 - [x] [<b>2025</b>. ⚡Andrey #LANKOV // RUSSIA-CHINA-DPRK / Global South / SCO](https://www.youtube.com/watch?v=jaoxpNf80mE&ab_channel=%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F%D0%9F%D1%80%D0%B5%D1%81%D1%81%D0%B0)
 - [x] [<b>2025</b>. Китай и Тайвань: война с братским народом неизбежна?](https://www.youtube.com/watch?v=TKio_wnqpvY&ab_channel=%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2%D1%82%D0%B0%D0%BA%D0%BE%D0%B9%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2)
 - [x] [<b>2025</b>. Ланьков: армия Северной Кореи в РФ, рабочие мигранты и Вторая корейская война | Не выходя из комнаты](https://www.youtube.com/watch?v=I_q2c9zUKfA&t=2596s&ab_channel=MashRoom)
