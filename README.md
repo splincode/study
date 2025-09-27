@@ -20,6 +20,7 @@
 
 <h2>🇬🇧 Английский язык</h2>
 
+- [x] [<b>2025</b>. Being in a Rush| Learn English quickly with podcast | Episode 28](https://www.youtube.com/watch?v=C4FKhIREXoY&t=785s)
 - [x] [<b>2025</b>. Cutting in line | Learn English quickly with podcast | Episode 27](https://www.youtube.com/watch?v=JVeZPLKKNL4)
 - [x] [<b>2025</b>. Call in Sick | Learn English quickly with podcast | Episode 26](https://www.youtube.com/watch?v=E2xupHju5_0)
 - [x] [<b>2025</b>. Reflexive pronouns](https://github.com/splincode/study/blob/main/english/reflexive%20pronouns.md)
@@ -109,6 +110,7 @@
 
 <h2>🪐 Наука (астрономия, физика, естествознание)</h2>
 
+- [x] [<b>2025</b>. "МОСКВА - НЕ РОССИЯ". Зубаревич, Семихатов, Сурдин](https://www.youtube.com/watch?v=QDYgw855PJA&t=3498s)
 - [x] [<b>2025</b>. What happened before the Big Bang? Astrophysicist Astashenok on the mysteries of the Multiverse.](https://www.youtube.com/watch?v=TjVQvhEA_JE)
 - [x] [<b>2025</b>. Встреча с Хокингом, слепые космонавты на Луне и главные кумиры. Сурдин и Семихатов](https://www.youtube.com/watch?v=0AgZJif3m7E&t=1385s&ab_channel=%D0%9A%D0%BB%D1%83%D0%B1%D0%9F%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B9%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%B0%D0%9A%D0%BE%D0%B6%D1%83%D1%85%D0%BE%D0%B2%D0%B0)
 - [x] [<b>2025</b>. НЕВОЗМОЖНЫЕ ЧУДЕСА КОСМОСА: САМОЕ ТЕМНОЕ ЗАТМЕНИЕ И ЗАГАДОЧНАЯ ЗВЕЗДА](https://www.youtube.com/watch?v=eSRPCBPcAk4&t=280s&ab_channel=%D0%9E%D0%A1%D0%9D%D0%9E%D0%92%D0%90)
