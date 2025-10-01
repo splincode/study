@@ -2,6 +2,7 @@
 
 <h2>🧑‍💻 Информатика и технологии</h2>
 
+- [x] [<b>2025</b>. Рынок эйчара](https://habr.com/ru/articles/952004/)
 - [x] [<b>2025</b>. Unboxing the iPhone 17 Pro Max in all colors. It's a total disaster! But which one should you cho...](https://www.youtube.com/watch?v=W4lOwfVw3BY)
 - [x] [<b>2025</b>. Онлайн-студия Hard. big tech night](https://www.youtube.com/watch?v=D_LS9fMIdZU&ab_channel=YandexforDevelopers)
 - [x] [<b>2025</b>. 491. Interop 2026, WebMCP, Rspack 1.5 и Rust кругом, неточные таймеры и 17 лет Chrome](https://www.youtube.com/watch?v=wj_UnLmVZWg&t=82s&ab_channel=%D0%92%D0%B5%D0%B1-%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D1%8B)
