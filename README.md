@@ -2,6 +2,8 @@
 
 <h2>🧑‍💻 Информатика и технологии</h2>
 
+- [x] [<b>2025</b>. 494. Новинки Chrome 140, масштабирование текста, двойная обводка фокуса, Temporal и DevTools MCP](https://www.youtube.com/watch?v=jy1O3ocBRf8&t=1803s)
+- [x] [<b>2025</b>. 493. Куча всего в Safari 26, новинки Firefox 143, спека Wasm 3.0, React убивает инновации](https://www.youtube.com/watch?v=-zynxKpW2Fc&t=8s)
 - [x] [<b>2025</b>. Рынок эйчара](https://habr.com/ru/articles/952004/)
 - [x] [<b>2025</b>. Unboxing the iPhone 17 Pro Max in all colors. It's a total disaster! But which one should you cho...](https://www.youtube.com/watch?v=W4lOwfVw3BY)
 - [x] [<b>2025</b>. Онлайн-студия Hard. big tech night](https://www.youtube.com/watch?v=D_LS9fMIdZU&ab_channel=YandexforDevelopers)
