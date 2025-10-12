@@ -2,6 +2,7 @@
 
 <h2>🧑‍💻 Информатика и технологии</h2>
 
+- [x] [<b>2025</b>. Как не сойти с ума? IT рынок переполнен](https://habr.com/ru/articles/954740/)
 - [x] [<b>2025</b>. Про IT в 2025 году](https://habr.com/ru/articles/937358/)
 - [x] [<b>2025</b>. 494. Новинки Chrome 140, масштабирование текста, двойная обводка фокуса, Temporal и DevTools MCP](https://www.youtube.com/watch?v=jy1O3ocBRf8&t=1803s)
 - [x] [<b>2025</b>. 493. Куча всего в Safari 26, новинки Firefox 143, спека Wasm 3.0, React убивает инновации](https://www.youtube.com/watch?v=-zynxKpW2Fc&t=8s)
@@ -24,6 +25,7 @@
 
 <h2>🇬🇧 Английский язык</h2>
 
+- [x] [<b>2025</b>. Esay English Conversation A1,A2 l English Conversation Practice for Beginners](https://www.youtube.com/watch?v=oZ0qTN_Sjc0&t=2206s)
 - [x] [<b>2025</b>. Being in a Rush| Learn English quickly with podcast | Episode 28](https://www.youtube.com/watch?v=C4FKhIREXoY&t=785s)
 - [x] [<b>2025</b>. Cutting in line | Learn English quickly with podcast | Episode 27](https://www.youtube.com/watch?v=JVeZPLKKNL4)
 - [x] [<b>2025</b>. Call in Sick | Learn English quickly with podcast | Episode 26](https://www.youtube.com/watch?v=E2xupHju5_0)
