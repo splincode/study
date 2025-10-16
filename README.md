@@ -2,6 +2,8 @@
 
 <h2>🧑‍💻 Информатика и технологии</h2>
 
+- [x] [<b>2025</b>. Роадмап разработчика 2.0: как адаптироваться к новой AI-реальности / Павел Федотовский](https://www.youtube.com/watch?v=jFGSmgaR5fs)
+- [x] [<b>2025</b>. 496. Chrome 141, гриды, Node.js, if() и цвета в CSS, Prettier, агенты в Playwright, вайб-инжиниринг](https://www.youtube.com/watch?v=e_PDywh_viU)
 - [x] [<b>2025</b>. Как не сойти с ума? IT рынок переполнен](https://habr.com/ru/articles/954740/)
 - [x] [<b>2025</b>. Про IT в 2025 году](https://habr.com/ru/articles/937358/)
 - [x] [<b>2025</b>. 494. Новинки Chrome 140, масштабирование текста, двойная обводка фокуса, Temporal и DevTools MCP](https://www.youtube.com/watch?v=jy1O3ocBRf8&t=1803s)
@@ -25,6 +27,7 @@
 
 <h2>🇬🇧 Английский язык</h2>
 
+- [x] [<b>2025</b>. Esay English Conversation A1,A2 l English Conversation Practice for Beginners](https://www.youtube.com/watch?v=oZ0qTN_Sjc0&t=2792s)
 - [x] [<b>2025</b>. Esay English Conversation A1,A2 l English Conversation Practice for Beginners](https://www.youtube.com/watch?v=oZ0qTN_Sjc0&t=2206s)
 - [x] [<b>2025</b>. Being in a Rush| Learn English quickly with podcast | Episode 28](https://www.youtube.com/watch?v=C4FKhIREXoY&t=785s)
 - [x] [<b>2025</b>. Cutting in line | Learn English quickly with podcast | Episode 27](https://www.youtube.com/watch?v=JVeZPLKKNL4)
@@ -116,6 +119,9 @@
 
 <h2>🪐 Наука (астрономия, физика, естествознание)</h2>
 
+- [x] [<b>2025</b>. The United States is preparing to fly to Mars / 3I/ATLAS: The Whole Truth. Vladimir Surdin](https://www.youtube.com/watch?v=VlBhFq3Gqjg&t=1899s)
+- [x] [<b>2025</b>. 3I/ATLAS ВЕДЁТ СЕБЯ НЕ КАК КОМЕТА. К ЗЕМЛЕ ЛЕТЯТ SWAN И LEMMON. Владимир Сурдин](https://www.youtube.com/watch?v=ELAEZ0tZQvM&t=1772s)
+- [x] [<b>2025</b>. Владимир Сурдин. Без посредников ‪@surdinpodcast‬](https://www.youtube.com/watch?v=zS6YiFrV4dY)
 - [x] [<b>2025</b>. ЛЮДЕЙ С ПСИХИЧЕСКИМИ БОЛЕЗНЯМИ СТАЛО БОЛЬШЕ. Семихатов, Сурдин, Тетюшкин](https://www.youtube.com/watch?v=vo-Rrmkc8v4)
 - [x] [<b>2025</b>. "МОСКВА - НЕ РОССИЯ". Зубаревич, Семихатов, Сурдин](https://www.youtube.com/watch?v=QDYgw855PJA&t=3498s)
 - [x] [<b>2025</b>. What happened before the Big Bang? Astrophysicist Astashenok on the mysteries of the Multiverse.](https://www.youtube.com/watch?v=TjVQvhEA_JE)
