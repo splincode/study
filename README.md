@@ -119,6 +119,7 @@
 
 <h2>🪐 Наука (астрономия, физика, естествознание)</h2>
 
+- [x] [<b>2025</b>. К нам летит НЕЧТО странное… Что на самом деле скрывает 3I/ATLAS? - Астроном Владимир Сурдин](https://www.youtube.com/watch?v=xEkkuTe34wI&t=1122s)
 - [x] [<b>2025</b>. Are You Sure You EXIST? The Paradoxes of Our Consciousness. Philosopher Anton Kuznetsov](https://www.youtube.com/watch?v=zmCAdIXVQgM&t=1050s)
 - [x] [<b>2025</b>. The United States is preparing to fly to Mars / 3I/ATLAS: The Whole Truth. Vladimir Surdin](https://www.youtube.com/watch?v=VlBhFq3Gqjg&t=1899s)
 - [x] [<b>2025</b>. 3I/ATLAS ВЕДЁТ СЕБЯ НЕ КАК КОМЕТА. К ЗЕМЛЕ ЛЕТЯТ SWAN И LEMMON. Владимир Сурдин](https://www.youtube.com/watch?v=ELAEZ0tZQvM&t=1772s)
