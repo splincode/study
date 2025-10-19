@@ -2,6 +2,7 @@
 
 <h2>🧑‍💻 Информатика и технологии</h2>
 
+- [x] [<b>2025</b>. Say Goodbye To window.open👋](https://javascript.plainenglish.io/say-goodbye-to-window-open-df6056343797)
 - [x] [<b>2025</b>. Роадмап разработчика 2.0: как адаптироваться к новой AI-реальности / Павел Федотовский](https://www.youtube.com/watch?v=jFGSmgaR5fs)
 - [x] [<b>2025</b>. 496. Chrome 141, гриды, Node.js, if() и цвета в CSS, Prettier, агенты в Playwright, вайб-инжиниринг](https://www.youtube.com/watch?v=e_PDywh_viU)
 - [x] [<b>2025</b>. Как не сойти с ума? IT рынок переполнен](https://habr.com/ru/articles/954740/)
