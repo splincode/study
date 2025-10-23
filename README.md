@@ -28,6 +28,7 @@
 
 <h2>🇬🇧 Английский язык</h2>
 
+- [x] [<b>2025</b>. Adjective or adverb](https://github.com/splincode/study/blob/main/english/Adjective%20or%20adverb.md)
 - [x] [<b>2025</b>. Esay English Conversation A1,A2 l English Conversation Practice for Beginners](https://www.youtube.com/watch?v=oZ0qTN_Sjc0&t=2792s)
 - [x] [<b>2025</b>. Esay English Conversation A1,A2 l English Conversation Practice for Beginners](https://www.youtube.com/watch?v=oZ0qTN_Sjc0&t=2206s)
 - [x] [<b>2025</b>. Being in a Rush| Learn English quickly with podcast | Episode 28](https://www.youtube.com/watch?v=C4FKhIREXoY&t=785s)
