@@ -2,6 +2,8 @@
 
 <h2>🧑‍💻 Информатика и технологии</h2>
 
+- [x] [<b>2025</b>. Разработка будущего: сложная простота, а не бесконечная сложность / Александр Коротаев](https://www.youtube.com/watch?v=pw10tzvf4a0)
+- [x] [<b>2025</b>. 497. Опрос MDN, Firefox 144, прогрессивные картинки, CSS extras, теория мёртвых фреймворков](https://www.youtube.com/watch?v=9Te8YP6UPJw)
 - [x] [<b>2025</b>. Say Goodbye To window.open👋](https://javascript.plainenglish.io/say-goodbye-to-window-open-df6056343797)
 - [x] [<b>2025</b>. Роадмап разработчика 2.0: как адаптироваться к новой AI-реальности / Павел Федотовский](https://www.youtube.com/watch?v=jFGSmgaR5fs)
 - [x] [<b>2025</b>. 496. Chrome 141, гриды, Node.js, if() и цвета в CSS, Prettier, агенты в Playwright, вайб-инжиниринг](https://www.youtube.com/watch?v=e_PDywh_viU)
@@ -29,7 +31,6 @@
 <h2>🇬🇧 Английский язык</h2>
 
 - [x] [<b>2025</b>. Adjective or adverb](https://github.com/splincode/study/blob/main/english/Adjective%20or%20adverb.md)
-- [x] [<b>2025</b>. Esay English Conversation A1,A2 l English Conversation Practice for Beginners](https://www.youtube.com/watch?v=oZ0qTN_Sjc0&t=2792s)
 - [x] [<b>2025</b>. Esay English Conversation A1,A2 l English Conversation Practice for Beginners](https://www.youtube.com/watch?v=oZ0qTN_Sjc0&t=2206s)
 - [x] [<b>2025</b>. Being in a Rush| Learn English quickly with podcast | Episode 28](https://www.youtube.com/watch?v=C4FKhIREXoY&t=785s)
 - [x] [<b>2025</b>. Cutting in line | Learn English quickly with podcast | Episode 27](https://www.youtube.com/watch?v=JVeZPLKKNL4)
@@ -121,6 +122,9 @@
 
 <h2>🪐 Наука (астрономия, физика, естествознание)</h2>
 
+- [x] [<b>2025</b>. Как погибнет человечество? Мрачный ответ ученого РАН](https://www.youtube.com/watch?v=5_neZdoB3n0&t=57s)
+- [x] [<b>2025</b>. НОВОЕ ФОТО 3I/ATLAS / АМЕРИКАНЦЫ ЛЕТЯТ НА ЛУНУ. Владимир Сурдин](https://www.youtube.com/watch?v=_Ws4gQ2wkBw)
+- [x] [<b>2025</b>. ВОТ КТО создает наш мир и решения! Черниговская Татьяна](https://www.youtube.com/watch?v=Ui-Goua9_Ro&t=338s)
 - [x] [<b>2025</b>. К нам летит НЕЧТО странное… Что на самом деле скрывает 3I/ATLAS? - Астроном Владимир Сурдин](https://www.youtube.com/watch?v=xEkkuTe34wI&t=1122s)
 - [x] [<b>2025</b>. Are You Sure You EXIST? The Paradoxes of Our Consciousness. Philosopher Anton Kuznetsov](https://www.youtube.com/watch?v=zmCAdIXVQgM&t=1050s)
 - [x] [<b>2025</b>. The United States is preparing to fly to Mars / 3I/ATLAS: The Whole Truth. Vladimir Surdin](https://www.youtube.com/watch?v=VlBhFq3Gqjg&t=1899s)
@@ -256,6 +260,7 @@
 
 <h2>💰 Экономика</h2>
 
+- [x] [<b>2025</b>. «Деньги кончаются»: новые санкции, налоги и бюджет | Рубен Ениколопов про Россию, Европу и Трампа](https://www.youtube.com/watch?v=7Ugkiud9Spk)
 - [x] [<b>2025</b>. Иметь свою квартиру для ЛУЗЕРОВ! Андрей Ланьков про недвижимость и Северную и Южную Корею](https://www.youtube.com/watch?v=PdozJdM43hM&t=2256s)
 - [x] [<b>2025</b>. «Будем выживать так»: к чему готовиться России? Санкции, национализация и дефицит | Александр Аузан](https://www.youtube.com/watch?v=HvkJ0-Psfrw&t=1374s&ab_channel=PrivateTalks)
 - [x] [<b>2025</b>. Бездетность, войны, кризисы, запрет абортов. Как работает демография в России и мире / Алексей Ракша](https://www.youtube.com/watch?v=AGTRdIc_eDs&t=1642s&ab_channel=%D0%A4%D0%B0%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B8%D0%B2.%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%D0%BE%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8%D0%B8%D0%BF%D1%80%D0%B0%D0%B2%D0%B5)
