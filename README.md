@@ -129,7 +129,8 @@
 
 <h2>🪐 Наука (астрономия, физика, естествознание)</h2>
 
-- [x] [[<b>2025</b>. Our intellect is DIETING. How is AI destroying consciousness? | Neurobiologist Alipov, Mikhail Ni...](https://www.youtube.com/watch?v=EnTXXyKSL64)
+- [x] [<b>2025</b>.Борис Штерн — Реалистичный межзвездный перелет: источники энергии, техника, сроки, проблемы](https://www.youtube.com/watch?v=vE1WH4ohyhk&t=2086s)
+- [x] [<b>2025</b>. Our intellect is DIETING. How is AI destroying consciousness? | Neurobiologist Alipov, Mikhail Ni...](https://www.youtube.com/watch?v=EnTXXyKSL64)
 - [x] [<b>2025</b>. «Кто к нам летит: инопланетные корабли или межзвёздные кометы?» Лекция астронома Владимира Сурдина](https://www.youtube.com/watch?v=fHJxva3hlr8&t=1017s)
 - [x] [<b>2025</b>. Как погибнет человечество? Мрачный ответ ученого РАН](https://www.youtube.com/watch?v=5_neZdoB3n0&t=57s)
 - [x] [<b>2025</b>. НОВОЕ ФОТО 3I/ATLAS / АМЕРИКАНЦЫ ЛЕТЯТ НА ЛУНУ. Владимир Сурдин](https://www.youtube.com/watch?v=_Ws4gQ2wkBw)
