@@ -31,6 +31,10 @@
 
 <h2>🇬🇧 Английский язык</h2>
 
+- [x] [<b>2025</b>. ДЖОКЕР 2019/ Обзор Трейлера на Английском](https://www.youtube.com/watch?v=lB8dVrVjwR0)
+- [x] [<b>2025</b>. НОВОСТИ Лета На Английском/ Штурм зоны 51 / Ведьмак / Black Hole](https://www.youtube.com/watch?v=g7Qqh5tSIb8&t=531s)
+- [x] [<b>2025</b>. Английский с нуля / ТОП 5 Ошибок, Которые ты Делаешь / Нет Мотивации](https://www.youtube.com/watch?v=IcU001Zxlfw)
+- [x] [Can You Understand This Video In English?](https://www.youtube.com/watch?v=JwtzJyD1dTk&t=552s)
 - [x] [<b>2025</b>. A1-A2 English Listening Practice | English Small Talk | Easy Conversation Starters for Everyday Life](https://www.youtube.com/watch?v=w98U_C_9nVs&t=56s)
 - [x] [<b>2025</b>. A1 A2 English listening Practice ｜ 10-Minute English Practice Every Day and Speak Fluently FAST](https://www.youtube.com/watch?v=eQbtmufQT0Y)
 - [x] [<b>2025</b>. A1-A2 English listening Practice ｜Slow Listening | Daily Fluency Training | Shadowing Technique](https://www.youtube.com/watch?v=fJaf6LHSGYQ)
