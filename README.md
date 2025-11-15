@@ -32,6 +32,7 @@
 
 <h2>🇬🇧 Английский язык</h2>
 
+- [x] [<b>2025</b>. Do you like garlic? ⏲️ 6 Minute English](https://www.youtube.com/watch?v=MSk_8ayzUpE&t=22s)
 - [x] [<b>2025</b>. ДЖОКЕР 2019/ Обзор Трейлера на Английском](https://www.youtube.com/watch?v=lB8dVrVjwR0)
 - [x] [<b>2025</b>. НОВОСТИ Лета На Английском/ Штурм зоны 51 / Ведьмак / Black Hole](https://www.youtube.com/watch?v=g7Qqh5tSIb8&t=531s)
 - [x] [<b>2025</b>. Английский с нуля / ТОП 5 Ошибок, Которые ты Делаешь / Нет Мотивации](https://www.youtube.com/watch?v=IcU001Zxlfw)
@@ -236,6 +237,7 @@
 
 <h2>🧑‍🔬 Философия и психология</h2>
 
+- [x] [<b>2025</b>. «Как сохранить человеческий разум в эпоху технологий». Татьяна Черниговская](https://www.youtube.com/watch?v=IqMymugffNA&t=86s)
 - [x] [<b>2025</b>. HOW TO GET RID OF BAD THOUGHTS CHERNIGOVSKAYA TATYANA](https://www.youtube.com/watch?v=MZe1FlajPsg&t=16s&ab_channel=%D0%9F%D0%A0%D0%9E%D0%A4%D0%95%D0%A1%D0%A1%D0%9E%D0%A0-%D0%94%D0%90)
 - [x] [<b>2025</b>. Tatiana Chernigovskaya: Why do we never find out the truth about reality?](https://www.youtube.com/watch?v=OughzI1lvmA&t=2975s&ab_channel=%D0%90%D0%B9%D1%80%D0%B0%D1%82%D0%A5%D0%B0%D0%B9%D1%80%D1%83%D0%BB%D0%BB%D0%B8%D0%BD)
 - [x] [<b>2025</b>. Эти ЗНАНИЯ Сэкономят Вам Года ЖИЗНИ Татьяна Черниговская](https://www.youtube.com/watch?v=XFr5jk0X084&t=991s&ab_channel=%D0%9F%D0%BB%D1%8E%D1%81%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
