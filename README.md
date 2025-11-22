@@ -33,6 +33,13 @@
 
 <h2>🇬🇧 Английский язык</h2>
 
+- [x] [<b>2025</b>. Artificial Intelligence - what can and can't it do? 6 Minute English](https://www.youtube.com/watch?v=tyvMjvvrq74&t=58s)
+- [x] [<b>2025</b>. The wonders of hair - 6 Minute English](https://www.youtube.com/watch?v=C4vC-Y3USfk)
+- [x] [<b>2025</b>. Cultural differences and body language - 6 Minute English](https://www.youtube.com/watch?v=oTPZWpQ9pbA)
+- [x] [<b>2025</b>. Does wearing a uniform change our behaviour? 6 Minute English](https://www.youtube.com/watch?v=CcMhB1DD-Gg)
+- [x] [<b>2025</b>. Are we too fixated on protein? ⏲️ 6 Minute English](https://www.youtube.com/watch?v=VsBSCbBm_NA&t=52s)
+- [x] [<b>2025</b>. Did a civilisation exist on Earth before humans? ⏲️ 6 Minute English](https://www.youtube.com/watch?v=DJSvLo9dA9U)
+- [x] [<b>2025</b>. Is breakfast the most important meal of the day? ⏲️ 6 Minute English](https://www.youtube.com/watch?v=C830bmzNjDc)
 - [x] [<b>2025</b>. Do you like garlic? ⏲️ 6 Minute English](https://www.youtube.com/watch?v=MSk_8ayzUpE&t=22s)
 - [x] [<b>2025</b>. ДЖОКЕР 2019/ Обзор Трейлера на Английском](https://www.youtube.com/watch?v=lB8dVrVjwR0)
 - [x] [<b>2025</b>. НОВОСТИ Лета На Английском/ Штурм зоны 51 / Ведьмак / Black Hole](https://www.youtube.com/watch?v=g7Qqh5tSIb8&t=531s)
@@ -296,6 +303,7 @@
 
 <h2>🏖️ Путешествия</h2>
 
+- [x] [<b>2025</b>. XI'AN CHINA CULTURAL SHOW | THE SONG OF EVERLASTING SORROW | FOREIGNERS IN CHINA 2022](https://www.youtube.com/watch?v=J2BDWmgkyuE&t=325s)
 - [x] [<b>2025</b>. Going to China for the FIRST TIME! Everything you need to know!](https://www.youtube.com/watch?v=jqU5U353EXk&t=120s)
 - [x] [<b>2025</b>. TOURISM TO CHINA! SECRETS/FOOD/THINGS TO SEE](https://www.youtube.com/watch?v=VFWoiNCmzQE)
 - [x] [<b>2025</b>. ВЛОГ ИЗ КИТАЯ | ПЕКИН ЗИМОЙ | ЧТО НЕ ОЖИДАЛА](https://www.youtube.com/watch?v=h9k-UlaQisE)
