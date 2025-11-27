@@ -2,6 +2,7 @@
 
 <h2>🧑‍💻 Информатика и технологии</h2>
 
+- [x] [<b>2025</b>. Switching on Physical Keyboard from Virtual Keyboard in Android Emulator for Keyboard Handling](https://www.youtube.com/watch?v=GlKAmBqJN20&t=174s)
 - [x] [<b>2025</b>. System Design Interview: 60 минут до оффера / Владимир Невзоров](https://www.youtube.com/watch?v=jsYohT5HBi4&t=2238s)
 - [x] [<b>2025</b>. 500. Новости по-английски, как меняется фронтенд, пишем код в 2025, что нас бесит, вангуем 600-й](https://www.youtube.com/watch?v=TfwfckpZKlo&t=30s)
 - [x] [<b>2025</b>. 499. Chrome 142, HTTPS по умолчанию, ESM в 2026, перфоманс фреймворков, пора регулировать React](https://www.youtube.com/watch?v=hHzj3oG7ISY&t=1438s)
@@ -33,6 +34,15 @@
 
 <h2>🇬🇧 Английский язык</h2>
 
+- [x] [<b>2025</b>. Should schoolchildren have jobs? 6 Minute English](https://www.youtube.com/watch?v=WKmsxJkJCqM)
+- [x] [<b>2025</b>. Is retail therapy good for you? 6 Minute English](https://www.youtube.com/watch?v=EcTdPfg4wO8)
+- [x] [<b>2025</b>. Do you need to upgrade your phone? 6 Minute English](https://www.youtube.com/watch?v=HTdQ8bDEhAQ)
+- [x] [<b>2025</b>. The history of coffee shops - 6 Minute English](https://www.youtube.com/watch?v=DdOburEdIPg&t=125s)
+- [x] [<b>2025</b>. Keeping cars out of city centres - 6 Minute English](https://www.youtube.com/watch?v=bJq9kPc_-tw)
+- [x] [<b>2025</b>. How much sugar do you really eat? 6 Minute English](https://www.youtube.com/watch?v=wlEuiYq8tcM)
+- [x] [<b>2025</b>. How do you behave in a swimming pool? 6 Minute English](https://www.youtube.com/watch?v=f0FkoUFJUo0)
+- [x] [<b>2025</b>. Why pay for bottled water? 6 Minute English](https://www.youtube.com/watch?v=R_0E8HBxYN8)
+- [x] [<b>2025</b>. Are you getting enough exercise? 6 Minute English](https://www.youtube.com/watch?v=iKzpnVWdZ70)
 - [x] [<b>2025</b>. Artificial Intelligence - what can and can't it do? 6 Minute English](https://www.youtube.com/watch?v=tyvMjvvrq74&t=58s)
 - [x] [<b>2025</b>. The wonders of hair - 6 Minute English](https://www.youtube.com/watch?v=C4vC-Y3USfk)
 - [x] [<b>2025</b>. Cultural differences and body language - 6 Minute English](https://www.youtube.com/watch?v=oTPZWpQ9pbA)
@@ -143,6 +153,7 @@
 
 <h2>🪐 Наука (астрономия, физика, естествознание)</h2>
 
+- [x] [<b>2025</b>. АМЕРИКАНЦЫ НА ЛУНЕ / "АНГАРА" /«ЛУНА-26» / ЯДЕРНЫЙ БУКСИР «ЗЕВС». Сурдин и Хохлов](https://www.youtube.com/watch?v=NVReSXLqcZE&t=4799s)
 - [x] [<b>2025</b>. ИЗ ЧЕГО СОСТОИТ 3I/ATLAS. ОТКУДА ЛЕТЯТ МЕЖЗВЁЗДНЫЕ ОБЪЕКТЫ. Владимир Сурдин](https://www.youtube.com/watch?v=GEcGC5jRZ2o&t=983s)
 - [x] [<b>2025</b>. АНТИХВОСТ 3I/ATLAS / ЗАГАДОЧНЫЙ ОБЪЕКТ НАД МОСКВОЙ / ЧЁРНЫЕ ДЫРЫ НОВОГО ПОКОЛЕНИЯ. Владимир Сурдин](https://www.youtube.com/watch?v=kCu1-B8GblQ)
 - [x] [<b>2025</b>. Борис Штерн — Реалистичный межзвездный перелет: источники энергии, техника, сроки, проблемы](https://www.youtube.com/watch?v=vE1WH4ohyhk&t=2086s)
