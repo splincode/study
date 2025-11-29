@@ -34,6 +34,10 @@
 
 <h2>🇬🇧 Английский язык</h2>
 
+- [x] [<b>2025</b>. Would you pay more for 'ethical' coffee? 6 Minute English](https://www.youtube.com/watch?v=AfNSMykrG1I&t=96s)
+- [x] [<b>2025</b>. Can crypto-currencies be trusted? 6 Minute English](https://www.youtube.com/watch?v=0E9KurvLzqE)
+- [x] [<b>2025</b>. Is 'man flu' real? 6 Minute English](https://www.youtube.com/watch?v=lJMPosxMV2M)
+- [x] [<b>2025</b>. 🎅What makes the perfect Santa? 6 Minute English](https://www.youtube.com/watch?v=wcEgBAORLM4)
 - [x] [<b>2025</b>. Should schoolchildren have jobs? 6 Minute English](https://www.youtube.com/watch?v=WKmsxJkJCqM)
 - [x] [<b>2025</b>. Is retail therapy good for you? 6 Minute English](https://www.youtube.com/watch?v=EcTdPfg4wO8)
 - [x] [<b>2025</b>. Do you need to upgrade your phone? 6 Minute English](https://www.youtube.com/watch?v=HTdQ8bDEhAQ)
