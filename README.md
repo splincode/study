@@ -34,6 +34,7 @@
 
 <h2>🇬🇧 Английский язык</h2>
 
+- [x] [<b>2025</b>. ГДЕ МЫ НАЙДЁМ ВНЕЗЕМНЫЕ ЦИВИЛИЗАЦИИ? Владимир Сурдин](https://www.youtube.com/watch?v=D5NOfM1sE4s&t=1374s)
 - [x] [<b>2025</b>. Would you pay more for 'ethical' coffee? 6 Minute English](https://www.youtube.com/watch?v=AfNSMykrG1I&t=96s)
 - [x] [<b>2025</b>. Can crypto-currencies be trusted? 6 Minute English](https://www.youtube.com/watch?v=0E9KurvLzqE)
 - [x] [<b>2025</b>. Is 'man flu' real? 6 Minute English](https://www.youtube.com/watch?v=lJMPosxMV2M)
