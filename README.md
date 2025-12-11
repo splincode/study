@@ -2,6 +2,7 @@
 
 <h2>🧑‍💻 Информатика и технологии</h2>
 
+- [x] [<b>2025</b>. 504. Адвенты, JS 30 лет, Chrome 143, TypeScript 7, npm и Server Components, Tailwind, CSS-in-JS](https://youtu.be/dbYU_akTCYg?si=qORVNz8QWmGjhYeR)
 - [x] [<b>2025</b>. Switching on Physical Keyboard from Virtual Keyboard in Android Emulator for Keyboard Handling](https://www.youtube.com/watch?v=GlKAmBqJN20&t=174s)
 - [x] [<b>2025</b>. System Design Interview: 60 минут до оффера / Владимир Невзоров](https://www.youtube.com/watch?v=jsYohT5HBi4&t=2238s)
 - [x] [<b>2025</b>. 500. Новости по-английски, как меняется фронтенд, пишем код в 2025, что нас бесит, вангуем 600-й](https://www.youtube.com/watch?v=TfwfckpZKlo&t=30s)
