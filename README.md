@@ -1,5 +1,10 @@
 # Изученные материалы
 
+## Публичные лекции, офлайн-митапы, офлайн-конференции
+
+- [x] [<b>2026</b>. Лекция «Татьяна Черниговская. Музыка и речь»](https://meloman.ru/concert/kzch-2026-01-14/)
+- [x] [<b>2025</b>. Владимир Сурдин и Алексей Семихатов. Вселенная за пределами здравого смысла](https://mediomodo.ru/ss-online/vselennaya)
+
 <h2>🧑‍💻 Информатика и технологии</h2>
 
 - [x] [<b>2026</b>. 507. Конференции, путешествия, музыка, книги, спорт, кино, техника, белки и еда в 2025 году](https://www.youtube.com/watch?v=JFBquYZFwRk)
@@ -359,3 +364,13 @@
 - [x] [<b>2025</b>. Отпуск в Лос-Анджелесе. Куда сходить и что посмотреть в городе ангелов.](https://www.youtube.com/watch?v=win4saspZmI&ab_channel=TravelossO)
 - [x] [<b>2024</b>. Facts about California](https://www.youtube.com/watch?v=_qMLQcWu_84&t=15s&ab_channel=Westermann)
 - [x] [<b>2024</b>. 15 facts about the USA | Englisch-Video für den Unterricht](https://www.youtube.com/watch?v=kaUajqGp1XE&ab_channel=Westermann)
+
+<hr />
+
+## Театры
+
+- [x] [<b>2025</b>. Театр Сатиры. Игроки](https://www.youtube.com/watch?v=TfwfckpZKlo&t=30s)
+- [x] [<b>2025</b>. Театр им. Пушкина. Человек и джентльмен](https://teatrpushkin.ru/spektakli/detail/chelovek_i%20dzhentlmen/)
+- [x] [<b>2025</b>. Театр Сатирикон. Человек из ресторана](https://www.satirikon.ru/spektakli/repertuar/chelovek-iz-restorana/)
+- [x] [<b>2025</b>. Театр Современник. Интуиция](https://sovremennik.ru/plays/intuitsiya)
+- [x] [<b>2025</b>. Театр Практика. Транссиб](https://praktikatheatre.ru/events/transsib)
