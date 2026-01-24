@@ -36,6 +36,8 @@
 
 <h2>🇬🇧 Английский язык</h2>
 
+- [x] [<b>2026</b>. English Podcast for Easy English Conversation | Talk About Your POWER Day in 2026 | Learn English](https://www.youtube.com/watch?v=68w4SCbKwLo)
+- [x] [<b>2026</b>. Morning Routine To Improve Your English | Easy English Podcast for Conversation Practice B1](https://www.youtube.com/watch?v=03Ovoq4ZzyM)
 - [x] [<b>2025</b>. ГДЕ МЫ НАЙДЁМ ВНЕЗЕМНЫЕ ЦИВИЛИЗАЦИИ? Владимир Сурдин](https://www.youtube.com/watch?v=D5NOfM1sE4s&t=1374s)
 - [x] [<b>2025</b>. Would you pay more for 'ethical' coffee? 6 Minute English](https://www.youtube.com/watch?v=AfNSMykrG1I&t=96s)
 - [x] [<b>2025</b>. Can crypto-currencies be trusted? 6 Minute English](https://www.youtube.com/watch?v=0E9KurvLzqE)
