@@ -36,6 +36,10 @@
 
 <h2>🇬🇧 Английский язык</h2>
 
+- [x] [<b>2026</b>. Stop Thinking Start Talking | Easy English Podcast for Conversation Practice B1 | Daily Life English](https://www.youtube.com/watch?v=odLSgNSKuIg)
+- [x] [<b>2026</b>. English Podcast For Learning English | English Leap Podcast | Overcome Your Fear of Speaking English](https://www.youtube.com/watch?v=P7twND3u-ZM)
+- [x] [<b>2026</b>. English Podcast for Easy English Conversation | Talk About Your POWER Day in 2026 | Learn English](https://www.youtube.com/watch?v=68w4SCbKwLo)
+- [x] [<b>2026</b>. Morning Routine To Improve Your English | Easy English Podcast for Conversation Practice B1](https://www.youtube.com/watch?v=03Ovoq4ZzyM)
 - [x] [<b>2026</b>. English Podcast for Easy English Conversation | Talk About Your POWER Day in 2026 | Learn English](https://www.youtube.com/watch?v=68w4SCbKwLo)
 - [x] [<b>2026</b>. Morning Routine To Improve Your English | Easy English Podcast for Conversation Practice B1](https://www.youtube.com/watch?v=03Ovoq4ZzyM)
 - [x] [<b>2025</b>. ГДЕ МЫ НАЙДЁМ ВНЕЗЕМНЫЕ ЦИВИЛИЗАЦИИ? Владимир Сурдин](https://www.youtube.com/watch?v=D5NOfM1sE4s&t=1374s)
@@ -162,6 +166,7 @@
 
 <h2>🪐 Наука (астрономия, физика, естествознание)</h2>
 
+- [x] [<b>2026</b>. НЕВИДИМОЕ ВЕЩЕСТВО, ИЗ КОТОРОГО СОСТОИТ ВСЕЛЕННАЯ: ТЁМНАЯ МАТЕРИЯ. Семихатов, Сурдин, Боос](https://www.youtube.com/watch?v=0pD-T6SpGVU)
 - [x] [<b>2026</b>. Мы ЗАСТРЯЛИ в Солнечной системе, и вот почему... | Михаил Никитин, Борис Штерн](https://www.youtube.com/watch?v=naeM8R3Pcrs&t=297s)
 - [x] [<b>2025</b>. 49 минут, которые ИЗМЕНЯТ ваше понимание Вселенной | Владимир Сурдин](https://www.youtube.com/watch?v=OBEPshDa7DA&t=1s)
 - [x] [<b>2025</b>. ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ НЕ МОЖЕТ ДУМАТЬ. Коняев, Семихатов, Сурдин](https://www.youtube.com/watch?v=llnfc1Vehso)
@@ -332,6 +337,7 @@
 
 <h2>🏖️ Путешествия</h2>
 
+- [x] [<b>2026</b>. 🇰🇷K-ETA 2025 | КАК получить, подробная инструкция | ОПЛАТА российской картой](https://www.youtube.com/watch?v=SAjVxkNyRuw)
 - [x] [<b>2025</b>. XI'AN CHINA CULTURAL SHOW | THE SONG OF EVERLASTING SORROW | FOREIGNERS IN CHINA 2022](https://www.youtube.com/watch?v=J2BDWmgkyuE&t=325s)
 - [x] [<b>2025</b>. Going to China for the FIRST TIME! Everything you need to know!](https://www.youtube.com/watch?v=jqU5U353EXk&t=120s)
 - [x] [<b>2025</b>. TOURISM TO CHINA! SECRETS/FOOD/THINGS TO SEE](https://www.youtube.com/watch?v=VFWoiNCmzQE)
