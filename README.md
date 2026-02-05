@@ -36,6 +36,10 @@
 
 <h2>🇬🇧 Английский язык</h2>
 
+- [x] [<b>2026</b>. Making an appointment | Learn English quickly with podcast | Episode 31](https://www.youtube.com/watch?v=wSWhVWjv2J0)
+- [x] [<b>2026</b>. Eye doctor | Learn English quickly with podcast | Episode 30](https://www.youtube.com/watch?v=B050ozgwA-Q)
+- [x] [<b>2026</b>. Weddings | Learn English quickly with podcast | Episode 29](https://www.youtube.com/watch?v=n40lNUXp1fE&t=8s)
+- [x] [<b>2026</b>. English Podcast For Easy English Conversation | Talk About Daily Life in English |Learn English Fast](https://www.youtube.com/watch?v=-PubLR4mWkI&t=17s)
 - [x] [<b>2026</b>. Stop Thinking Start Talking | Easy English Podcast for Conversation Practice B1 | Daily Life English](https://www.youtube.com/watch?v=odLSgNSKuIg)
 - [x] [<b>2026</b>. English Podcast For Learning English | English Leap Podcast | Overcome Your Fear of Speaking English](https://www.youtube.com/watch?v=P7twND3u-ZM)
 - [x] [<b>2026</b>. English Podcast for Easy English Conversation | Talk About Your POWER Day in 2026 | Learn English](https://www.youtube.com/watch?v=68w4SCbKwLo)
