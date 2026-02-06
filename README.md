@@ -36,6 +36,7 @@
 
 <h2>🇬🇧 Английский язык</h2>
 
+- [x] [<b>2026</b>. a Situation at an Office| Learn English quickly with podcast | Episode 32](https://www.youtube.com/watch?v=T0Cd1FzsXnc)
 - [x] [<b>2026</b>. Making an appointment | Learn English quickly with podcast | Episode 31](https://www.youtube.com/watch?v=wSWhVWjv2J0)
 - [x] [<b>2026</b>. Eye doctor | Learn English quickly with podcast | Episode 30](https://www.youtube.com/watch?v=B050ozgwA-Q)
 - [x] [<b>2026</b>. Weddings | Learn English quickly with podcast | Episode 29](https://www.youtube.com/watch?v=n40lNUXp1fE&t=8s)
@@ -170,6 +171,7 @@
 
 <h2>🪐 Наука (астрономия, физика, естествознание)</h2>
 
+- [x] [<b>2026</b>. ENTER 2026 IN AWARENESS CHERNIGOVSKAYA TATYANA](https://www.youtube.com/watch?v=ugSrrRtGzGc)
 - [x] [<b>2026</b>. Время существует? Физик и лингвист решили это выяснить](https://www.youtube.com/watch?v=MX4nQbGTeXk)
 - [x] [<b>2026</b>. #1 Атомные дискуссии – Почему мы живы? Уникальная Земля от ядра до ионосферы](https://www.youtube.com/watch?v=ny_l65w-De4)
 - [x] [<b>2026</b>. НЕВИДИМОЕ ВЕЩЕСТВО, ИЗ КОТОРОГО СОСТОИТ ВСЕЛЕННАЯ: ТЁМНАЯ МАТЕРИЯ. Семихатов, Сурдин, Боос](https://www.youtube.com/watch?v=0pD-T6SpGVU)
