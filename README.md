@@ -36,6 +36,9 @@
 
 <h2>🇬🇧 Английский язык</h2>
 
+- [x] [<b>2026</b>. I love you | Learn English quickly with podcast | Episode 36](https://www.youtube.com/watch?v=T0imJZ3-4Jg)
+- [x] [<b>2026</b>. Asking people for help | Learn English quickly with podcast | Episode 35](https://www.youtube.com/watch?v=CsySHPIyABc)
+- [x] [<b>2026</b>. Canceling an appointment | Learn English quickly with podcast | Episode 33](https://www.youtube.com/watch?v=CfrUgtMrDkQ)
 - [x] [<b>2026</b>. a Situation at an Office| Learn English quickly with podcast | Episode 32](https://www.youtube.com/watch?v=T0Cd1FzsXnc)
 - [x] [<b>2026</b>. Making an appointment | Learn English quickly with podcast | Episode 31](https://www.youtube.com/watch?v=wSWhVWjv2J0)
 - [x] [<b>2026</b>. Eye doctor | Learn English quickly with podcast | Episode 30](https://www.youtube.com/watch?v=B050ozgwA-Q)
@@ -171,6 +174,7 @@
 
 <h2>🪐 Наука (астрономия, физика, естествознание)</h2>
 
+- [x] [<b>2026</b>. ЛЮДИ СНОВА ЛЕТЯТ НА ЛУНУ. КАК И ЗАЧЕМ? Владимир Сурдин](https://www.youtube.com/watch?v=dgnqxLbBvx8&t=2471s)
 - [x] [<b>2026</b>. ENTER 2026 IN AWARENESS CHERNIGOVSKAYA TATYANA](https://www.youtube.com/watch?v=ugSrrRtGzGc)
 - [x] [<b>2026</b>. Время существует? Физик и лингвист решили это выяснить](https://www.youtube.com/watch?v=MX4nQbGTeXk)
 - [x] [<b>2026</b>. #1 Атомные дискуссии – Почему мы живы? Уникальная Земля от ядра до ионосферы](https://www.youtube.com/watch?v=ny_l65w-De4)
