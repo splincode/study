@@ -2,7 +2,14 @@
 
 <h2>🧑‍💻 Информатика и технологии</h2>
 
+<h6>2026</h6>
+
+- [x] [<b>2026</b>. Как финтех-прокладка Wildberries выдает займы под 85% годовых, маскируясь под «поручителя»](https://habr.com/ru/articles/1000046/)
+- [x] [<b>2026</b>.Меня уволили из-за ИИ, но я всё равно считаю себя инженером будущего](https://habr.com/ru/articles/996744/)
 - [x] [<b>2026</b>. 507. Конференции, путешествия, музыка, книги, спорт, кино, техника, белки и еда в 2025 году](https://www.youtube.com/watch?v=JFBquYZFwRk)
+
+<h6>2025</h6>
+
 - [x] [<b>2025</b>. 504. Адвенты, JS 30 лет, Chrome 143, TypeScript 7, npm и Server Components, Tailwind, CSS-in-JS](https://youtu.be/dbYU_akTCYg?si=qORVNz8QWmGjhYeR)
 - [x] [<b>2025</b>. Switching on Physical Keyboard from Virtual Keyboard in Android Emulator for Keyboard Handling](https://www.youtube.com/watch?v=GlKAmBqJN20&t=174s)
 - [x] [<b>2025</b>. System Design Interview: 60 минут до оффера / Владимир Невзоров](https://www.youtube.com/watch?v=jsYohT5HBi4&t=2238s)
@@ -30,12 +37,25 @@
 - [x] [<b>2025</b>. Don't Use Effects 🚫 and What To Do Instead 🌟 w/ Alex Rickabaugh, Angular Team](https://www.youtube.com/watch?v=aKxcIQMWSNU&t=88s&ab_channel=TechStackNation)
 - [x] [<b>2025</b>. A 10x faster TypeScript](https://www.youtube.com/watch?v=pNlq-EVld70&t=317s)
 - [x] [<b>2025</b>. Как не уронить прод? Даниэль Халиулин про стабильный софт, качество и разработку / ЧТУК](https://www.youtube.com/watch?v=P0yrAzqHjIQ&t=24s&ab_channel=MobileDeveloper)
+
+<h6>2024</h6>
+
 - [x] [<b>2024</b>. Trunk Based Development как замена Git Flow / Владимир Агеев (Тинькофф)](https://www.youtube.com/watch?v=qpGhQXC7ha0&ab_channel=FrontendChannel), [конспект](https://github.com/splincode/study/tree/main/Trunk%20Based%20Development%20%D0%BA%D0%B0%D0%BA%20%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0%20Git%20Flow%20)
+
+<h6>2019</h6>
+
 - [x] [<b>2019</b>. Отрисовать за 16 мс / Глеб Михеев (Beta Digital Production)](https://www.youtube.com/watch?v=HlKijvTa_h0&ab_channel=HighLoadChannel)
+
+<h6>2018</h6>
+
 - [x] [<b>2018</b>. Почему сложно программировать UI (Кирилл Мокевнин)](https://www.youtube.com/watch?v=DCeNCr2tKOI&t=46s&ab_channel=%D0%A5%D0%B5%D0%BA%D1%81%D0%BB%D0%B5%D1%82)
 
 <h2>🇬🇧 Английский язык</h2>
 
+<h6>2026</h6>
+
+- [x] [<b>2026</b>. a bank robbery | Learn English quickly with podcast | Episode 38](https://www.youtube.com/watch?v=fqFXLNWm1Ow)
+- [x] [<b>2026</b>. Shopping | Learn English quickly with podcast | Episode 37](https://www.youtube.com/watch?v=FydO6ukmflg)
 - [x] [<b>2026</b>. I love you | Learn English quickly with podcast | Episode 36](https://www.youtube.com/watch?v=T0imJZ3-4Jg)
 - [x] [<b>2026</b>. Asking people for help | Learn English quickly with podcast | Episode 35](https://www.youtube.com/watch?v=CsySHPIyABc)
 - [x] [<b>2026</b>. Canceling an appointment | Learn English quickly with podcast | Episode 33](https://www.youtube.com/watch?v=CfrUgtMrDkQ)
@@ -50,6 +70,9 @@
 - [x] [<b>2026</b>. Morning Routine To Improve Your English | Easy English Podcast for Conversation Practice B1](https://www.youtube.com/watch?v=03Ovoq4ZzyM)
 - [x] [<b>2026</b>. English Podcast for Easy English Conversation | Talk About Your POWER Day in 2026 | Learn English](https://www.youtube.com/watch?v=68w4SCbKwLo)
 - [x] [<b>2026</b>. Morning Routine To Improve Your English | Easy English Podcast for Conversation Practice B1](https://www.youtube.com/watch?v=03Ovoq4ZzyM)
+
+<h6>2025</h6>
+
 - [x] [<b>2025</b>. ГДЕ МЫ НАЙДЁМ ВНЕЗЕМНЫЕ ЦИВИЛИЗАЦИИ? Владимир Сурдин](https://www.youtube.com/watch?v=D5NOfM1sE4s&t=1374s)
 - [x] [<b>2025</b>. Would you pay more for 'ethical' coffee? 6 Minute English](https://www.youtube.com/watch?v=AfNSMykrG1I&t=96s)
 - [x] [<b>2025</b>. Can crypto-currencies be trusted? 6 Minute English](https://www.youtube.com/watch?v=0E9KurvLzqE)
@@ -157,6 +180,9 @@
 - [x] [<b>2025</b>. Is London cheaper than New York (Comparatives) – A2 English Listening Test](https://www.youtube.com/watch?v=7QmvIKaLhk4&ab_channel=Test-English)
 - [x] [<b>2025</b>. Learn English With Podcast Conversation | English Podcast For Beginners | Ep 83](https://www.youtube.com/watch?v=GZycV7BzpN0&t=12s&ab_channel=PodvoiceStudio)
 - [x] [<b>2025</b>. Learning English With Podcast | Podcast For Beginners | Episode 1](https://www.youtube.com/watch?v=bkScKZwWxhk&t=68s&ab_channel=PodvoiceStudio)
+
+<h6>2024</h6>
+
 - [x] [<b>2024</b>. English Grammar: a / an + Noun](https://www.youtube.com/watch?v=sX7eLnvedMo&ab_channel=ShawEnglishOnline)
 - [x] [<b>2024</b>. English Grammar Course for Beginners Learn Basic English Grammar with Esther](https://www.youtube.com/watch?v=KTt7gk_EPY0&t=12s&ab_channel=ShawEnglishOnline)
 - [x] [<b>2024</b>. 100 Common English Questions with ESTHER | How to Ask and Answer Questions in English](https://www.youtube.com/watch?v=BjuhgzNEG0Y&t=1s&ab_channel=ShawEnglishOnline)
@@ -174,12 +200,18 @@
 
 <h2>🪐 Наука (астрономия, физика, естествознание)</h2>
 
+<h6>2026</h6>
+
+- [x] [МЫ ЗАМЕТИМ ИНОПЛАНЕТЯН В МОМЕНТ ГИБЕЛИ. Владимир Сурдин](https://www.youtube.com/watch?v=EJRKluV5PVc)
+- [x] [Найдем ли мы общий язык с инопланетянами? Разбираем сигналы из космоса с Владимиром Сурдиным](https://www.youtube.com/watch?v=vbOP-VTP6Kg&t=2005s)
 - [x] [<b>2026</b>. ЛЮДИ СНОВА ЛЕТЯТ НА ЛУНУ. КАК И ЗАЧЕМ? Владимир Сурдин](https://www.youtube.com/watch?v=dgnqxLbBvx8&t=2471s)
-- [x] [<b>2026</b>. ENTER 2026 IN AWARENESS CHERNIGOVSKAYA TATYANA](https://www.youtube.com/watch?v=ugSrrRtGzGc)
 - [x] [<b>2026</b>. Время существует? Физик и лингвист решили это выяснить](https://www.youtube.com/watch?v=MX4nQbGTeXk)
 - [x] [<b>2026</b>. #1 Атомные дискуссии – Почему мы живы? Уникальная Земля от ядра до ионосферы](https://www.youtube.com/watch?v=ny_l65w-De4)
 - [x] [<b>2026</b>. НЕВИДИМОЕ ВЕЩЕСТВО, ИЗ КОТОРОГО СОСТОИТ ВСЕЛЕННАЯ: ТЁМНАЯ МАТЕРИЯ. Семихатов, Сурдин, Боос](https://www.youtube.com/watch?v=0pD-T6SpGVU)
 - [x] [<b>2026</b>. Мы ЗАСТРЯЛИ в Солнечной системе, и вот почему... | Михаил Никитин, Борис Штерн](https://www.youtube.com/watch?v=naeM8R3Pcrs&t=297s)
+
+<h6>2025</h6>
+
 - [x] [<b>2025</b>. 49 минут, которые ИЗМЕНЯТ ваше понимание Вселенной | Владимир Сурдин](https://www.youtube.com/watch?v=OBEPshDa7DA&t=1s)
 - [x] [<b>2025</b>. ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ НЕ МОЖЕТ ДУМАТЬ. Коняев, Семихатов, Сурдин](https://www.youtube.com/watch?v=llnfc1Vehso)
 - [x] [<b>2025</b>. СУРДИН: Почему жизнь на Земле — случайность, 3I/Atlas и другие новости космоса](https://www.youtube.com/watch?v=sPfiY9l0uQ0&t=1002s)
@@ -270,6 +302,9 @@
 - [x] [<b>2025</b>. ИИ ПЕРЕВЕДЁТ ИНОПЛАНЕТЯН? / США НЕ ЛЕТЯТ НА ЛУНУ? / СЛЕДЫ ЧЁРНЫХ ДЫР НА ЗЕМЛЕ. Владимир Сурдин](https://www.youtube.com/watch?v=BB2L2qNuHQA&t=1195s&ab_channel=%D0%9D%D0%B5%D0%B7%D0%B5%D0%BC%D0%BD%D0%BE%D0%B9%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%B0%D0%A1%D1%83%D1%80%D0%B4%D0%B8%D0%BD%D0%B0)
 - [x] [<b>2025</b>. СЕРГЕЙ ПОПОВ: НОВАЯ ЭРА АСТРОФИЗИКИ](https://www.youtube.com/watch?v=jHJhwUPAIqk&t=2s&ab_channel=%D0%9E%D0%A1%D0%9D%D0%9E%D0%92%D0%90)
 - [x] [<b>2025</b>. ИНДИЯ: КАСТОВАЯ СИСТЕМА, БОЛЛИВУД, НЕПРИКАСАЕМЫЕ И КОРОВЫ, 500 ЯЗЫКОВ](https://www.youtube.com/watch?v=ZpyV2dKxh_o&t=2s&ab_channel=%D0%9E%D0%A1%D0%9D%D0%9E%D0%92%D0%90)
+
+<h6>2024</h6>
+
 - [x] [<b>2024</b>. Что такое черная дыра простыми словами? Подробная лекция о природе черных дыр от Сергея Попова](https://www.youtube.com/watch?v=RmHEqCBtUDI&t=6s&ab_channel=%D0%A0%D0%91%D0%9A%D0%A2%D1%80%D0%B5%D0%BD%D0%B4%D1%8B)
 - [x] [<b>2024</b>. Документальный фильм "ВЕКТОР НАУКИ" 1 серия](https://www.youtube.com/watch?v=bCGMORkw1yE&ab_channel=%D0%92%D0%B0%D0%BB%D0%B4%D0%B8%D1%81%D0%9F%D0%B5%D0%BB%D1%8C%D1%88)
 - [x] [<b>2024</b>. Документальный фильм "ВЕКТОР НАУКИ" 2 серия](https://www.youtube.com/watch?v=snYTML74tTI&ab_channel=%D0%92%D0%B0%D0%BB%D0%B4%D0%B8%D1%81%D0%9F%D0%B5%D0%BB%D1%8C%D1%88)
@@ -291,6 +326,12 @@
 
 <h2>🧑‍🔬 Философия и психология</h2>
 
+<h6>2026</h6>
+
+- [x] [<b>2026</b>. ENTER 2026 IN AWARENESS CHERNIGOVSKAYA TATYANA](https://www.youtube.com/watch?v=ugSrrRtGzGc)
+
+<h6>2025</h6>
+
 - [x] [<b>2025</b>. «Как сохранить человеческий разум в эпоху технологий». Татьяна Черниговская](https://www.youtube.com/watch?v=IqMymugffNA&t=86s)
 - [x] [<b>2025</b>. HOW TO GET RID OF BAD THOUGHTS CHERNIGOVSKAYA TATYANA](https://www.youtube.com/watch?v=MZe1FlajPsg&t=16s&ab_channel=%D0%9F%D0%A0%D0%9E%D0%A4%D0%95%D0%A1%D0%A1%D0%9E%D0%A0-%D0%94%D0%90)
 - [x] [<b>2025</b>. Tatiana Chernigovskaya: Why do we never find out the truth about reality?](https://www.youtube.com/watch?v=OughzI1lvmA&t=2975s&ab_channel=%D0%90%D0%B9%D1%80%D0%B0%D1%82%D0%A5%D0%B0%D0%B9%D1%80%D1%83%D0%BB%D0%BB%D0%B8%D0%BD)
@@ -311,7 +352,12 @@
 
 <h2>🏛️ История</h2>
 
+<h6>2026</h6>
+
 - [x] [<b>2026</b>. Почему АЗИАТСКИЙ НОВЫЙ ГОД - абсолютно ДРУГОЙ ПРАЗДНИК?](https://www.youtube.com/watch?v=YkO9o4hvMrw&t=5s)
+
+<h6>2025</h6>
+
 - [x] [<b>2025</b>. Почему императоры Китая и Японии ОЧЕНЬ ОТЛИЧАЛИСЬ от европейских? | Ланьков](https://www.youtube.com/watch?v=oS3f1zAq2l4&t=507s)
 - [x] [<b>2025</b>. Феминизм, конкуренция и призраки предков: Андрей Ланьков о Южной Корее](https://www.youtube.com/watch?v=SiTFjAsIbJE&t=945s)
 - [x] [<b>2025</b>. Первое личное интервью Андрея Ланькова | ‪@lankov_official‬](https://www.youtube.com/watch?v=EBn4aMV6bj0)
@@ -330,10 +376,15 @@
 - [x] [<b>2025</b>. Ланьков про "корейский сценарий" мирных переговоров и окончания войны](https://www.youtube.com/watch?v=TkoAZnqOWEI&t=2461s)
 - [x] [<b>2025</b>. Ланьков о ядерной программе Северной Кореи](https://www.youtube.com/watch?v=o_3LgeP3O6Q)
 - [x] [<b>2025</b>. История Кореи за 10 минут. От Объединения до Разделения](https://www.youtube.com/watch?v=tw7IQEjGct4)
+
+<h6>2024</h6>
+
 - [x] [<b>2024</b>. АНДРЕЙ ЛАНЬКОВ: ГЛАВНЫЕ СЕКРЕТЫ и ПРАВИЛА ЖИЗНИ В СЕВЕРНОЙ КОРЕЕ](https://www.youtube.com/watch?v=ZOJp0LN_76w&t=2508s&ab_channel=%D0%9E%D0%A1%D0%9D%D0%9E%D0%92%D0%90)
 - [x] [<b>2024</b>. ПОНЯТЬ КИТАЙ: ПОЧЕМУ ТАКОЙ БОЛЬШОЙ, ИЕРОГЛИФЫ и iPhone-КОММУНИЗМ](https://www.youtube.com/watch?v=zWo99EWVb1U&t=8s&ab_channel=%D0%9E%D0%A1%D0%9D%D0%9E%D0%92%D0%90)
 
 <h2>💰 Экономика</h2>
+
+<h6>2025</h6>
 
 - [x] [<b>2025</b>. «Деньги кончаются»: новые санкции, налоги и бюджет | Рубен Ениколопов про Россию, Европу и Трампа](https://www.youtube.com/watch?v=7Ugkiud9Spk)
 - [x] [<b>2025</b>. Иметь свою квартиру для ЛУЗЕРОВ! Андрей Ланьков про недвижимость и Северную и Южную Корею](https://www.youtube.com/watch?v=PdozJdM43hM&t=2256s)
@@ -341,6 +392,9 @@
 - [x] [<b>2025</b>. Бездетность, войны, кризисы, запрет абортов. Как работает демография в России и мире / Алексей Ракша](https://www.youtube.com/watch?v=AGTRdIc_eDs&t=1642s&ab_channel=%D0%A4%D0%B0%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B8%D0%B2.%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%D0%BE%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8%D0%B8%D0%BF%D1%80%D0%B0%D0%B2%D0%B5)
 - [x] [<b>2025</b>. Демография в России. Битва с реальностью. Александр Баунов и Алексей Ракша. Бауновкаст.](https://www.youtube.com/watch?v=nYzu4Aoampo)
 - [x] [<b>2025</b>. Вся правда о реальной инфляции / Ари Евчук](https://www.youtube.com/watch?v=aIkjY0AXgAg&ab_channel=%D0%90%D1%80%D0%B8%D0%95%D0%B2%D1%87%D1%83%D0%BA%28Lunnemone%29)
+
+<h6>2024</h6>
+
 - [x] [<b>2024</b>. Спокойствия при Трампе не будет / Большой прогноз на 2025 по акциям, экономике и валютам](https://www.youtube.com/watch?v=gPN8BxiCNk8&t=24s&ab_channel=%D0%94%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8%D0%BD%D0%B5%D1%81%D0%BF%D1%8F%D1%82)
 - [x] [<b>2024</b>. Тяжелый год? Подводим экономические итоги 2024 года и прогнозируем 2025 год](https://www.youtube.com/watch?v=WNLWcTICzlA&t=483s&ab_channel=%D0%9D%D0%9E.%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0%D0%B8%D0%B7%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8)
 - [x] [<b>2024</b>. Рынок выдохнул: сколько продолжится рост? / Два сценария для экономики России и инвесторов на 2025](https://www.youtube.com/watch?v=uH1wzPAttP8&t=1798s&ab_channel=%D0%94%D0%B5%D0%BD%D1%8C%D0%B3%D0%B8%D0%BD%D0%B5%D1%81%D0%BF%D1%8F%D1%82)
@@ -349,7 +403,12 @@
 
 <h2>🏖️ Путешествия</h2>
 
+<h6>2026</h6>
+
 - [x] [<b>2026</b>. 🇰🇷K-ETA 2025 | КАК получить, подробная инструкция | ОПЛАТА российской картой](https://www.youtube.com/watch?v=SAjVxkNyRuw)
+
+<h6>2025</h6>
+
 - [x] [<b>2025</b>. XI'AN CHINA CULTURAL SHOW | THE SONG OF EVERLASTING SORROW | FOREIGNERS IN CHINA 2022](https://www.youtube.com/watch?v=J2BDWmgkyuE&t=325s)
 - [x] [<b>2025</b>. Going to China for the FIRST TIME! Everything you need to know!](https://www.youtube.com/watch?v=jqU5U353EXk&t=120s)
 - [x] [<b>2025</b>. TOURISM TO CHINA! SECRETS/FOOD/THINGS TO SEE](https://www.youtube.com/watch?v=VFWoiNCmzQE)
@@ -377,17 +436,27 @@
 - [x] [<b>2025</b>. National Air and Space Museum - Washington DC - What to Expect - My Visit There - Tour Review](https://www.youtube.com/watch?v=M-SHfj3E8YQ&ab_channel=Let%27sGoSeeIt)
 - [x] [<b>2025</b>. Лос-Анджелес – столица грез и бездомных. Дно и роскошь Калифорнии / В США со Стасом Натанзоном](https://www.youtube.com/watch?v=2ImLUnw8ONs&t=53s&ab_channel=%D0%9F%D0%BE%D0%B3%D0%BD%D0%B0%D0%BB%D0%B8%21)
 - [x] [<b>2025</b>. Отпуск в Лос-Анджелесе. Куда сходить и что посмотреть в городе ангелов.](https://www.youtube.com/watch?v=win4saspZmI&ab_channel=TravelossO)
+
+<h6>2024</h6>
+
 - [x] [<b>2024</b>. Facts about California](https://www.youtube.com/watch?v=_qMLQcWu_84&t=15s&ab_channel=Westermann)
 - [x] [<b>2024</b>. 15 facts about the USA | Englisch-Video für den Unterricht](https://www.youtube.com/watch?v=kaUajqGp1XE&ab_channel=Westermann)
 
 <hr />
 
-## Публичные лекции, офлайн-митапы, офлайн-конференции
+## Посещение публичных лекций, офлайн-митапов, офлайн-конференций
+
+<h6>2026</h6>
 
 - [x] [<b>2026</b>. Лекция «Татьяна Черниговская. Музыка и речь»](https://meloman.ru/concert/kzch-2026-01-14/)
+
+<h6>2025</h6>
+
 - [x] [<b>2025</b>. Владимир Сурдин и Алексей Семихатов. Вселенная за пределами здравого смысла](https://mediomodo.ru/ss-online/vselennaya)
 
 ## Театры
+
+<h6>2025</h6>
 
 - [x] [<b>2025</b>. Театр Сатиры. Игроки](https://www.youtube.com/watch?v=TfwfckpZKlo&t=30s)
 - [x] [<b>2025</b>. Театр им. Пушкина. Человек и джентльмен](https://teatrpushkin.ru/spektakli/detail/chelovek_i%20dzhentlmen/)
