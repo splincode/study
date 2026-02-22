@@ -406,6 +406,7 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. Life in Korea and Japan WITHOUT FILTER: Where is it harder for an immigrant?](https://www.youtube.com/watch?v=gwzaKr4qU1E)
 - [x] [<b>2026</b>. 🇰🇷K-ETA 2025 | КАК получить, подробная инструкция | ОПЛАТА российской картой](https://www.youtube.com/watch?v=SAjVxkNyRuw)
 
 <h6>2025</h6>
