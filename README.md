@@ -406,6 +406,9 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. Первый раз в Сеуле: все об аэропорте Инчхон](https://www.youtube.com/watch?v=zXZ_bUI8v3E)
+- [x] [<b>2026</b>. Первый раз в Сеуле: как пользоваться общественным транспортом?](https://www.youtube.com/watch?v=BSckgrs3vJk)
+- [x] [<b>2026</b>. ПАСПОРТНЫЙ КОНТРОЛЬ КОРЕЯ | Документы•Допрос•Возможные вопросы](https://www.youtube.com/watch?v=kPB_wxBqYCo)
 - [x] [<b>2026</b>. Life in Korea and Japan WITHOUT FILTER: Where is it harder for an immigrant?](https://www.youtube.com/watch?v=gwzaKr4qU1E)
 - [x] [<b>2026</b>. 🇰🇷K-ETA 2025 | КАК получить, подробная инструкция | ОПЛАТА российской картой](https://www.youtube.com/watch?v=SAjVxkNyRuw)
 
