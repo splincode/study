@@ -406,6 +406,7 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. Cashless Payment in Korea for Foreigners - WOWPASS 🇰🇷 【Trip57】](https://www.youtube.com/watch?v=iTvfhfEPPME)
 - [x] [<b>2026</b>. Первый раз в Сеуле: все об аэропорте Инчхон](https://www.youtube.com/watch?v=zXZ_bUI8v3E)
 - [x] [<b>2026</b>. Первый раз в Сеуле: как пользоваться общественным транспортом?](https://www.youtube.com/watch?v=BSckgrs3vJk)
 - [x] [<b>2026</b>. ПАСПОРТНЫЙ КОНТРОЛЬ КОРЕЯ | Документы•Допрос•Возможные вопросы](https://www.youtube.com/watch?v=kPB_wxBqYCo)
