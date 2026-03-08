@@ -356,6 +356,7 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. Where did Koreans and the Korean language REALLY come from?](https://www.youtube.com/watch?v=H2-FVXM40kU)
 - [x] [<b>2026</b>. Чем НА САМОМ ДЕЛЕ питаются корейцы?](https://www.youtube.com/watch?v=tV7HnGrj6kQ)
 - [x] [<b>2026</b>. Ланьков об истории дипломатии Восточной Азии за 1500 лет](https://www.youtube.com/watch?v=P-Y6wC-ighg)
 - [x] [<b>2026</b>. Почему АЗИАТСКИЙ НОВЫЙ ГОД - абсолютно ДРУГОЙ ПРАЗДНИК?](https://www.youtube.com/watch?v=YkO9o4hvMrw&t=5s)
