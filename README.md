@@ -55,6 +55,8 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. School | Learn English quickly with podcast | Episode 42](https://www.youtube.com/watch?v=u5svoPm4ve4)
+- [x] [<b>2026</b>. Drug Store | Learn English quickly with podcast | Episode 41](https://www.youtube.com/watch?v=GN036R7ya8o)
 - [x] [<b>2026</b>. a bank robbery | Learn English quickly with podcast | Episode 38](https://www.youtube.com/watch?v=fqFXLNWm1Ow)
 - [x] [<b>2026</b>. Shopping | Learn English quickly with podcast | Episode 37](https://www.youtube.com/watch?v=FydO6ukmflg)
 - [x] [<b>2026</b>. I love you | Learn English quickly with podcast | Episode 36](https://www.youtube.com/watch?v=T0imJZ3-4Jg)
@@ -356,6 +358,7 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. За два часа до...ЛАНЬКОВ рассказал о "тайной встрече" на корабле: Как устроена Северная Корея](https://www.youtube.com/watch?v=CO-9NnIFFpw)
 - [x] [<b>2026</b>. Where did Koreans and the Korean language REALLY come from?](https://www.youtube.com/watch?v=H2-FVXM40kU)
 - [x] [<b>2026</b>. Чем НА САМОМ ДЕЛЕ питаются корейцы?](https://www.youtube.com/watch?v=tV7HnGrj6kQ)
 - [x] [<b>2026</b>. Ланьков об истории дипломатии Восточной Азии за 1500 лет](https://www.youtube.com/watch?v=P-Y6wC-ighg)
@@ -388,6 +391,10 @@
 - [x] [<b>2024</b>. ПОНЯТЬ КИТАЙ: ПОЧЕМУ ТАКОЙ БОЛЬШОЙ, ИЕРОГЛИФЫ и iPhone-КОММУНИЗМ](https://www.youtube.com/watch?v=zWo99EWVb1U&t=8s&ab_channel=%D0%9E%D0%A1%D0%9D%D0%9E%D0%92%D0%90)
 
 <h2>💰 Экономика</h2>
+
+<h6>2026</h6>
+
+- [x] [<b>2026</b>. Дефицит бюджета, релокация госкомпаний и ипотечный ценз: что в итоге с российскими регионами?](https://www.youtube.com/watch?v=-kQFoK2u-ik)
 
 <h6>2025</h6>
 
