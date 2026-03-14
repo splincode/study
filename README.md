@@ -358,6 +358,7 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. Как возник гениальный ЮЖНОкорейский диктатор? | Ланьков](https://www.youtube.com/watch?v=i4DgmdEO3qM)
 - [x] [<b>2026</b>. За два часа до...ЛАНЬКОВ рассказал о "тайной встрече" на корабле: Как устроена Северная Корея](https://www.youtube.com/watch?v=CO-9NnIFFpw)
 - [x] [<b>2026</b>. Where did Koreans and the Korean language REALLY come from?](https://www.youtube.com/watch?v=H2-FVXM40kU)
 - [x] [<b>2026</b>. Чем НА САМОМ ДЕЛЕ питаются корейцы?](https://www.youtube.com/watch?v=tV7HnGrj6kQ)
