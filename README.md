@@ -55,6 +55,7 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. Electronics | Learn English quickly with podcast | Episode 47](https://www.youtube.com/watch?v=q29gnnyQLTQ)
 - [x] [<b>2026</b>. School | Learn English quickly with podcast | Episode 42](https://www.youtube.com/watch?v=u5svoPm4ve4)
 - [x] [<b>2026</b>. Drug Store | Learn English quickly with podcast | Episode 41](https://www.youtube.com/watch?v=GN036R7ya8o)
 - [x] [<b>2026</b>. a bank robbery | Learn English quickly with podcast | Episode 38](https://www.youtube.com/watch?v=fqFXLNWm1Ow)
@@ -205,6 +206,7 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. ПОЧЕМУ ОТЛОЖЕН ПОЛЕТ К ЛУНЕ? / МАРС БЫЛ ОБИТАЕМ? / КАК ИСКАТЬ ОБИТАЕМЫЕ ПЛАНЕТЫ? Владимир Сурдин](https://www.youtube.com/watch?v=0JbG1dk2sNQ)
 - [x] [<b>2026</b>. «Не 35-летний старик, а 35-летний ребенок»: как будет развиваться мозг человека // Дробышевский](https://www.youtube.com/watch?v=ochWjncqJ7A)
 - [x] [<b>2026</b>. ГДЕ ВСЕ? Парадокс Ферми: инопланетяне молчат, потому что боятся нас?](https://www.youtube.com/watch?v=Azu8oIBSdTA)
 - [x] [<b>2026</b>. ЧТО МЫ НЕ ЗНАЕМ О ВСЕЛЕННОЙ. Владимир Сурдин](https://www.youtube.com/watch?v=0fBhRfdJOQE)
@@ -334,6 +336,7 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. Вперёд, в Средневековье | Диалог Александра Аузана и Евгения Водолазкина о цивилизационных переменах](https://www.youtube.com/watch?v=mKgcozVNvfM)
 - [x] [<b>2026</b>. ENTER 2026 IN AWARENESS CHERNIGOVSKAYA TATYANA](https://www.youtube.com/watch?v=ugSrrRtGzGc)
 
 <h6>2025</h6>
