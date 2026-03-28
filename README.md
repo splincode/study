@@ -473,11 +473,13 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. Dream Teamlead](https://dream-teamlead.yandex.ru/)
 - [x] [<b>2026</b>. Лекция «Татьяна Черниговская. Музыка и речь»](https://meloman.ru/concert/kzch-2026-01-14/)
 
 <h6>2025</h6>
 
 - [x] [<b>2025</b>. Владимир Сурдин и Алексей Семихатов. Вселенная за пределами здравого смысла](https://mediomodo.ru/ss-online/vselennaya)
+- [x] [<b>2025</b>. Я люблю Фронтенд](https://events.yandex.ru/events/ya-love-frontend-2025/)
 
 ## Театры
 
