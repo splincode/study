@@ -202,7 +202,7 @@
 - [x] [<b>2024</b>. Английский язык с нуля за 50 уроков A0 Английский с нуля Английский для начинающих Уроки Урок 6](https://www.youtube.com/watch?v=Bhc_X9XGua0&ab_channel=%D0%90%D0%9D%D0%93%D0%9B%D0%98%D0%99%D0%A1%D0%9A%D0%98%D0%99%D0%AF%D0%97%D0%AB%D0%9A%D0%9F%D0%9E%D0%9F%D0%9B%D0%95%D0%99%D0%9B%D0%98%D0%A1%D0%A2%D0%90%D0%9C)
 - [x] [<b>2024</b>. Easy English Podcast Talking About Past Simple Tense Of "Tobe" (Episode 2)](https://www.youtube.com/watch?v=GJHQ5EFEkBs&t=541s&ab_channel=EasyEnglishPodcast)
 
-<h2>🪐 Наука (астрономия, физика, естествознание)</h2>
+<h2>🪐 Астрономия, физика</h2>
 
 <h6>2026</h6>
 
@@ -334,7 +334,7 @@
 - [x] [<b>2024</b>. Судмедэксперт про жизнь после смерти, мистику в профессии и реальные последствия алкоголя и никотина](https://www.youtube.com/watch?v=Hu_KigeWLA4)
 - [x] [<b>2024</b>. Космос с Владимиром Сурдиным: освоение других планет и самые ожидаемые открытия](https://www.youtube.com/watch?v=WeIVtFKs2G0)
 
-<h2>🧑‍🔬 Философия и психология</h2>
+<h2>🧑‍🔬 Философия, психология и естествознание</h2>
 
 <h6>2026</h6>
 
