@@ -338,6 +338,7 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. ПРИДУМАЛИ ЭТО РАДИ НАШЕЙ БЕЗОПАСНОСТИ..или? ЧЕРНИГОВСКАЯ ТАТЬЯНА](https://www.youtube.com/watch?v=vzoOqG0iodc&t=803s)
 - [x] [<b>2026</b>. Вперёд, в Средневековье | Диалог Александра Аузана и Евгения Водолазкина о цивилизационных переменах](https://www.youtube.com/watch?v=mKgcozVNvfM)
 - [x] [<b>2026</b>. ENTER 2026 IN AWARENESS CHERNIGOVSKAYA TATYANA](https://www.youtube.com/watch?v=ugSrrRtGzGc)
 
