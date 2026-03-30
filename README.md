@@ -55,6 +55,7 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. TV Show | Learn English quickly with podcast | Episode 48](https://www.youtube.com/watch?v=_-bCy6FuMFI)
 - [x] [<b>2026</b>. Electronics | Learn English quickly with podcast | Episode 47](https://www.youtube.com/watch?v=q29gnnyQLTQ)
 - [x] [<b>2026</b>. School | Learn English quickly with podcast | Episode 42](https://www.youtube.com/watch?v=u5svoPm4ve4)
 - [x] [<b>2026</b>. Drug Store | Learn English quickly with podcast | Episode 41](https://www.youtube.com/watch?v=GN036R7ya8o)
@@ -206,6 +207,7 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. 3I/ATLAS: НЕРАЗГАДАННЫЕ ТАЙНЫ. ПОЧЕМУ УСКОРИЛСЯ, «ВСКИПЕЛ» И ТАКОЙ ТЯЖЁЛЫЙ? Владимир Сурдин](https://www.youtube.com/watch?v=O7R6LqfysWs)
 - [x] [<b>2026</b>. НА ЛУНУ НЕ СЕСТЬ? / РОССИЯ СНОВА В КОСМОСЕ / КЛИМАТ НА МАРСЕ НЕ ИЗМЕНИТЬ. Владимир Сурдин](https://www.youtube.com/watch?v=N6p1T0lisNQ&t=1514s)
 - [x] [<b>2026</b>. ЛУЧШАЯ ЖИЗНЬ - ЧТО ТАКОЕ ЖИЗНЬ ЧЕРНИГОВСКАЯ ТАТЬЯНА](https://www.youtube.com/watch?v=Kk-1PENq3g8)
 - [x] [<b>2026</b>. ПОЧЕМУ ОТЛОЖЕН ПОЛЕТ К ЛУНЕ? / МАРС БЫЛ ОБИТАЕМ? / КАК ИСКАТЬ ОБИТАЕМЫЕ ПЛАНЕТЫ? Владимир Сурдин](https://www.youtube.com/watch?v=0JbG1dk2sNQ)
@@ -366,6 +368,7 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. Почему Корея ПОСЛЕДНЯЯ В МИРЕ по рождаемости, но лидер по долголетию?](https://www.youtube.com/watch?v=xkokfvrcOLo)
 - [x] [<b>2026</b>. Как возник гениальный ЮЖНОкорейский диктатор? | Ланьков](https://www.youtube.com/watch?v=i4DgmdEO3qM)
 - [x] [<b>2026</b>. За два часа до...ЛАНЬКОВ рассказал о "тайной встрече" на корабле: Как устроена Северная Корея](https://www.youtube.com/watch?v=CO-9NnIFFpw)
 - [x] [<b>2026</b>. Where did Koreans and the Korean language REALLY come from?](https://www.youtube.com/watch?v=H2-FVXM40kU)
