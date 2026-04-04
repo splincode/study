@@ -14,6 +14,10 @@
 
 ## 🎭 Театры и концерты
 
+<h6>2026</h6>
+
+- [x] [<b>2026</b>. Myeongdong Nanta](https://www.nanta.co.kr/en/)
+
 <h6>2025</h6>
 
 - [x] [<b>2025</b>. Театр Сатиры. Игроки](https://www.youtube.com/watch?v=TfwfckpZKlo&t=30s)
