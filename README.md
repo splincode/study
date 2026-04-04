@@ -51,6 +51,28 @@
 - [x] [<b>2025</b>. Москино Космос. Падшие ангелы](https://mos-kino.ru/film/padshie_angely/)
 - [x] [<b>2025</b>. Москино Космос. Чунгкингский экспресс](https://mos-kino.ru/film/chungkingskiy_ekspress/)
 
+<h6>2024</h6>
+
+- [x] [<b>2024</b>. Киномакс-Титан Москва. Дюна 2](https://kinomax.ru/titan)
+
+<h6>2023</h6>
+
+- [x] [<b>2023</b>. Каро 11 Октябрь. Воспоминания об убийстве](https://afisha.yandex.ru/moscow/cinema/places/karo-11-oktiabr?place-schedule-preset=today)
+
+<h6>2022</h6>
+
+- [x] [<b>2022</b>. Художественный. Человек-паук: Нет пути домой](https://cinema1909.ru/)
+
+<h6>2020</h6>
+
+- [x] [<b>2020</b>. Каро Sky 17 Авиапарк. Хищные птицы: Потрясающая история Харли Квинн](https://afisha.yandex.ru/moscow/cinema/places/karo-sky-17-aviapark)
+- [x] [<b>2020</b>. Лорд. Звёздные войны: Скайуокер. Восход](https://afisha.yandex.ru/moscow/cinema/places/lord-moskva?place-schedule-preset=today)
+ 
+<h6>2019</h6>
+
+- [x] [<b>2019</b>. Синема Парк Европейский. Люди в чёрном: Интернэшнл](https://afisha.yandex.ru/moscow/cinema/places/cinema-park-evropeyskiy?place-schedule-preset=today)
+
+
 <h2>🧑‍💻 Информатика и технологии</h2>
 
 <h6>2026</h6>
