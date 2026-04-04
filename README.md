@@ -44,6 +44,7 @@
 
 <h6>2025</h6>
 
+- [x] [<b>2025</b>. AMC Empire 25. Lilo & Stitch](https://www.amctheatres.com/movies/lilo-stitch-72470)
 - [x] [<b>2025</b>. Москино Космос. Ран](https://mos-kino.ru/film/ran/)
 - [x] [<b>2025</b>. Москино Космос. Немое кино и оркестр](https://mos-kino.ru/film/programma_nemoe_kino_s_orkestrom/)
 - [x] [<b>2025</b>. Москино Космос. 2046](https://mos-kino.ru/film/2046/)
@@ -57,6 +58,7 @@
 
 <h6>2023</h6>
 
+- [x] [<b>2023</b>. Lotte cinema. Guardians of the Galaxy Vol. 3](https://www.lwt.co.kr/en/entertainment/cinema.do)
 - [x] [<b>2023</b>. Каро 11 Октябрь. Воспоминания об убийстве](https://afisha.yandex.ru/moscow/cinema/places/karo-11-oktiabr?place-schedule-preset=today)
 
 <h6>2022</h6>
