@@ -1,4 +1,33 @@
-# Прочитанные, просмотренные материалы
+###### * История изученных материалов (посещение офлайн + онлайн материалы)
+
+## 📢 Митапы и конференции
+
+<h6>2026</h6>
+
+- [x] [<b>2026</b>. Dream Teamlead](https://dream-teamlead.yandex.ru/)
+- [x] [<b>2026</b>. Лекция «Татьяна Черниговская. Музыка и речь»](https://meloman.ru/concert/kzch-2026-01-14/)
+
+<h6>2025</h6>
+
+- [x] [<b>2025</b>. Владимир Сурдин и Алексей Семихатов. Вселенная за пределами здравого смысла](https://mediomodo.ru/ss-online/vselennaya)
+- [x] [<b>2025</b>. Конференция «Я 💛 Фронтенд 2025»](https://events.yandex.ru/events/ya-love-frontend-2025/)
+
+## 🎭 Театры и концерты
+
+<h6>2025</h6>
+
+- [x] [<b>2025</b>. Театр Сатиры. Игроки](https://www.youtube.com/watch?v=TfwfckpZKlo&t=30s)
+- [x] [<b>2025</b>. Театр им. Пушкина. Человек и джентльмен](https://teatrpushkin.ru/spektakli/detail/chelovek_i%20dzhentlmen/)
+- [x] [<b>2025</b>. Театр Сатирикон. Человек из ресторана](https://www.satirikon.ru/spektakli/repertuar/chelovek-iz-restorana/)
+- [x] [<b>2025</b>. Театр Современник. Интуиция](https://sovremennik.ru/plays/intuitsiya)
+- [x] [<b>2025</b>. Театр Практика. Транссиб](https://praktikatheatre.ru/events/transsib)
+- [x] [<b>2025</b>. Японская сказка. Меч самурая](https://teatrium.ru/repertoire/yaponskaya-skazka-mech-samuraya/)
+
+<h6>2024</h6>
+
+- [x] [<b>2024</b>. Китайская сказка. Волшебная сила](https://afisha.yandex.ru/moscow/musical-play/kitaiskaia-skazka-volshebnaia-sila)
+- [x] [<b>2024</b>. Ничего не бойся, я с тобой](https://afisha.yandex.ru/moscow/musical/nichego-ne-boisia-ia-s-toboi-brodvei-moskva)
+- [x] [<b>2024</b>. Вселенная Ханса Циммера / Hans Zimmer’s Universe](https://afisha.yandex.ru/moscow/concert/vselennaya-hansa-cimmera-hans-zimmer-s-universe?source=artist) 
 
 <h2>🧑‍💻 Информатика и технологии</h2>
 
@@ -55,6 +84,10 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. Medical | Learn English quickly with podcast | Episode 52](https://www.youtube.com/watch?v=j4ujv2L2vVA)
+- [x] [<b>2026</b>. Computers | Learn English quickly with podcast | Episode 51](https://www.youtube.com/watch?v=O3C19S9xo60&t=1260s)
+- [x] [<b>2026</b>. Sport & Game | Learn English quickly with podcast | Episode 50](https://www.youtube.com/watch?v=DLC3DovSo9k)
+- [x] [<b>2026</b>. Emotions | Learn English quickly with podcast | Episode 49](https://www.youtube.com/watch?v=Kz1oO4LJhTw)
 - [x] [<b>2026</b>. TV Show | Learn English quickly with podcast | Episode 48](https://www.youtube.com/watch?v=_-bCy6FuMFI)
 - [x] [<b>2026</b>. Electronics | Learn English quickly with podcast | Episode 47](https://www.youtube.com/watch?v=q29gnnyQLTQ)
 - [x] [<b>2026</b>. School | Learn English quickly with podcast | Episode 42](https://www.youtube.com/watch?v=u5svoPm4ve4)
@@ -78,7 +111,6 @@
 
 <h6>2025</h6>
 
-- [x] [<b>2025</b>. ГДЕ МЫ НАЙДЁМ ВНЕЗЕМНЫЕ ЦИВИЛИЗАЦИИ? Владимир Сурдин](https://www.youtube.com/watch?v=D5NOfM1sE4s&t=1374s)
 - [x] [<b>2025</b>. Would you pay more for 'ethical' coffee? 6 Minute English](https://www.youtube.com/watch?v=AfNSMykrG1I&t=96s)
 - [x] [<b>2025</b>. Can crypto-currencies be trusted? 6 Minute English](https://www.youtube.com/watch?v=0E9KurvLzqE)
 - [x] [<b>2025</b>. Is 'man flu' real? 6 Minute English](https://www.youtube.com/watch?v=lJMPosxMV2M)
@@ -207,6 +239,7 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. ПИСАТЕЛИ-ФАНТАСТЫ ПРЕДВИДЕЛИ БУДУЩЕЕ? Жаринов, Семихатов, Сурдин](https://www.youtube.com/watch?v=zSo2zf52SSE&t=2728s)
 - [x] [<b>2026</b>. 3I/ATLAS: НЕРАЗГАДАННЫЕ ТАЙНЫ. ПОЧЕМУ УСКОРИЛСЯ, «ВСКИПЕЛ» И ТАКОЙ ТЯЖЁЛЫЙ? Владимир Сурдин](https://www.youtube.com/watch?v=O7R6LqfysWs)
 - [x] [<b>2026</b>. НА ЛУНУ НЕ СЕСТЬ? / РОССИЯ СНОВА В КОСМОСЕ / КЛИМАТ НА МАРСЕ НЕ ИЗМЕНИТЬ. Владимир Сурдин](https://www.youtube.com/watch?v=N6p1T0lisNQ&t=1514s)
 - [x] [<b>2026</b>. ЛУЧШАЯ ЖИЗНЬ - ЧТО ТАКОЕ ЖИЗНЬ ЧЕРНИГОВСКАЯ ТАТЬЯНА](https://www.youtube.com/watch?v=Kk-1PENq3g8)
@@ -221,6 +254,7 @@
 - [x] [<b>2026</b>. #1 Атомные дискуссии – Почему мы живы? Уникальная Земля от ядра до ионосферы](https://www.youtube.com/watch?v=ny_l65w-De4)
 - [x] [<b>2026</b>. НЕВИДИМОЕ ВЕЩЕСТВО, ИЗ КОТОРОГО СОСТОИТ ВСЕЛЕННАЯ: ТЁМНАЯ МАТЕРИЯ. Семихатов, Сурдин, Боос](https://www.youtube.com/watch?v=0pD-T6SpGVU)
 - [x] [<b>2026</b>. Мы ЗАСТРЯЛИ в Солнечной системе, и вот почему... | Михаил Никитин, Борис Штерн](https://www.youtube.com/watch?v=naeM8R3Pcrs&t=297s)
+- [x] [<b>2025</b>. ГДЕ МЫ НАЙДЁМ ВНЕЗЕМНЫЕ ЦИВИЛИЗАЦИИ? Владимир Сурдин](https://www.youtube.com/watch?v=D5NOfM1sE4s&t=1374s)
 
 <h6>2025</h6>
 
@@ -340,6 +374,7 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. ДОБИВАТЬСЯ УСПЕХА Хорошо ли работать на стрессе Татьяна Черниговская](https://www.youtube.com/watch?v=igrAKVHZ6RE&t=1002s)
 - [x] [<b>2026</b>. ПРИДУМАЛИ ЭТО РАДИ НАШЕЙ БЕЗОПАСНОСТИ..или? ЧЕРНИГОВСКАЯ ТАТЬЯНА](https://www.youtube.com/watch?v=vzoOqG0iodc&t=803s)
 - [x] [<b>2026</b>. Вперёд, в Средневековье | Диалог Александра Аузана и Евгения Водолазкина о цивилизационных переменах](https://www.youtube.com/watch?v=mKgcozVNvfM)
 - [x] [<b>2026</b>. ENTER 2026 IN AWARENESS CHERNIGOVSKAYA TATYANA](https://www.youtube.com/watch?v=ugSrrRtGzGc)
@@ -406,6 +441,7 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. Зубаревич о рецессии в России: почему беднеют регионы и сжимается бизнес](https://www.youtube.com/watch?v=fMMIVPx0g94)
 - [x] [<b>2026</b>. Дефицит бюджета, релокация госкомпаний и ипотечный ценз: что в итоге с российскими регионами?](https://www.youtube.com/watch?v=-kQFoK2u-ik)
 
 <h6>2025</h6>
@@ -470,27 +506,3 @@
 
 - [x] [<b>2024</b>. Facts about California](https://www.youtube.com/watch?v=_qMLQcWu_84&t=15s&ab_channel=Westermann)
 - [x] [<b>2024</b>. 15 facts about the USA | Englisch-Video für den Unterricht](https://www.youtube.com/watch?v=kaUajqGp1XE&ab_channel=Westermann)
-
-<hr />
-
-## Посещение публичных лекций, офлайн митапов и конференций
-
-<h6>2026</h6>
-
-- [x] [<b>2026</b>. Dream Teamlead](https://dream-teamlead.yandex.ru/)
-- [x] [<b>2026</b>. Лекция «Татьяна Черниговская. Музыка и речь»](https://meloman.ru/concert/kzch-2026-01-14/)
-
-<h6>2025</h6>
-
-- [x] [<b>2025</b>. Владимир Сурдин и Алексей Семихатов. Вселенная за пределами здравого смысла](https://mediomodo.ru/ss-online/vselennaya)
-- [x] [<b>2025</b>. Я люблю Фронтенд](https://events.yandex.ru/events/ya-love-frontend-2025/)
-
-## Театры
-
-<h6>2025</h6>
-
-- [x] [<b>2025</b>. Театр Сатиры. Игроки](https://www.youtube.com/watch?v=TfwfckpZKlo&t=30s)
-- [x] [<b>2025</b>. Театр им. Пушкина. Человек и джентльмен](https://teatrpushkin.ru/spektakli/detail/chelovek_i%20dzhentlmen/)
-- [x] [<b>2025</b>. Театр Сатирикон. Человек из ресторана](https://www.satirikon.ru/spektakli/repertuar/chelovek-iz-restorana/)
-- [x] [<b>2025</b>. Театр Современник. Интуиция](https://sovremennik.ru/plays/intuitsiya)
-- [x] [<b>2025</b>. Театр Практика. Транссиб](https://praktikatheatre.ru/events/transsib)
