@@ -10,6 +10,7 @@
 <h6>2025</h6>
 
 - [x] [<b>2025</b>. Владимир Сурдин и Алексей Семихатов. Вселенная за пределами здравого смысла](https://mediomodo.ru/ss-online/vselennaya)
+- [x] [<b>2025</b>. Файб. Самое странное поколение](https://moscow2030.mos.ru/projects/oblachnie-goroda/)
 - [x] [<b>2025</b>. Конференция «Я 💛 Фронтенд 2025»](https://events.yandex.ru/events/ya-love-frontend-2025/)
 
 ## 🎭 Театры и концерты
