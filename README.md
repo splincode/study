@@ -35,6 +35,22 @@
 - [x] [<b>2024</b>. Кафедральный собор Святых Петра и Павла. Саундтреки на органе](https://afisha.yandex.ru/moscow/concert/saundtreki-na-organe-2024-10?source=place)
 - [x] [<b>2024</b>. Вселенная Ханса Циммера / Hans Zimmer’s Universe](https://afisha.yandex.ru/moscow/concert/vselennaya-hansa-cimmera-hans-zimmer-s-universe?source=artist) 
 
+## 🎥, Кинотеатры
+
+<h6>2026</h6>
+
+- [x] [<b>2026</b>. Каро Sky 17 Авиапарк. Безумное свидание](https://afisha.yandex.ru/moscow/cinema/places/karo-sky-17-aviapark)
+- [x] [<b>2026</b>. Garage Screen. Без лица](https://afisha.yandex.ru/moscow/cinema/places/garage-screen)
+
+<h6>2025</h6>
+
+- [x] [<b>2025</b>. Москино Космос. Ран](https://mos-kino.ru/film/ran/)
+- [x] [<b>2025</b>. Москино Космос. Немое кино и оркестр](https://mos-kino.ru/film/programma_nemoe_kino_s_orkestrom/)
+- [x] [<b>2025</b>. Москино Космос. 2046](https://mos-kino.ru/film/2046/)
+- [x] [<b>2025</b>. Москино Космос. Любовное настроение](https://mos-kino.ru/film/lyubovnoe_nastroenie/)
+- [x] [<b>2025</b>. Москино Космос. Падшие ангелы](https://mos-kino.ru/film/padshie_angely/)
+- [x] [<b>2025</b>. Москино Космос. Чунгкингский экспресс](https://mos-kino.ru/film/chungkingskiy_ekspress/)
+
 <h2>🧑‍💻 Информатика и технологии</h2>
 
 <h6>2026</h6>
