@@ -26,7 +26,9 @@
 <h6>2024</h6>
 
 - [x] [<b>2024</b>. Китайская сказка. Волшебная сила](https://afisha.yandex.ru/moscow/musical-play/kitaiskaia-skazka-volshebnaia-sila)
+- [x] [<b>2024</b>. Зеленый театр ВДНХ Imperialis Orchestra](https://profile.ru/news/culture/imperialis-orchestra-sygraet-mirovye-rok-hity-v-zelenom-teatre-vdnh-a999-1578663/)
 - [x] [<b>2024</b>. Ничего не бойся, я с тобой](https://afisha.yandex.ru/moscow/musical/nichego-ne-boisia-ia-s-toboi-brodvei-moskva)
+- [x] [<b>2024</b>. Кафедральный собор Святых Петра и Павла. Саундтреки на органе](https://afisha.yandex.ru/moscow/concert/saundtreki-na-organe-2024-10?source=place)
 - [x] [<b>2024</b>. Вселенная Ханса Циммера / Hans Zimmer’s Universe](https://afisha.yandex.ru/moscow/concert/vselennaya-hansa-cimmera-hans-zimmer-s-universe?source=artist) 
 
 <h2>🧑‍💻 Информатика и технологии</h2>
