@@ -85,6 +85,7 @@
 
 <h6>2021</h6>
 
+- [x] [<b>2022</b>. Художественный. Мой год в Нью-Йорке](https://cinema1909.ru/)
 - [x] [<b>2022</b>. Художественный. Человек-паук: Нет пути домой](https://cinema1909.ru/)
 
 <h6>2019</h6>
@@ -95,12 +96,15 @@
 
 - [x] [<b>2020</b>. Каро Sky 17 Авиапарк. Хищные птицы: Потрясающая история Харли Квинн](https://afisha.yandex.ru/moscow/cinema/places/karo-sky-17-aviapark)
 - [x] [<b>2020</b>. Лорд. Звёздные войны: Скайуокер. Восход](https://afisha.yandex.ru/moscow/cinema/places/lord-moskva?place-schedule-preset=today)
- 
+
 <h6>2019</h6>
 
 - [x] [<b>2019</b>. Синема Парк Европейский. Люди в чёрном: Интернэшнл](https://afisha.yandex.ru/moscow/cinema/places/cinema-park-evropeyskiy)
 
+<h6>2018</h6>
 
+- [x] [<b>2018</b>. Кинотеатр Формула Кино Сити Молл. Дедпулл 2](https://kinoteatr.ru/raspisanie-kinoteatrov/sankt-peterburg/city--mall/)
+ 
 <h6>2016</h6>
 
 - [x] [<b>2016</b>. Каро Фильм Киргизия. Доктор Стрэндж](https://afisha.yandex.ru/moscow/cinema/places/karo-kirgizia?place-schedule-preset=today)
