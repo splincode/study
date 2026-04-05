@@ -46,9 +46,11 @@
 
 <h6>2025</h6>
 
-- [x] [<b>2025</b>. Кинотеатр Иллюзион. Я слежу за тобой](https://www.afisha.ru/msk/cinema/illyuzion-2692/)
+- [x] [<b>2025</b>. Иллюзион. Я слежу за тобой](https://afisha.yandex.ru/moscow/cinema/places/illiuzion?place-schedule-preset=today)
 - [x] [<b>2025</b>. Синема Парк Европейский. Малышка на драйве](https://afisha.yandex.ru/moscow/cinema/places/cinema-park-evropeyskiy)
 - [x] [<b>2025</b>. Синема Парк Европейский. Инопланетяне](https://afisha.yandex.ru/moscow/cinema/places/cinema-park-evropeyskiy)
+- [x] [<b>2025</b>. Каро Sky 17 Авиапарк. Метод исключения](https://afisha.yandex.ru/moscow/cinema/places/karo-sky-17-aviapark)
+- [x] [<b>2025</b>. Иллюзион. Фантом](https://afisha.yandex.ru/moscow/cinema/places/illiuzion?place-schedule-preset=today)
 - [x] [<b>2025</b>. Центр Зотов. Прогулка](https://garagemca.org/event/film-screening-piter-fm)
 - [x] [<b>2025</b>. Garage Screen. Кинопоказ «Питер FM»](https://garagemca.org/event/film-screening-piter-fm)
 - [x] [<b>2025</b>. AMC Empire 25. Lilo & Stitch](https://www.amctheatres.com/movies/lilo-stitch-72470)
