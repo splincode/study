@@ -76,11 +76,11 @@
 - [x] [<b>2023</b>. Lotte cinema. Guardians of the Galaxy Vol. 3](https://www.lwt.co.kr/en/entertainment/cinema.do)
 - [x] [<b>2023</b>. Каро 11 Октябрь. Воспоминания об убийстве](https://afisha.yandex.ru/moscow/cinema/places/karo-11-oktiabr?place-schedule-preset=today)
 - [x] [<b>2023</b>. Amirani Cinema. Треугольник печали](https://biletebi.ge/en/kinos-biletebi)
+- [x] [<b>2023</b>. Cavea East Point. Аватар 2](https://cavea.ge/)
 
 <h6>2022</h6>
 
 - [x] [<b>2022</b>. Пионер. Возвращение в Сеул](https://afisha.yandex.ru/moscow/cinema/places/pioner-cinema?place-schedule-preset=today)
-- [x] [<b>2022</b>. Magic Cinema. Аватар 2](https://magicinema.com/)
 - [x] [<b>2022</b>. Художественный. Человек-паук: Нет пути домой](https://cinema1909.ru/)
 
 <h6>2021</h6>
