@@ -87,6 +87,9 @@
 
 - [x] [<b>2019</b>. Синема Парк Европейский. Люди в чёрном: Интернэшнл](https://afisha.yandex.ru/moscow/cinema/places/cinema-park-evropeyskiy)
 
+<h6>2016</h6>
+
+- [x] [<b>2016</b>. Каро Фильм Киргизия. Доктор Стрэндж](https://afisha.yandex.ru/moscow/cinema/places/karo-kirgizia?place-schedule-preset=today)
 
 <h2>🧑‍💻 Информатика и технологии</h2>
 
