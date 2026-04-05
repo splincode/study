@@ -58,7 +58,7 @@
 - [x] [<b>2025</b>. Garage Screen. Кинопоказ «Питер FM»](https://garagemca.org/event/film-screening-piter-fm)
 - [x] [<b>2025</b>. AMC Empire 25. Lilo & Stitch](https://www.amctheatres.com/movies/lilo-stitch-72470)
 - [x] [<b>2025</b>. Москино Космос. Ран](https://mos-kino.ru/film/ran/)
-- [x] [<b>2025</b>. Москино Космос. Немое кино и оркестр](https://mos-kino.ru/film/programma_nemoe_kino_s_orkestrom/)
+- [x] [<b>2025</b>. Москино Космос. Немое кино и оркестр. Собачья жизнь](https://mos-kino.ru/film/programma_nemoe_kino_s_orkestrom/)
 - [x] [<b>2025</b>. Москино Космос. Немое кино и оркестр. Полицейские](https://mos-kino.ru/event/artpokaz-nemoe-kino-i-orkestr-politseyskie/)
 - [x] [<b>2025</b>. Москино Космос. 2046](https://mos-kino.ru/film/2046/)
 - [x] [<b>2025</b>. Москино Космос. Любовное настроение](https://mos-kino.ru/film/lyubovnoe_nastroenie/)
@@ -67,16 +67,29 @@
 
 <h6>2024</h6>
 
+- [x] [<b>2024</b>. Художественный. Прошлые жизни](https://cinema1909.ru/)
 - [x] [<b>2024</b>. Киномакс-Титан Москва. Дюна 2](https://kinomax.ru/titan)
 
 <h6>2023</h6>
 
+- [x] [<b>2023</b>. Пионер. Мальчик и птица](https://afisha.yandex.ru/moscow/cinema/places/pioner-cinema?place-schedule-preset=today)
 - [x] [<b>2023</b>. Lotte cinema. Guardians of the Galaxy Vol. 3](https://www.lwt.co.kr/en/entertainment/cinema.do)
 - [x] [<b>2023</b>. Каро 11 Октябрь. Воспоминания об убийстве](https://afisha.yandex.ru/moscow/cinema/places/karo-11-oktiabr?place-schedule-preset=today)
+- [x] [<b>2023</b>. Amirani Cinema. Треугольник печали](https://biletebi.ge/en/kinos-biletebi)
 
 <h6>2022</h6>
 
+- [x] [<b>2022</b>. Пионер. Возвращение в Сеул](https://afisha.yandex.ru/moscow/cinema/places/pioner-cinema?place-schedule-preset=today)
+- [x] [<b>2022</b>. Magic Cinema. Аватар 2](https://magicinema.com/)
 - [x] [<b>2022</b>. Художественный. Человек-паук: Нет пути домой](https://cinema1909.ru/)
+
+<h6>2021</h6>
+
+- [x] [<b>2022</b>. Художественный. Человек-паук: Нет пути домой](https://cinema1909.ru/)
+
+<h6>2019</h6>
+
+- [x] [<b>2019</b>. Кинотеатр Синема Парк Метрополис. Мстители: Финал](https://kinoteatr.ru/raspisanie-kinoteatrov/metropolis/)
 
 <h6>2020</h6>
 
@@ -87,9 +100,19 @@
 
 - [x] [<b>2019</b>. Синема Парк Европейский. Люди в чёрном: Интернэшнл](https://afisha.yandex.ru/moscow/cinema/places/cinema-park-evropeyskiy)
 
+
 <h6>2016</h6>
 
 - [x] [<b>2016</b>. Каро Фильм Киргизия. Доктор Стрэндж](https://afisha.yandex.ru/moscow/cinema/places/karo-kirgizia?place-schedule-preset=today)
+
+
+<h6>2016</h6>
+
+- [x] [<b>2016</b>. Каро Фильм Киргизия. Доктор Стрэндж](https://afisha.yandex.ru/moscow/cinema/places/karo-kirgizia?place-schedule-preset=today)
+
+<h6>2012</h6>
+
+- [x] [<b>2012</b>. Мираж. Метро](https://www.mirage.ru/spb/schedule/)
 
 <h2>🧑‍💻 Информатика и технологии</h2>
 
