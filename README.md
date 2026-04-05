@@ -46,7 +46,10 @@
 
 <h6>2025</h6>
 
+- [x] [<b>2025</b>. Москино Космос. Всеведующий читатель](https://mos-kino.ru/film/vsevedushchiy_chitatel/)
+- [x] [<b>2025</b>. Каро 11 Октябрь. Мститель: Игра на выживание](https://afisha.yandex.ru/moscow/cinema/places/karo-11-oktiabr?place-schedule-preset=today)
 - [x] [<b>2025</b>. Иллюзион. Я слежу за тобой](https://afisha.yandex.ru/moscow/cinema/places/illiuzion?place-schedule-preset=today)
+- [x] [<b>2025</b>. Грязный король](https://www.tretyakovgallery.ru/cinema/o/gryaznyy-korol/)
 - [x] [<b>2025</b>. Синема Парк Европейский. Малышка на драйве](https://afisha.yandex.ru/moscow/cinema/places/cinema-park-evropeyskiy)
 - [x] [<b>2025</b>. Синема Парк Европейский. Инопланетяне](https://afisha.yandex.ru/moscow/cinema/places/cinema-park-evropeyskiy)
 - [x] [<b>2025</b>. Каро Sky 17 Авиапарк. Метод исключения](https://afisha.yandex.ru/moscow/cinema/places/karo-sky-17-aviapark)
