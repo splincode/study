@@ -40,14 +40,21 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. Корейский культурный центр. Как украсть собаку](https://russia.korean-culture.org/)
 - [x] [<b>2026</b>. Каро Sky 17 Авиапарк. Безумное свидание](https://afisha.yandex.ru/moscow/cinema/places/karo-sky-17-aviapark)
 - [x] [<b>2026</b>. Garage Screen. Без лица](https://afisha.yandex.ru/moscow/cinema/places/garage-screen)
 
 <h6>2025</h6>
 
+- [x] [<b>2025</b>. Кинотеатр Иллюзион. Я слежу за тобой](https://www.afisha.ru/msk/cinema/illyuzion-2692/)
+- [x] [<b>2025</b>. Синема Парк Европейский. Малышка на драйве](https://afisha.yandex.ru/moscow/cinema/places/cinema-park-evropeyskiy)
+- [x] [<b>2025</b>. Синема Парк Европейский. Инопланетяне](https://afisha.yandex.ru/moscow/cinema/places/cinema-park-evropeyskiy)
+- [x] [<b>2025</b>. Центр Зотов. Прогулка](https://garagemca.org/event/film-screening-piter-fm)
+- [x] [<b>2025</b>. Garage Screen. Кинопоказ «Питер FM»](https://garagemca.org/event/film-screening-piter-fm)
 - [x] [<b>2025</b>. AMC Empire 25. Lilo & Stitch](https://www.amctheatres.com/movies/lilo-stitch-72470)
 - [x] [<b>2025</b>. Москино Космос. Ран](https://mos-kino.ru/film/ran/)
 - [x] [<b>2025</b>. Москино Космос. Немое кино и оркестр](https://mos-kino.ru/film/programma_nemoe_kino_s_orkestrom/)
+- [x] [<b>2025</b>. Москино Космос. Немое кино и оркестр. Полицейские](https://mos-kino.ru/event/artpokaz-nemoe-kino-i-orkestr-politseyskie/)
 - [x] [<b>2025</b>. Москино Космос. 2046](https://mos-kino.ru/film/2046/)
 - [x] [<b>2025</b>. Москино Космос. Любовное настроение](https://mos-kino.ru/film/lyubovnoe_nastroenie/)
 - [x] [<b>2025</b>. Москино Космос. Падшие ангелы](https://mos-kino.ru/film/padshie_angely/)
@@ -73,7 +80,7 @@
  
 <h6>2019</h6>
 
-- [x] [<b>2019</b>. Синема Парк Европейский. Люди в чёрном: Интернэшнл](https://afisha.yandex.ru/moscow/cinema/places/cinema-park-evropeyskiy?place-schedule-preset=today)
+- [x] [<b>2019</b>. Синема Парк Европейский. Люди в чёрном: Интернэшнл](https://afisha.yandex.ru/moscow/cinema/places/cinema-park-evropeyskiy)
 
 
 <h2>🧑‍💻 Информатика и технологии</h2>
