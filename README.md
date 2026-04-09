@@ -13,6 +13,18 @@
 - [x] [<b>2025</b>. Файб. Самое странное поколение](https://moscow2030.mos.ru/projects/oblachnie-goroda/)
 - [x] [<b>2025</b>. Конференция «Я 💛 Фронтенд 2025»](https://events.yandex.ru/events/ya-love-frontend-2025/)
 
+<h6>2019</h6>
+
+- [x] [<b>2019</b>. Angular meetup #13](https://meetup.tbank.ru/event/angular-meetup-13/)
+
+<h6>2018</h6>
+
+- [x] [<b>2018</b>. Frontendconf](https://frontendconf.ru/moscow/2018/)
+- [x] [<b>2018</b>. РИТ++](https://ritfest.ru/moscow/2018/)
+- [x] [<b>2018</b>. Фестиваль 404 в Самаре](https://it52.info/events/2018-10-06-404)
+- [x] [<b>2018</b>. Web Standards Days в университете ИТМО](https://wsd.events/2018/08/18/)
+- [x] [<b>2018</b>. Angular Moscow meetup](https://habr.com/ru/articles/414731/)
+
 ## 🎭 Театры и концерты
 
 <h6>2026</h6>
