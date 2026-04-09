@@ -21,9 +21,19 @@
 
 - [x] [<b>2018</b>. Frontendconf](https://frontendconf.ru/moscow/2018/)
 - [x] [<b>2018</b>. РИТ++](https://ritfest.ru/moscow/2018/)
+- [x] [<b>2018</b>. SPB Angular Meetup](https://meetup.tbank.ru/event/spb-angular-meetup/)
 - [x] [<b>2018</b>. Фестиваль 404 в Самаре](https://it52.info/events/2018-10-06-404)
+- [x] [<b>2018</b>. SPB Angular Meetup #2](https://meetup.tbank.ru/event/spb-angular-meetup-2/)
 - [x] [<b>2018</b>. Web Standards Days в университете ИТМО](https://wsd.events/2018/08/18/)
-- [x] [<b>2018</b>. Angular Moscow meetup](https://habr.com/ru/articles/414731/)
+- [x] [<b>2018</b>. Angular Moscow meetup в Cinimex](https://habr.com/ru/articles/414731/)
+
+<h6>2017</h6>
+
+- [x] [<b>2017</b>. Angular meetup #2](https://github.com/Semigradsky/fe-events-talks-meetups/blob/master/2017.md#angular-moscow-2---mar-16)
+
+<h6>2016</h6>
+
+- [x] [<b>2016</b>. MoscowJS 33](https://moscowjs.org/events/moscowjs-33/)
 
 ## 🎭 Театры и концерты
 
