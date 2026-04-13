@@ -145,6 +145,7 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. ](https://www.youtube.com/watch?v=ysWVOC-MPBA)
 - [x] [<b>2026</b>. О радости программирования и невесомости достижений](https://habr.com/ru/articles/1007010/)
 - [x] [<b>2026</b>. Как финтех-прокладка Wildberries выдает займы под 85% годовых, маскируясь под «поручителя»](https://habr.com/ru/articles/1000046/)
 - [x] [<b>2026</b>. Меня уволили из-за ИИ, но я всё равно считаю себя инженером будущего](https://habr.com/ru/articles/996744/)
@@ -581,6 +582,7 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. Остров Чеджу - Корейские Гавайи - Prince lemon](https://www.youtube.com/watch?v=g4xXbsPzto0)
 - [x] [<b>2026</b>. Cashless Payment in Korea for Foreigners - WOWPASS 🇰🇷 【Trip57】](https://www.youtube.com/watch?v=iTvfhfEPPME)
 - [x] [<b>2026</b>. Первый раз в Сеуле: все об аэропорте Инчхон](https://www.youtube.com/watch?v=zXZ_bUI8v3E)
 - [x] [<b>2026</b>. Первый раз в Сеуле: как пользоваться общественным транспортом?](https://www.youtube.com/watch?v=BSckgrs3vJk)
