@@ -19,6 +19,7 @@
 
 <h6>2018</h6>
 
+- [x] [<b>2018</b>. Angular meetup #12](https://meetup.tbank.ru/event/12-angular-meetup/)
 - [x] [<b>2018</b>. Frontendconf](https://frontendconf.ru/moscow/2018/)
 - [x] [<b>2018</b>. РИТ++](https://ritfest.ru/moscow/2018/)
 - [x] [<b>2018</b>. SPB Angular Meetup](https://meetup.tbank.ru/event/spb-angular-meetup/)
