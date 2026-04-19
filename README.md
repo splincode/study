@@ -187,6 +187,10 @@
 
 - [x] [<b>2024</b>. Trunk Based Development как замена Git Flow / Владимир Агеев (Тинькофф)](https://www.youtube.com/watch?v=qpGhQXC7ha0&ab_channel=FrontendChannel), [конспект](https://github.com/splincode/study/tree/main/Trunk%20Based%20Development%20%D0%BA%D0%B0%D0%BA%20%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B0%20Git%20Flow%20)
 
+<h6>2020</h6>
+
+- [x] [<b>2020</b>. Кто такой продуктовый дизайнер?](https://github.com/splincode/study/blob/main/%D0%BA%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%D0%B5%D1%80.md)
+
 <h6>2019</h6>
 
 - [x] [<b>2019</b>. Отрисовать за 16 мс / Глеб Михеев (Beta Digital Production)](https://www.youtube.com/watch?v=HlKijvTa_h0&ab_channel=HighLoadChannel)
