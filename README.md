@@ -146,7 +146,8 @@
 
 <h6>2026</h6>
 
-- [x] [<b>2026</b>. ](https://www.youtube.com/watch?v=ysWVOC-MPBA)
+- [x] [<b>2026</b>. 522. Новинки Chrome 147, CSS в Shadow DOM, стейт на CSS-анимациях и фронтенд MDN](https://www.youtube.com/watch?v=ysWVOC-MPBA)
+- [x] [<b>2026</b>. 520. Safari 26.4, Firefox 149, TypeScript 6.0 и миксины в CSS](https://www.youtube.com/watch?v=y1Ic8tAnAH4)
 - [x] [<b>2026</b>. О радости программирования и невесомости достижений](https://habr.com/ru/articles/1007010/)
 - [x] [<b>2026</b>. Как финтех-прокладка Wildberries выдает займы под 85% годовых, маскируясь под «поручителя»](https://habr.com/ru/articles/1000046/)
 - [x] [<b>2026</b>. Меня уволили из-за ИИ, но я всё равно считаю себя инженером будущего](https://habr.com/ru/articles/996744/)
