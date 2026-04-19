@@ -585,6 +585,7 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. КИТАЙ КАК СТРАНА ДЛЯ ПЕРЕЕЗДА: о плохом и о хорошем](https://www.youtube.com/watch?v=-6uRL0JP9iI&t=2s)
 - [x] [<b>2026</b>. Остров Чеджу - Корейские Гавайи - Prince lemon](https://www.youtube.com/watch?v=g4xXbsPzto0)
 - [x] [<b>2026</b>. Cashless Payment in Korea for Foreigners - WOWPASS 🇰🇷 【Trip57】](https://www.youtube.com/watch?v=iTvfhfEPPME)
 - [x] [<b>2026</b>. Первый раз в Сеуле: все об аэропорте Инчхон](https://www.youtube.com/watch?v=zXZ_bUI8v3E)
