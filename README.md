@@ -354,6 +354,7 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. ЛУНА 2026: ЗАЧЕМ СНОВА?](https://www.youtube.com/watch?v=S8Y5ZBkuKLY&t=756s)
 - [x] [<b>2026</b>. Как находят экзопланеты,что можно узнать о них через сотни световых лет? Главные события Вселенной.](https://www.youtube.com/watch?v=RjCD3S1jwwo)
 - [x] [<b>2026</b>. ОБЛЁТ ЛУНЫ комментируют СУРДИН, СЕМИХАТОВ и ГРОМОВ. Стрим ARTEMIDA-2](https://www.youtube.com/watch?v=LKXwNUmmkJU&t=5799s)
 - [x] [<b>2026</b>. ПИСАТЕЛИ-ФАНТАСТЫ ПРЕДВИДЕЛИ БУДУЩЕЕ? Жаринов, Семихатов, Сурдин](https://www.youtube.com/watch?v=zSo2zf52SSE&t=2728s)
