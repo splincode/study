@@ -128,11 +128,12 @@
 <h6>2018</h6>
 
 - [x] [<b>2018</b>. Кинотеатр Формула Кино Сити Молл. Дедпулл 2](https://kinoteatr.ru/raspisanie-kinoteatrov/sankt-peterburg/city--mall/)
+- [x] [<b>2018</b>. Синема Парк Европейский. Хан Соло: Звёздные войны. Истории](https://afisha.yandex.ru/moscow/cinema/places/cinema-park-evropeyskiy)
  
 <h6>2016</h6>
 
+- [x] [<b>2016</b>. Каро Фильм Киргизия. Изгой-один: Звёздные войны. Истории](https://afisha.yandex.ru/moscow/cinema/places/karo-kirgizia?place-schedule-preset=today)
 - [x] [<b>2016</b>. Каро Фильм Киргизия. Доктор Стрэндж](https://afisha.yandex.ru/moscow/cinema/places/karo-kirgizia?place-schedule-preset=today)
-
 
 <h6>2016</h6>
 
