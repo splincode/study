@@ -36,117 +36,11 @@
 
 - [x] [<b>2016</b>. MoscowJS 33](https://moscowjs.org/events/moscowjs-33/)
 
-## 🎭 Театры и концерты
-
-<h6>2026</h6>
-
-- [x] [<b>2026</b>. Myeongdong Nanta](https://www.nanta.co.kr/en/)
-
-<h6>2025</h6>
-
-- [x] [<b>2025</b>. Театр Сатиры. Игроки](https://www.youtube.com/watch?v=TfwfckpZKlo&t=30s)
-- [x] [<b>2025</b>. Театр им. Пушкина. Человек и джентльмен](https://teatrpushkin.ru/spektakli/detail/chelovek_i%20dzhentlmen/)
-- [x] [<b>2025</b>. Театр Сатирикон. Человек из ресторана](https://www.satirikon.ru/spektakli/repertuar/chelovek-iz-restorana/)
-- [x] [<b>2025</b>. Театр Современник. Интуиция](https://sovremennik.ru/plays/intuitsiya)
-- [x] [<b>2025</b>. Театр Практика. Транссиб](https://praktikatheatre.ru/events/transsib)
-- [x] [<b>2025</b>. Японская сказка. Меч самурая](https://teatrium.ru/repertoire/yaponskaya-skazka-mech-samuraya/)
-
-<h6>2024</h6>
-
-- [x] [<b>2024</b>. Китайская сказка. Волшебная сила](https://afisha.yandex.ru/moscow/musical-play/kitaiskaia-skazka-volshebnaia-sila)
-- [x] [<b>2024</b>. Зеленый театр ВДНХ Imperialis Orchestra](https://profile.ru/news/culture/imperialis-orchestra-sygraet-mirovye-rok-hity-v-zelenom-teatre-vdnh-a999-1578663/)
-- [x] [<b>2024</b>. Ничего не бойся, я с тобой](https://afisha.yandex.ru/moscow/musical/nichego-ne-boisia-ia-s-toboi-brodvei-moskva)
-- [x] [<b>2024</b>. Кафедральный собор Святых Петра и Павла. Саундтреки на органе](https://afisha.yandex.ru/moscow/concert/saundtreki-na-organe-2024-10?source=place)
-- [x] [<b>2024</b>. Вселенная Ханса Циммера / Hans Zimmer’s Universe](https://afisha.yandex.ru/moscow/concert/vselennaya-hansa-cimmera-hans-zimmer-s-universe?source=artist) 
-
-## 🎥, Кинотеатры
-
-<h6>2026</h6>
-
-- [x] [<b>2026</b>. Корейский культурный центр. Как украсть собаку](https://russia.korean-culture.org/)
-- [x] [<b>2026</b>. Каро Sky 17 Авиапарк. Безумное свидание](https://afisha.yandex.ru/moscow/cinema/places/karo-sky-17-aviapark)
-- [x] [<b>2026</b>. Garage Screen. Без лица](https://afisha.yandex.ru/moscow/cinema/places/garage-screen)
-
-<h6>2025</h6>
-
-- [x] [<b>2025</b>. Москино Космос. Всеведующий читатель](https://mos-kino.ru/film/vsevedushchiy_chitatel/)
-- [x] [<b>2025</b>. Каро 11 Октябрь. Мститель: Игра на выживание](https://afisha.yandex.ru/moscow/cinema/places/karo-11-oktiabr?place-schedule-preset=today)
-- [x] [<b>2025</b>. Иллюзион. Я слежу за тобой](https://afisha.yandex.ru/moscow/cinema/places/illiuzion?place-schedule-preset=today)
-- [x] [<b>2025</b>. Грязный король](https://www.tretyakovgallery.ru/cinema/o/gryaznyy-korol/)
-- [x] [<b>2025</b>. Синема Парк Европейский. Малышка на драйве](https://afisha.yandex.ru/moscow/cinema/places/cinema-park-evropeyskiy)
-- [x] [<b>2025</b>. Синема Парк Европейский. Инопланетяне](https://afisha.yandex.ru/moscow/cinema/places/cinema-park-evropeyskiy)
-- [x] [<b>2025</b>. Каро Sky 17 Авиапарк. Метод исключения](https://afisha.yandex.ru/moscow/cinema/places/karo-sky-17-aviapark)
-- [x] [<b>2025</b>. Иллюзион. Фантом](https://afisha.yandex.ru/moscow/cinema/places/illiuzion?place-schedule-preset=today)
-- [x] [<b>2025</b>. Центр Зотов. Прогулка](https://garagemca.org/event/film-screening-piter-fm)
-- [x] [<b>2025</b>. Garage Screen. Кинопоказ «Питер FM»](https://garagemca.org/event/film-screening-piter-fm)
-- [x] [<b>2025</b>. AMC Empire 25. Lilo & Stitch](https://www.amctheatres.com/movies/lilo-stitch-72470)
-- [x] [<b>2025</b>. Москино Космос. Ран](https://mos-kino.ru/film/ran/)
-- [x] [<b>2025</b>. Москино Космос. Немое кино и оркестр. Собачья жизнь](https://mos-kino.ru/film/programma_nemoe_kino_s_orkestrom/)
-- [x] [<b>2025</b>. Москино Космос. Немое кино и оркестр. Полицейские](https://mos-kino.ru/event/artpokaz-nemoe-kino-i-orkestr-politseyskie/)
-- [x] [<b>2025</b>. Москино Космос. 2046](https://mos-kino.ru/film/2046/)
-- [x] [<b>2025</b>. Москино Космос. Любовное настроение](https://mos-kino.ru/film/lyubovnoe_nastroenie/)
-- [x] [<b>2025</b>. Москино Космос. Падшие ангелы](https://mos-kino.ru/film/padshie_angely/)
-- [x] [<b>2025</b>. Москино Космос. Чунгкингский экспресс](https://mos-kino.ru/film/chungkingskiy_ekspress/)
-
-<h6>2024</h6>
-
-- [x] [<b>2024</b>. Художественный. Прошлые жизни](https://cinema1909.ru/)
-- [x] [<b>2024</b>. Киномакс-Титан Москва. Дюна 2](https://kinomax.ru/titan)
-
-<h6>2023</h6>
-
-- [x] [<b>2023</b>. Пионер. Мальчик и птица](https://afisha.yandex.ru/moscow/cinema/places/pioner-cinema?place-schedule-preset=today)
-- [x] [<b>2023</b>. Lotte cinema. Guardians of the Galaxy Vol. 3](https://www.lwt.co.kr/en/entertainment/cinema.do)
-- [x] [<b>2023</b>. Каро 11 Октябрь. Воспоминания об убийстве](https://afisha.yandex.ru/moscow/cinema/places/karo-11-oktiabr?place-schedule-preset=today)
-- [x] [<b>2023</b>. Amirani Cinema. Треугольник печали](https://biletebi.ge/en/kinos-biletebi)
-- [x] [<b>2023</b>. Cavea East Point. Аватар 2](https://cavea.ge/)
-
-<h6>2022</h6>
-
-- [x] [<b>2022</b>. Пионер. Возвращение в Сеул](https://afisha.yandex.ru/moscow/cinema/places/pioner-cinema?place-schedule-preset=today)
-- [x] [<b>2022</b>. Художественный. Человек-паук: Нет пути домой](https://cinema1909.ru/)
-
-<h6>2021</h6>
-
-- [x] [<b>2022</b>. Художественный. Дюна](https://cinema1909.ru/)
-- [x] [<b>2022</b>. Художественный. Мой год в Нью-Йорке](https://cinema1909.ru/)
-- [x] [<b>2022</b>. Художественный. Человек-паук: Нет пути домой](https://cinema1909.ru/)
-
-<h6>2019</h6>
-
-- [x] [<b>2019</b>. Кинотеатр Синема Парк Метрополис. Мстители: Финал](https://kinoteatr.ru/raspisanie-kinoteatrov/metropolis/)
-
-<h6>2020</h6>
-
-- [x] [<b>2020</b>. Каро Sky 17 Авиапарк. Хищные птицы: Потрясающая история Харли Квинн](https://afisha.yandex.ru/moscow/cinema/places/karo-sky-17-aviapark)
-- [x] [<b>2020</b>. Лорд. Звёздные войны: Скайуокер. Восход](https://afisha.yandex.ru/moscow/cinema/places/lord-moskva?place-schedule-preset=today)
-
-<h6>2019</h6>
-
-- [x] [<b>2019</b>. Синема Парк Европейский. Люди в чёрном: Интернэшнл](https://afisha.yandex.ru/moscow/cinema/places/cinema-park-evropeyskiy)
-
-<h6>2018</h6>
-
-- [x] [<b>2018</b>. Кинотеатр Формула Кино Сити Молл. Дедпулл 2](https://kinoteatr.ru/raspisanie-kinoteatrov/sankt-peterburg/city--mall/)
-- [x] [<b>2018</b>. Синема Парк Европейский. Хан Соло: Звёздные войны. Истории](https://afisha.yandex.ru/moscow/cinema/places/cinema-park-evropeyskiy)
- 
-<h6>2016</h6>
-
-- [x] [<b>2016</b>. Каро Фильм Киргизия. Изгой-один: Звёздные войны. Истории](https://afisha.yandex.ru/moscow/cinema/places/karo-kirgizia?place-schedule-preset=today)
-- [x] [<b>2016</b>. Каро Фильм Киргизия. Доктор Стрэндж](https://afisha.yandex.ru/moscow/cinema/places/karo-kirgizia?place-schedule-preset=today)
-
-<h6>2016</h6>
-
-- [x] [<b>2016</b>. Каро Фильм Киргизия. Доктор Стрэндж](https://afisha.yandex.ru/moscow/cinema/places/karo-kirgizia?place-schedule-preset=today)
-
-<h6>2012</h6>
-
-- [x] [<b>2012</b>. Мираж. Метро](https://www.mirage.ru/spb/schedule/)
-
 <h2>🧑‍💻 Информатика и технологии</h2>
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. 524. Firefox 150, Git 2.54, параллельные агенты в Zed, бета TypeScript 7.0, картинки и Temporal](https://www.youtube.com/watch?v=JdQV4R0wASw)
 - [x] [<b>2026</b>. 522. Новинки Chrome 147, CSS в Shadow DOM, стейт на CSS-анимациях и фронтенд MDN](https://www.youtube.com/watch?v=ysWVOC-MPBA)
 - [x] [<b>2026</b>. 520. Safari 26.4, Firefox 149, TypeScript 6.0 и миксины в CSS](https://www.youtube.com/watch?v=y1Ic8tAnAH4)
 - [x] [<b>2026</b>. О радости программирования и невесомости достижений](https://habr.com/ru/articles/1007010/)
@@ -638,3 +532,112 @@
 
 - [x] [<b>2024</b>. Facts about California](https://www.youtube.com/watch?v=_qMLQcWu_84&t=15s&ab_channel=Westermann)
 - [x] [<b>2024</b>. 15 facts about the USA | Englisch-Video für den Unterricht](https://www.youtube.com/watch?v=kaUajqGp1XE&ab_channel=Westermann)
+
+
+## 🎭 Театры и концерты
+
+<h6>2026</h6>
+
+- [x] [<b>2026</b>. Myeongdong Nanta](https://www.nanta.co.kr/en/)
+
+<h6>2025</h6>
+
+- [x] [<b>2025</b>. Театр Сатиры. Игроки](https://www.youtube.com/watch?v=TfwfckpZKlo&t=30s)
+- [x] [<b>2025</b>. Театр им. Пушкина. Человек и джентльмен](https://teatrpushkin.ru/spektakli/detail/chelovek_i%20dzhentlmen/)
+- [x] [<b>2025</b>. Театр Сатирикон. Человек из ресторана](https://www.satirikon.ru/spektakli/repertuar/chelovek-iz-restorana/)
+- [x] [<b>2025</b>. Театр Современник. Интуиция](https://sovremennik.ru/plays/intuitsiya)
+- [x] [<b>2025</b>. Театр Практика. Транссиб](https://praktikatheatre.ru/events/transsib)
+- [x] [<b>2025</b>. Японская сказка. Меч самурая](https://teatrium.ru/repertoire/yaponskaya-skazka-mech-samuraya/)
+
+<h6>2024</h6>
+
+- [x] [<b>2024</b>. Китайская сказка. Волшебная сила](https://afisha.yandex.ru/moscow/musical-play/kitaiskaia-skazka-volshebnaia-sila)
+- [x] [<b>2024</b>. Зеленый театр ВДНХ Imperialis Orchestra](https://profile.ru/news/culture/imperialis-orchestra-sygraet-mirovye-rok-hity-v-zelenom-teatre-vdnh-a999-1578663/)
+- [x] [<b>2024</b>. Ничего не бойся, я с тобой](https://afisha.yandex.ru/moscow/musical/nichego-ne-boisia-ia-s-toboi-brodvei-moskva)
+- [x] [<b>2024</b>. Кафедральный собор Святых Петра и Павла. Саундтреки на органе](https://afisha.yandex.ru/moscow/concert/saundtreki-na-organe-2024-10?source=place)
+- [x] [<b>2024</b>. Вселенная Ханса Циммера / Hans Zimmer’s Universe](https://afisha.yandex.ru/moscow/concert/vselennaya-hansa-cimmera-hans-zimmer-s-universe?source=artist) 
+
+## 🎥, Кинотеатры
+
+<h6>2026</h6>
+
+- [x] [<b>2026</b>. Корейский культурный центр. Как украсть собаку](https://russia.korean-culture.org/)
+- [x] [<b>2026</b>. Каро Sky 17 Авиапарк. Безумное свидание](https://afisha.yandex.ru/moscow/cinema/places/karo-sky-17-aviapark)
+- [x] [<b>2026</b>. Garage Screen. Без лица](https://afisha.yandex.ru/moscow/cinema/places/garage-screen)
+
+<h6>2025</h6>
+
+- [x] [<b>2025</b>. Москино Космос. Всеведующий читатель](https://mos-kino.ru/film/vsevedushchiy_chitatel/)
+- [x] [<b>2025</b>. Каро 11 Октябрь. Мститель: Игра на выживание](https://afisha.yandex.ru/moscow/cinema/places/karo-11-oktiabr?place-schedule-preset=today)
+- [x] [<b>2025</b>. Иллюзион. Я слежу за тобой](https://afisha.yandex.ru/moscow/cinema/places/illiuzion?place-schedule-preset=today)
+- [x] [<b>2025</b>. Грязный король](https://www.tretyakovgallery.ru/cinema/o/gryaznyy-korol/)
+- [x] [<b>2025</b>. Синема Парк Европейский. Малышка на драйве](https://afisha.yandex.ru/moscow/cinema/places/cinema-park-evropeyskiy)
+- [x] [<b>2025</b>. Синема Парк Европейский. Инопланетяне](https://afisha.yandex.ru/moscow/cinema/places/cinema-park-evropeyskiy)
+- [x] [<b>2025</b>. Каро Sky 17 Авиапарк. Метод исключения](https://afisha.yandex.ru/moscow/cinema/places/karo-sky-17-aviapark)
+- [x] [<b>2025</b>. Иллюзион. Фантом](https://afisha.yandex.ru/moscow/cinema/places/illiuzion?place-schedule-preset=today)
+- [x] [<b>2025</b>. Центр Зотов. Прогулка](https://garagemca.org/event/film-screening-piter-fm)
+- [x] [<b>2025</b>. Garage Screen. Кинопоказ «Питер FM»](https://garagemca.org/event/film-screening-piter-fm)
+- [x] [<b>2025</b>. AMC Empire 25. Lilo & Stitch](https://www.amctheatres.com/movies/lilo-stitch-72470)
+- [x] [<b>2025</b>. Москино Космос. Ран](https://mos-kino.ru/film/ran/)
+- [x] [<b>2025</b>. Москино Космос. Немое кино и оркестр. Собачья жизнь](https://mos-kino.ru/film/programma_nemoe_kino_s_orkestrom/)
+- [x] [<b>2025</b>. Москино Космос. Немое кино и оркестр. Полицейские](https://mos-kino.ru/event/artpokaz-nemoe-kino-i-orkestr-politseyskie/)
+- [x] [<b>2025</b>. Москино Космос. 2046](https://mos-kino.ru/film/2046/)
+- [x] [<b>2025</b>. Москино Космос. Любовное настроение](https://mos-kino.ru/film/lyubovnoe_nastroenie/)
+- [x] [<b>2025</b>. Москино Космос. Падшие ангелы](https://mos-kino.ru/film/padshie_angely/)
+- [x] [<b>2025</b>. Москино Космос. Чунгкингский экспресс](https://mos-kino.ru/film/chungkingskiy_ekspress/)
+
+<h6>2024</h6>
+
+- [x] [<b>2024</b>. Художественный. Прошлые жизни](https://cinema1909.ru/)
+- [x] [<b>2024</b>. Киномакс-Титан Москва. Дюна 2](https://kinomax.ru/titan)
+
+<h6>2023</h6>
+
+- [x] [<b>2023</b>. Пионер. Мальчик и птица](https://afisha.yandex.ru/moscow/cinema/places/pioner-cinema?place-schedule-preset=today)
+- [x] [<b>2023</b>. Lotte cinema. Guardians of the Galaxy Vol. 3](https://www.lwt.co.kr/en/entertainment/cinema.do)
+- [x] [<b>2023</b>. Каро 11 Октябрь. Воспоминания об убийстве](https://afisha.yandex.ru/moscow/cinema/places/karo-11-oktiabr?place-schedule-preset=today)
+- [x] [<b>2023</b>. Amirani Cinema. Треугольник печали](https://biletebi.ge/en/kinos-biletebi)
+- [x] [<b>2023</b>. Cavea East Point. Аватар 2](https://cavea.ge/)
+
+<h6>2022</h6>
+
+- [x] [<b>2022</b>. Пионер. Возвращение в Сеул](https://afisha.yandex.ru/moscow/cinema/places/pioner-cinema?place-schedule-preset=today)
+- [x] [<b>2022</b>. Художественный. Человек-паук: Нет пути домой](https://cinema1909.ru/)
+
+<h6>2021</h6>
+
+- [x] [<b>2022</b>. Художественный. Дюна](https://cinema1909.ru/)
+- [x] [<b>2022</b>. Художественный. Мой год в Нью-Йорке](https://cinema1909.ru/)
+- [x] [<b>2022</b>. Художественный. Человек-паук: Нет пути домой](https://cinema1909.ru/)
+
+<h6>2019</h6>
+
+- [x] [<b>2019</b>. Кинотеатр Синема Парк Метрополис. Мстители: Финал](https://kinoteatr.ru/raspisanie-kinoteatrov/metropolis/)
+
+<h6>2020</h6>
+
+- [x] [<b>2020</b>. Каро Sky 17 Авиапарк. Хищные птицы: Потрясающая история Харли Квинн](https://afisha.yandex.ru/moscow/cinema/places/karo-sky-17-aviapark)
+- [x] [<b>2020</b>. Лорд. Звёздные войны: Скайуокер. Восход](https://afisha.yandex.ru/moscow/cinema/places/lord-moskva?place-schedule-preset=today)
+
+<h6>2019</h6>
+
+- [x] [<b>2019</b>. Синема Парк Европейский. Люди в чёрном: Интернэшнл](https://afisha.yandex.ru/moscow/cinema/places/cinema-park-evropeyskiy)
+
+<h6>2018</h6>
+
+- [x] [<b>2018</b>. Кинотеатр Формула Кино Сити Молл. Дедпулл 2](https://kinoteatr.ru/raspisanie-kinoteatrov/sankt-peterburg/city--mall/)
+- [x] [<b>2018</b>. Синема Парк Европейский. Хан Соло: Звёздные войны. Истории](https://afisha.yandex.ru/moscow/cinema/places/cinema-park-evropeyskiy)
+ 
+<h6>2016</h6>
+
+- [x] [<b>2016</b>. Каро Фильм Киргизия. Изгой-один: Звёздные войны. Истории](https://afisha.yandex.ru/moscow/cinema/places/karo-kirgizia?place-schedule-preset=today)
+- [x] [<b>2016</b>. Каро Фильм Киргизия. Доктор Стрэндж](https://afisha.yandex.ru/moscow/cinema/places/karo-kirgizia?place-schedule-preset=today)
+
+<h6>2016</h6>
+
+- [x] [<b>2016</b>. Каро Фильм Киргизия. Доктор Стрэндж](https://afisha.yandex.ru/moscow/cinema/places/karo-kirgizia?place-schedule-preset=today)
+
+<h6>2012</h6>
+
+- [x] [<b>2012</b>. Мираж. Метро](https://www.mirage.ru/spb/schedule/)
+
