@@ -38,6 +38,12 @@
 
 <h2>🧑‍💻 Информатика и технологии</h2>
 
+<h6>🤖 AI Skills</h6>
+
+- [x] [<b>2026</b>. Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills)
+- [x] [<b>2026</b>. Angular Skills](https://github.com/angular/skills)
+- [x] [<b>2026</b>. gstack](https://github.com/garrytan/gstack)
+
 <h6>2026</h6>
 
 - [x] [<b>2026</b>. 524. Firefox 150, Git 2.54, параллельные агенты в Zed, бета TypeScript 7.0, картинки и Temporal](https://www.youtube.com/watch?v=JdQV4R0wASw)
