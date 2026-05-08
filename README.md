@@ -570,6 +570,11 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. Иллюзион. Астрал. Кошмар в «Спринг Гарден»](https://afisha.yandex.ru/moscow/cinema/places/illiuzion?place-schedule-preset=today)
+- [x] [<b>2026</b>. Иллюзион. Армия мёртвых в Пусане](https://afisha.yandex.ru/moscow/cinema/places/illiuzion?place-schedule-preset=today)
+- [x] [<b>2026</b>. Иллюзион. Астрал. Мертвое сердце»](https://afisha.yandex.ru/moscow/cinema/places/illiuzion?place-schedule-preset=today)
+- [x] [<b>2026</b>. Иллюзион. Ровно в 4 после полудня](https://afisha.yandex.ru/moscow/cinema/places/illiuzion?place-schedule-preset=today)
+- [x] [<b>2026</b>. Корейский культурный центр. Больше чем семья](https://russia.korean-culture.org/)
 - [x] [<b>2026</b>. Корейский культурный центр. Как украсть собаку](https://russia.korean-culture.org/)
 - [x] [<b>2026</b>. Каро Sky 17 Авиапарк. Безумное свидание](https://afisha.yandex.ru/moscow/cinema/places/karo-sky-17-aviapark)
 - [x] [<b>2026</b>. Garage Screen. Без лица](https://afisha.yandex.ru/moscow/cinema/places/garage-screen)
