@@ -38,14 +38,12 @@
 
 <h2>🧑‍💻 Информатика и технологии</h2>
 
-<h6>🤖 AI Skills</h6>
-
-- [x] [<b>2026</b>. Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills)
-- [x] [<b>2026</b>. Angular Skills](https://github.com/angular/skills)
-- [x] [<b>2026</b>. gstack](https://github.com/garrytan/gstack)
-
 <h6>2026</h6>
 
+- [x] [ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ СТАНЕТ НАСТОЯЩИМ РАЗУМОМ? Семихатов, Сурдин, Крайнов](https://www.youtube.com/watch?v=MiVTZZxp1E0)
+- [x] [<b>2026</b>. Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills)
+- [x] [<b>2026</b>. Angular Skills](https://github.com/angular/skills)
+- [x] [<b>2026</b>. gstack skills](https://github.com/garrytan/gstack)
 - [x] [<b>2026</b>. 524. Firefox 150, Git 2.54, параллельные агенты в Zed, бета TypeScript 7.0, картинки и Temporal](https://www.youtube.com/watch?v=JdQV4R0wASw)
 - [x] [<b>2026</b>. 522. Новинки Chrome 147, CSS в Shadow DOM, стейт на CSS-анимациях и фронтенд MDN](https://www.youtube.com/watch?v=ysWVOC-MPBA)
 - [x] [<b>2026</b>. 520. Safari 26.4, Firefox 149, TypeScript 6.0 и миксины в CSS](https://www.youtube.com/watch?v=y1Ic8tAnAH4)
