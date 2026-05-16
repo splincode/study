@@ -6,6 +6,26 @@ Repository-local instructions, existing code style, framework version, product r
 
 Use these guidelines as defaults for new code and greenfield decisions. When modifying existing code, preserve the surrounding architecture and style unless the task explicitly asks for a refactor.
 
+## Preferred Agent Skills
+
+For Angular, TypeScript, UI-kit, frontend infrastructure, DX, tests, CI, and OSS maintenance, prefer these skills when relevant:
+
+- angular-developer
+- improve-codebase-architecture
+- tdd
+- qa
+- peer-review
+- investigate
+- devex-review
+- ship
+
+For issues, refactoring plans, and release work, prefer these skills when relevant:
+
+- triage-issue
+- to-issues
+- request-refactor-plan
+- document-release
+
 Use modern Angular APIs when the project version supports them: standalone components, signals, built-in control flow, functional inputs/outputs, and lazy-loaded routes. For older projects, follow the existing Angular version and local patterns.
 
 When modifying existing code, make the smallest change that fully solves the problem. Do not refactor unrelated code.
@@ -321,4 +341,3 @@ A strong Angular and TypeScript application should be:
 - Easy to review.
 - Easy to change without fear.
 - Consistent with its existing architecture.
-
