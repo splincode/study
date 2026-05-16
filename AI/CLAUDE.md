@@ -341,3 +341,18 @@ A strong Angular and TypeScript application should be:
 - Easy to review.
 - Easy to change without fear.
 - Consistent with its existing architecture.
+
+## Code Style
+
+- Do not use `for (;;) {` or `while (true)` in this project. Prefer loops with explicit exit conditions.
+- Do not use non-null assertions (`!`) or other assertion-style shortcuts to silence TypeScript. Prefer explicit
+  narrowing, guards, early returns, and type-safe control flow.
+- Never use `any`. This applies even when duck-typing AST nodes or working around `instanceof` failures caused by
+  bundled module copies. Use `unknown` and narrow with `'key' in child` guards, then cast to `Record<'key', unknown>` to
+  access the property safely.
+- Do not create one-line proxy helpers that only forward to another function or method. Inline the call unless the
+  helper adds a real invariant, narrowing, naming value, reuse, or meaningful abstraction.
+- Extract complex boolean conditions out of `if` expressions into named `const` variables. The name must describe
+  **why** the condition is true in domain terms, not **what** it computes. `condition`, `isValid`, `check` are not
+  acceptable — prefer names like `isPortalBoundary`, `hasRequiredFields`, `isNgTemplate`. Inline boolean expressions
+  only when the condition is a single, self-explanatory comparison.
