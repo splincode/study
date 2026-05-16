@@ -40,7 +40,8 @@
 
 <h6>2026</h6>
 
-- [x] [ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ СТАНЕТ НАСТОЯЩИМ РАЗУМОМ? Семихатов, Сурдин, Крайнов](https://www.youtube.com/watch?v=MiVTZZxp1E0)
+- [x] [<b>2026</b>. 526. Chrome 148, Blink для Apple tvOS, Node.js 26, No-Vary-Search и Local-first](https://www.youtube.com/watch?v=L-D7uCVkJHM&t=563s)
+- [x] [<b>2026</b>. ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ СТАНЕТ НАСТОЯЩИМ РАЗУМОМ? Семихатов, Сурдин, Крайнов](https://www.youtube.com/watch?v=MiVTZZxp1E0)
 - [x] [<b>2026</b>. Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills)
 - [x] [<b>2026</b>. Angular Skills](https://github.com/angular/skills)
 - [x] [<b>2026</b>. gstack skills](https://github.com/garrytan/gstack)
@@ -257,6 +258,7 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. ЛЮДИ ВЕРНУТСЯ НА ЛУНУ? ТРУДНОСТИ И ПРОБЛЕМЫ. Владимир Сурдин и Александр Хохлов](https://www.youtube.com/watch?v=PHCcH0JwxAU&t=2s)
 - [x] [<b>2026</b>. Звездные войны: противостояние США и Китая, базы на Луне, люди на Марсе / Сурдин](https://www.youtube.com/watch?v=G388DSQfYCk&t=418s)
 - [x] [<b>2026</b>. САМЫЕ НЕВЕРОЯТНЫЕ ПЛАНЕТЫ: ОНИ НЕВОЗМОЖНЫ, НО СУЩЕСТВУЮТ. Владимир Сурдин](https://www.youtube.com/watch?v=ifGe0QlI6kY&t=1105s)
 - [x] [<b>2026</b>. ЖИЗНЬ НА ЗЕМЛЕ ПОЯВИЛАСЬ ИЗ КОСМОСА? / НАЙДЕНА КОПИЯ СОЛНЕЧНОЙ СИСТЕМЫ. Владимир Сурдин](https://www.youtube.com/watch?v=ISZaEb5Xd34)
@@ -427,6 +429,7 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. Почему ТВ в КНДР абсолютно НЕ ТАКОЕ, как вы думаете?](https://www.youtube.com/watch?v=U_a6qT38QSQ)
 - [x] [<b>2026</b>. Как 1000 лет назад была устроена АЗИАТСКАЯ СИСТЕМА ВЛАСТИ?](https://www.youtube.com/watch?v=SYO6_RU_YWg)
 - [x] [<b>2026</b>. Блокировки интернета: Россия похожа на КНДР? Военное сотрудничество Москвы и Пхеньяна: реакция Сеула](https://www.youtube.com/watch?v=lXMbv3iGMBE)
 - [x] [<b>2026</b>. Как Китай ВСЕГО ЗА 40 ЛЕТ выбрался из нищеты?](https://www.youtube.com/watch?v=ISZaEb5Xd34)
@@ -470,6 +473,7 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. Почему выживают не самые умные, а самые адаптивные? Михаил Никитин](https://www.youtube.com/watch?v=MMbgP7Z0cSE)
 - [x] [<b>2026</b>. Миграция, безработица и новая реальность. Интервью с Натальей Зубаревич. Третьим Будешь?](https://www.youtube.com/watch?v=dQsE6fxfFS4)
 - [x] [<b>2026</b>. Зубаревич о рецессии в России: почему беднеют регионы и сжимается бизнес](https://www.youtube.com/watch?v=fMMIVPx0g94)
 - [x] [<b>2026</b>. Дефицит бюджета, релокация госкомпаний и ипотечный ценз: что в итоге с российскими регионами?](https://www.youtube.com/watch?v=-kQFoK2u-ik)
@@ -495,6 +499,7 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. [🔴특별생방송] 2026 연등회 LIVE | 부처님 오신 날 연등행렬 & 대동한마당 #연등회 #부처님오신날](https://www.youtube.com/watch?v=9mUoSgjMVj8)
 - [x] [<b>2026</b>. Мы сдаемся 🚨🚨5 причин 🚨 почему мы покидаем Китай 🚧🇨🇳 #китай](https://www.youtube.com/watch?v=-9FFMhPRasQ&t=1207s)
 - [x] [<b>2026</b>. КИТАЙ КАК СТРАНА ДЛЯ ПЕРЕЕЗДА: о плохом и о хорошем](https://www.youtube.com/watch?v=-6uRL0JP9iI&t=2s)
 - [x] [<b>2026</b>. Остров Чеджу - Корейские Гавайи - Prince lemon](https://www.youtube.com/watch?v=g4xXbsPzto0)
