@@ -40,6 +40,7 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. 529. Линейки в гэпах, короткие или полные свойства, нормальный line-clamp и потерянное десятилетие](https://www.youtube.com/watch?v=XTkKdUCntRM&t=2706s)
 - [x] [<b>2026</b>. 526. Chrome 148, Blink для Apple tvOS, Node.js 26, No-Vary-Search и Local-first](https://www.youtube.com/watch?v=L-D7uCVkJHM&t=563s)
 - [x] [<b>2026</b>. ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ СТАНЕТ НАСТОЯЩИМ РАЗУМОМ? Семихатов, Сурдин, Крайнов](https://www.youtube.com/watch?v=MiVTZZxp1E0)
 - [x] [<b>2026</b>. Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills)
