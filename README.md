@@ -40,6 +40,7 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. Элитный вайбкодинг: ответы на вопросы](https://www.youtube.com/watch?v=j8aBuKrOPoM)
 - [x] [<b>2026</b>. После 35 в IT не берут](https://habr.com/ru/articles/1046305/)
 - [x] [<b>2026</b>. 529. Линейки в гэпах, короткие или полные свойства, нормальный line-clamp и потерянное десятилетие](https://www.youtube.com/watch?v=XTkKdUCntRM&t=2706s)
 - [x] [<b>2026</b>. 526. Chrome 148, Blink для Apple tvOS, Node.js 26, No-Vary-Search и Local-first](https://www.youtube.com/watch?v=L-D7uCVkJHM&t=563s)
@@ -478,6 +479,7 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. Крах экономики и рост налогов: кто заплатит за военные расходы? / Вьюгин](https://www.youtube.com/watch?v=-NaYFEPyxM8)
 - [x] [<b>2026</b>. Четыре России. Наталья Зубаревич о силе России и её главной боли](https://www.youtube.com/watch?v=1EYloewK-LY&t=6s)
 - [x] [<b>2026</b>. Почему выживают не самые умные, а самые адаптивные? Михаил Никитин](https://www.youtube.com/watch?v=MMbgP7Z0cSE)
 - [x] [<b>2026</b>. Миграция, безработица и новая реальность. Интервью с Натальей Зубаревич. Третьим Будешь?](https://www.youtube.com/watch?v=dQsE6fxfFS4)
