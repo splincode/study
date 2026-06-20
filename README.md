@@ -40,6 +40,13 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. КАК СТАТЬ ПРОГРАММИСТОМ С НУЛЯ: шаги для успешного старта в IT](http://youtube.com/watch?v=wepjzMTDA0Q&list=PLpA1DBdjcsLQkhovexPwigg2bhaMyA3sb)
+- [x] [<b>2026</b>. Технические вопросы к джуну на собеседовании фронтенд-разработчика | Хекслет](https://www.youtube.com/watch?v=A2O_x6kG35c)
+- [x] [<b>2026</b>. SOLID за 2 минуты](https://www.youtube.com/watch?v=dsPsUPque1Q)
+- [x] [<b>2026</b>. Главные принципы чистого кода которые должен знать каждый программист](https://www.youtube.com/watch?v=qNhq71TvVI8)
+- [x] [<b>2026</b>. SOLID за 2 минуты](https://www.youtube.com/watch?v=dsPsUPque1Q)
+- [x] [<b>2026</b>. RxJS: switchMap, concatMap, mergeMap, exhaustMap - как работают? Простое объяснение, РЕАЛЬНЫЙ ПРИМЕР](https://www.youtube.com/watch?v=O8Pr47VyfDQ)
+- [x] [<b>2026</b>. mock-собеседование. middle. angular.](https://www.youtube.com/watch?v=ux74CUKCcGU)
 - [x] [<b>2026</b>. Элитный вайбкодинг: ответы на вопросы](https://www.youtube.com/watch?v=j8aBuKrOPoM)
 - [x] [<b>2026</b>. После 35 в IT не берут](https://habr.com/ru/articles/1046305/)
 - [x] [<b>2026</b>. 529. Линейки в гэпах, короткие или полные свойства, нормальный line-clamp и потерянное десятилетие](https://www.youtube.com/watch?v=XTkKdUCntRM&t=2706s)
