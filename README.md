@@ -40,6 +40,9 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. How To Become a Google Developer Expert (2025)](https://www.youtube.com/watch?v=eHQ19Ln2bHM&t=145s)
+- [x] [<b>2026</b>. Как ИИ меняет разработку в 2026: главные инсайды с крупнейших IT-конференций / Кирилл Мокевнин](https://www.youtube.com/watch?v=6w6NstwWb1Y&t=1703s)
+- [x] [<b>2026</b>. 534. Новинки Chrome 150, элемент usermedia, подписка на Baseline, Safari MCP, Figma Config 2026](https://www.youtube.com/watch?v=GCmKdGRUQgI&t=4044s)
 - [x] [<b>2026</b>. КАК СТАТЬ ПРОГРАММИСТОМ С НУЛЯ: шаги для успешного старта в IT](http://youtube.com/watch?v=wepjzMTDA0Q&list=PLpA1DBdjcsLQkhovexPwigg2bhaMyA3sb)
 - [x] [<b>2026</b>. Технические вопросы к джуну на собеседовании фронтенд-разработчика | Хекслет](https://www.youtube.com/watch?v=A2O_x6kG35c)
 - [x] [<b>2026</b>. SOLID за 2 минуты](https://www.youtube.com/watch?v=dsPsUPque1Q)
