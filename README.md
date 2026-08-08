@@ -4,6 +4,7 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. ИТ-Пикник 2026](https://it-picnic.ru/)
 - [x] [<b>2026</b>. Dream Teamlead](https://dream-teamlead.yandex.ru/)
 - [x] [<b>2026</b>. Лекция «Татьяна Черниговская. Музыка и речь»](https://meloman.ru/concert/kzch-2026-01-14/)
 
@@ -11,7 +12,12 @@
 
 - [x] [<b>2025</b>. Владимир Сурдин и Алексей Семихатов. Вселенная за пределами здравого смысла](https://mediomodo.ru/ss-online/vselennaya)
 - [x] [<b>2025</b>. Файб. Самое странное поколение](https://moscow2030.mos.ru/projects/oblachnie-goroda/)
+- [x] [<b>2025</b>. ИТ-Пикник 2025](https://it-picnic.ru/2025/)
 - [x] [<b>2025</b>. Конференция «Я 💛 Фронтенд 2025»](https://events.yandex.ru/events/ya-love-frontend-2025/)
+
+<h6>2024</h6>
+
+- [x] [<b>2024</b>. ИТ-Пикник 2024](https://www.tbank.ru/about/news/08072024-it-picnic-2024-revealed-festival-program-except-secret-headliner/)
 
 <h6>2019</h6>
 
@@ -116,6 +122,11 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. Learn English Fast with the English Learning Podcast Episode 6](https://www.youtube.com/watch?v=MsDRS03JPH0)
+- [x] [<b>2026</b>. Learn English Fast with the English Learning Podcast Episode 5](https://www.youtube.com/watch?v=ZUnYpQ2vlgI)
+- [x] [<b>2026</b>. Learn English Fast with the English Learning Podcast Episode 4](https://www.youtube.com/watch?v=c283ZKmsONk)
+- [x] [<b>2026</b>. Learn English Fast with the English Learning Podcast Episode 3](https://www.youtube.com/watch?v=oTteCRWWtLM)
+- [x] [<b>2026</b>. Learn English Fast with the English Learning Podcast Episode 2](https://www.youtube.com/watch?v=5SRrS16vkwQ&t=2s)
 - [x] [<b>2026</b>. Medical | Learn English quickly with podcast | Episode 52](https://www.youtube.com/watch?v=j4ujv2L2vVA)
 - [x] [<b>2026</b>. Computers | Learn English quickly with podcast | Episode 51](https://www.youtube.com/watch?v=O3C19S9xo60&t=1260s)
 - [x] [<b>2026</b>. Sport & Game | Learn English quickly with podcast | Episode 50](https://www.youtube.com/watch?v=DLC3DovSo9k)
