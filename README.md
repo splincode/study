@@ -600,7 +600,7 @@
 - [x] [<b>2024</b>. Кафедральный собор Святых Петра и Павла. Саундтреки на органе](https://afisha.yandex.ru/moscow/concert/saundtreki-na-organe-2024-10?source=place)
 - [x] [<b>2024</b>. Вселенная Ханса Циммера / Hans Zimmer’s Universe](https://afisha.yandex.ru/moscow/concert/vselennaya-hansa-cimmera-hans-zimmer-s-universe?source=artist) 
 
-## 🎥, Кинотеатры
+## 🎥 Походы в Кино
 
 <h6>2026</h6>
 
