@@ -122,6 +122,9 @@
 
 <h6>2026</h6>
 
+- [2026. English File Fourth Edition Elementary (A1/A2). 1.1 — introduction](./english/README.md#11--introduction)
+- [2026. English File Fourth Edition Elementary (A1/A2). 1.2 — questions with `to be`](./english/README.md#12--questions-with-to-be)
+- [2026. English File Fourth Edition Elementary (A1/A2). 1.3 — `he / she / they`, negatives](./english/README.md#13--he--she--they-negatives)
 - [x] [<b>2026</b>. Learn English Fast with the English Learning Podcast Episode 6](https://www.youtube.com/watch?v=MsDRS03JPH0)
 - [x] [<b>2026</b>. Learn English Fast with the English Learning Podcast Episode 5](https://www.youtube.com/watch?v=ZUnYpQ2vlgI)
 - [x] [<b>2026</b>. Learn English Fast with the English Learning Podcast Episode 4](https://www.youtube.com/watch?v=c283ZKmsONk)
