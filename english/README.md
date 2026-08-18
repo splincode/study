@@ -9,8 +9,8 @@
 ## Статус
 
 - Текущий File: **1**
-- Пройдено: **3 урока**
-- Следующий урок: **1.4 — countries, days and numbers**
+- Пройдено: **4 урока**
+- Следующий урок: **1.5 — possessives: `my`, `your`, `his`, `her`**
 
 Обозначения:
 
@@ -25,7 +25,7 @@
 - [x] **1.1** `I am`, `you are` — знакомство и рассказ о себе
 - [x] **1.2** `Are you ...?` — вопросы и короткие ответы `Yes, I am / No, I'm not`
 - [x] **1.3** `he / she / it / we / they` + `is / are`, отрицания `isn't / aren't`
-- [ ] **1.4** страны, дни недели и числа 0–100
+- [x] **1.4** страны, дни недели и числа 0–100
 - [ ] **1.5** притяжательные слова: `my`, `your`, `his`, `her`
 - [ ] **1.6** алфавит, spelling, email и базовый classroom English
 - [ ] **Practical English 1** знакомство и заселение в отель
@@ -40,7 +40,7 @@
 - [ ] Задать вопросы новому знакомому
 - [ ] Рассказать о другом человеке через `he / she / they`
 - [ ] Использовать `isn't / aren't` без подсказки
-- [ ] Назвать и понять числа, дни недели и страны
+- [x] Назвать и понять числа, дни недели и страны
 
 ---
 
@@ -270,8 +270,27 @@
 - `energy` — существительное
 - `energetic` — прилагательное
 
+#### 1.4 — countries, days and numbers
+
+Практика:
+
+- `I am from Russia. Where are you from?`
+- `Are they from Spain?`
+- `Is she Italian?`
+- `Today is Friday, and tomorrow is Saturday.`
+- `sixty-seven`, `eighty-four`, `one hundred`
+
+Исправлено:
+
+- `She is from Italy?` → `Is she from Italy?`
+- `threeteen` → `thirteen`
+- `fourty` → `forty`
+- `italian` → `Italian` — страны, национальности и дни недели пишутся с большой буквы
+
+Итоговый мини-тест: **9/10** — единственная ошибка была в заглавной букве в `Italian`.
+
 ### Next
 
-➡️ **1.4 — countries, days of the week and numbers 0–100**
+➡️ **1.5 — possessives: `my`, `your`, `his`, `her`**
 
 После каждого занятия обновляем этот файл: закрываем чекбокс, добавляем 2–5 примеров, фиксируем полезные исправления и прикрепляем подходящую практику с Test-English.
