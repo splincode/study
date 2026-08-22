@@ -9,8 +9,8 @@
 ## Статус
 
 - Текущий File: **1**
-- Пройдено: **4 урока**
-- Следующий урок: **1.5 — possessives: `my`, `your`, `his`, `her`**
+- Пройдено: **5 уроков**
+- Следующий урок: **1.6 — alphabet, spelling, email and basic classroom English**
 
 Обозначения:
 
@@ -26,7 +26,7 @@
 - [x] **1.2** `Are you ...?` — вопросы и короткие ответы `Yes, I am / No, I'm not`
 - [x] **1.3** `he / she / it / we / they` + `is / are`, отрицания `isn't / aren't`
 - [x] **1.4** страны, дни недели и числа 0–100
-- [ ] **1.5** притяжательные слова: `my`, `your`, `his`, `her`
+- [x] **1.5** притяжательные слова: `my`, `your`, `his`, `her`
 - [ ] **1.6** алфавит, spelling, email и базовый classroom English
 - [ ] **Practical English 1** знакомство и заселение в отель
 
@@ -289,8 +289,26 @@
 
 Итоговый мини-тест: **9/10** — единственная ошибка была в заглавной букве в `Italian`.
 
+#### 1.5 — possessives: `my`, `your`, `his`, `her`
+
+Практика:
+
+- `This is my girlfriend. Her name is Anna.`
+- `This is my brother. His name is Alex.`
+- `What is your name?`
+- `I'm Maksim. This is my sister. Her name is Maria.`
+- `This is Anna. Her brother is Max.`
+
+Исправлено:
+
+- `Anna is my friend and Alex her brother.` → `Anna is my friend, and Alex is her brother.`
+- `I am Max. His name is Max.` → `I am Max. My name is Max.`
+- `What is his name?` → `What is your name?` — когда спрашиваем имя собеседника
+
+Итоговый мини-тест: **4/4**.
+
 ### Next
 
-➡️ **1.5 — possessives: `my`, `your`, `his`, `her`**
+➡️ **1.6 — alphabet, spelling, email and basic classroom English**
 
 После каждого занятия обновляем этот файл: закрываем чекбокс, добавляем 2–5 примеров, фиксируем полезные исправления и прикрепляем подходящую практику с Test-English.
