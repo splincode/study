@@ -1,0 +1,48 @@
+name: Patch English README links
+
+on:
+  push:
+    paths:
+      - '.github/workflows/patch-english-readme.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Reorder English lesson links
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path('README.md')
+          lines = path.read_text().splitlines()
+          marker = 'English File Fourth Edition Elementary (A1/A2). 1.'
+          indices = [i for i, line in enumerate(lines) if marker in line]
+          if not indices:
+              raise SystemExit('English File lesson links not found')
+
+          first, last = min(indices), max(indices)
+          block = [
+              '- [x] [<b>2026</b>. English File Fourth Edition Elementary (A1/A2). 1.5 — possessives: `my`, `your`, `his`, `her`](https://github.com/splincode/study/blob/main/english/README.md#15--possessives-my-your-his-her)',
+              '- [x] [<b>2026</b>. English File Fourth Edition Elementary (A1/A2). 1.4 — countries, days and numbers](https://github.com/splincode/study/blob/main/english/README.md#14--countries-days-and-numbers)',
+              '- [x] [<b>2026</b>. English File Fourth Edition Elementary (A1/A2). 1.3 — `he / she / they`, negatives](https://github.com/splincode/study/blob/main/english/README.md#13--he--she--they-negatives)',
+              '- [x] [<b>2026</b>. English File Fourth Edition Elementary (A1/A2). 1.2 — questions with `to be`](https://github.com/splincode/study/blob/main/english/README.md#12--questions-with-to-be)',
+              '- [x] [<b>2026</b>. English File Fourth Edition Elementary (A1/A2). 1.1 — introduction](https://github.com/splincode/study/blob/main/english/README.md#11--introduction)',
+          ]
+          lines[first:last + 1] = block
+          path.write_text('\n'.join(lines) + '\n')
+          PY
+      - name: Commit README
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add README.md
+          git diff --cached --quiet && exit 0
+          git commit -m "Fix English lesson order in README"
+          git push origin main
