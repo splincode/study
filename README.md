@@ -123,6 +123,7 @@
 
 <h6>2026</h6>
 
+- [x] [<b>2026</b>. English File Fourth Edition Elementary (A1/A2). 1.6 — alphabet, spelling, email and basic classroom English](https://github.com/splincode/study/blob/main/english/README.md#16--alphabet-spelling-email-and-basic-classroom-english)
 - [x] [<b>2026</b>. English File Fourth Edition Elementary (A1/A2). 1.5 — possessives: `my`, `your`, `his`, `her`](https://github.com/splincode/study/blob/main/english/README.md#15--possessives-my-your-his-her)
 - [x] [<b>2026</b>. English File Fourth Edition Elementary (A1/A2). 1.4 — countries, days and numbers](https://github.com/splincode/study/blob/main/english/README.md#14--countries-days-and-numbers)
 - [x] [<b>2026</b>. English File Fourth Edition Elementary (A1/A2). 1.3 — `he / she / they`, negatives](https://github.com/splincode/study/blob/main/english/README.md#13--he--she--they-negatives)
