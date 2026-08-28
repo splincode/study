@@ -9,8 +9,8 @@
 ## Статус
 
 - Текущий File: **1**
-- Пройдено: **5 уроков**
-- Следующий урок: **1.6 — alphabet, spelling, email and basic classroom English**
+- Пройдено: **6 уроков**
+- Следующий урок: **Practical English 1 — знакомство и заселение в отель**
 
 Обозначения:
 
@@ -27,7 +27,7 @@
 - [x] **1.3** `he / she / it / we / they` + `is / are`, отрицания `isn't / aren't`
 - [x] **1.4** страны, дни недели и числа 0–100
 - [x] **1.5** притяжательные слова: `my`, `your`, `his`, `her`
-- [ ] **1.6** алфавит, spelling, email и базовый classroom English
+- [x] **1.6** алфавит, spelling, email и базовый classroom English
 - [ ] **Practical English 1** знакомство и заселение в отель
 
 ### Extra practice for 1.1–1.3
@@ -307,8 +307,26 @@
 
 Итоговый мини-тест: **4/4**.
 
+#### 1.6 — alphabet, spelling, email and basic classroom English
+
+Практика:
+
+- `My first name is Maksim. M-A-K-S-I-M.`
+- `My last name is Ivanov. I-V-A-N-O-V.`
+- `My email address is max at example dot com.`
+- `My phone number is plus seven nine zero five one two zero.`
+- `Sure.` / `Of course.`
+
+Исправлено:
+
+- `My emails is ...` → `My email is ...`
+- `My name is I-V-A-N-O-V.` → `My last name is Ivanov. I-V-A-N-O-V.`
+- `Sure, of course.` → естественнее выбрать одно: `Sure.` или `Of course.`
+
+Итоговый мини-тест: **5/5**.
+
 ### Next
 
-➡️ **1.6 — alphabet, spelling, email and basic classroom English**
+➡️ **Practical English 1 — знакомство и заселение в отель**
 
 После каждого занятия обновляем этот файл: закрываем чекбокс, добавляем 2–5 примеров, фиксируем полезные исправления и прикрепляем подходящую практику с Test-English.
