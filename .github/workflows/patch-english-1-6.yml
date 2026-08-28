@@ -1,0 +1,46 @@
+name: Patch English 1.6 tracker
+
+on:
+  push:
+    branches:
+      - english/complete-1.6
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: english/complete-1.6
+
+      - name: Add lesson 1.6 to root README
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path('README.md')
+          text = path.read_text()
+          marker = '- [x] [<b>2026</b>. English File Fourth Edition Elementary (A1/A2). 1.5 — possessives: `my`, `your`, `his`, `her`](https://github.com/splincode/study/blob/main/english/README.md#15--possessives-my-your-his-her)'
+          line = '- [x] [<b>2026</b>. English File Fourth Edition Elementary (A1/A2). 1.6 — alphabet, spelling, email and basic classroom English](https://github.com/splincode/study/blob/main/english/README.md#16--alphabet-spelling-email-and-basic-classroom-english)'
+
+          if line not in text:
+              if marker not in text:
+                  raise SystemExit('1.5 marker not found')
+              text = text.replace(marker, f'{line}\n{marker}', 1)
+              path.write_text(text)
+          PY
+
+      - name: Commit change
+        run: |
+          if git diff --quiet README.md; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'docs: add English lesson 1.6 to root tracker'
+          git push
